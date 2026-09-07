@@ -1,0 +1,2001 @@
+case_id,state,district,land_type,acquisition_stage,case_age_days,days_in_stage,number_of_landowners,litigation_present,number_of_objections,compensation_delay_days,previous_stage_delay_days,historical_delay_rate,land_area_hectares,final_additional_delay_days
+LA00001,Rajasthan,Udaipur,Residential,Possession,269,75,60,1,15,15,23,0.36,2.82,232
+LA00002,Madhya Pradesh,Bhopal,Agricultural,Objection,244,135,34,0,11,6,78,0.02,16.01,221
+LA00003,Uttar Pradesh,Agra,Industrial,Possession,64,20,3,0,3,1,13,0.156,2.27,71
+LA00004,Maharashtra,Nashik,Agricultural,Compensation,85,85,54,0,8,52,46,0.328,3.34,253
+LA00005,Maharashtra,Aurangabad,Agricultural,Notification,310,95,58,0,16,21,52,0.374,24.43,224
+LA00006,Punjab,Ludhiana,Agricultural,Possession,298,110,17,0,5,7,64,0.205,2.2,150
+LA00007,Rajasthan,Jodhpur,Agricultural,Compensation,291,38,25,0,4,118,56,0.191,5.8,185
+LA00008,Madhya Pradesh,Bhopal,Agricultural,Notification,103,98,2,0,1,20,79,0.068,78.36,89
+LA00009,Gujarat,Rajkot,Agricultural,Notification,270,5,49,0,6,29,53,0.246,20.61,144
+LA00010,Rajasthan,Kota,Residential,Compensation,58,58,47,0,7,67,68,0.222,3.54,223
+LA00011,Uttar Pradesh,Agra,Agricultural,Notification,97,97,2,0,3,17,25,0.061,4.2,121
+LA00012,Punjab,Amritsar,Agricultural,Objection,264,84,43,0,6,25,33,0.098,6.23,179
+LA00013,Madhya Pradesh,Bhopal,Industrial,Notification,320,152,25,1,11,2,59,0.192,27.44,219
+LA00014,Madhya Pradesh,Jabalpur,Agricultural,Objection,338,147,33,0,4,30,70,0.19,2.71,199
+LA00015,Madhya Pradesh,Gwalior,Residential,Objection,492,25,14,1,7,14,0,0.064,2.55,116
+LA00016,Madhya Pradesh,Indore,Agricultural,Compensation,432,14,49,1,9,114,35,0.209,15.08,239
+LA00017,Uttar Pradesh,Agra,Agricultural,Objection,208,49,25,0,5,19,64,0.151,1.38,173
+LA00018,Rajasthan,Kota,Agricultural,Notification,398,5,51,0,6,28,9,0.26,2.97,168
+LA00019,Punjab,Patiala,Agricultural,Compensation,75,75,9,0,1,25,28,0.088,6.79,107
+LA00020,Maharashtra,Nashik,Residential,Objection,433,97,36,0,10,24,44,0.036,7.14,184
+LA00021,Uttar Pradesh,Agra,Agricultural,Compensation,212,99,19,0,2,19,6,0.275,1.89,173
+LA00022,Maharashtra,Nagpur,Agricultural,Notification,387,17,58,1,3,4,74,0.274,10.52,149
+LA00023,Gujarat,Vadodara,Agricultural,Notification,487,166,34,1,6,5,29,0.246,12.86,207
+LA00024,Punjab,Patiala,Industrial,Objection,361,176,44,0,8,25,63,0.149,3.81,253
+LA00025,Madhya Pradesh,Bhopal,Commercial,Compensation,463,108,6,0,1,3,34,0.207,38.89,126
+LA00026,Uttar Pradesh,Agra,Industrial,Objection,34,5,41,0,11,14,32,0.279,10.38,184
+LA00027,Maharashtra,Nagpur,Residential,Possession,110,74,7,0,2,12,78,0.071,2.71,123
+LA00028,Madhya Pradesh,Jabalpur,Residential,Objection,324,131,22,0,3,21,69,0.12,37.37,150
+LA00029,Uttar Pradesh,Kanpur,Agricultural,Compensation,284,136,14,0,3,24,41,0.149,4.38,179
+LA00030,Maharashtra,Nashik,Industrial,Compensation,86,47,1,0,1,85,37,0.02,8.84,128
+LA00031,Maharashtra,Nagpur,Agricultural,Notification,368,149,36,0,4,15,63,0.244,4.54,187
+LA00032,Gujarat,Ahmedabad,Agricultural,Compensation,57,57,15,1,2,55,55,0.193,13.79,173
+LA00033,Rajasthan,Jaipur,Residential,Objection,496,94,31,0,4,5,79,0.238,4.57,195
+LA00034,Uttar Pradesh,Kanpur,Agricultural,Objection,103,72,46,1,8,23,26,0.396,4.85,267
+LA00035,Punjab,Bathinda,Agricultural,Notification,239,97,11,0,1,22,9,0.073,6.3,105
+LA00036,Rajasthan,Udaipur,Agricultural,Compensation,417,9,43,0,7,14,15,0.08,4.47,180
+LA00037,Punjab,Patiala,Agricultural,Possession,272,97,18,1,6,15,42,0.235,21.58,169
+LA00038,Madhya Pradesh,Bhopal,Commercial,Notification,380,9,20,0,4,9,25,0.042,2.1,130
+LA00039,Gujarat,Rajkot,Agricultural,Compensation,361,11,35,0,5,90,65,0.219,7.12,171
+LA00040,Uttar Pradesh,Agra,Commercial,Compensation,476,102,38,0,7,43,70,0.206,8.08,203
+LA00041,Rajasthan,Jodhpur,Agricultural,Objection,248,94,40,0,5,6,15,0.183,6.52,177
+LA00042,Madhya Pradesh,Jabalpur,Commercial,Compensation,491,178,12,0,2,2,80,0.022,19.46,190
+LA00043,Madhya Pradesh,Gwalior,Agricultural,Compensation,273,94,35,0,5,26,51,0.307,1.64,159
+LA00044,Maharashtra,Nagpur,Industrial,Possession,450,177,16,0,3,23,21,0.106,13.04,160
+LA00045,Rajasthan,Jodhpur,Agricultural,Possession,375,147,17,0,2,13,16,0.332,2.13,148
+LA00046,Punjab,Bathinda,Agricultural,Notification,92,64,57,0,5,26,13,0.292,4.44,206
+LA00047,Maharashtra,Nashik,Agricultural,Objection,333,168,7,0,2,5,38,0.137,1.92,144
+LA00048,Punjab,Patiala,Agricultural,Compensation,443,89,25,0,4,72,5,0.179,5.3,145
+LA00049,Madhya Pradesh,Jabalpur,Agricultural,Notification,90,90,27,1,11,29,10,0.324,4.14,163
+LA00050,Madhya Pradesh,Gwalior,Residential,Objection,424,22,15,0,8,10,61,0.236,38.03,121
+LA00051,Madhya Pradesh,Bhopal,Industrial,Possession,79,42,48,0,4,2,39,0.344,9.41,199
+LA00052,Gujarat,Surat,Residential,Notification,440,96,30,0,3,25,42,0.05,11.47,155
+LA00053,Maharashtra,Nashik,Agricultural,Compensation,401,52,44,1,6,24,26,0.414,2.44,215
+LA00054,Maharashtra,Aurangabad,Agricultural,Possession,101,101,24,0,4,28,45,0.212,15.49,161
+LA00055,Maharashtra,Nagpur,Commercial,Objection,372,19,54,1,10,13,27,0.392,38.02,214
+LA00056,Rajasthan,Jodhpur,Commercial,Compensation,85,49,44,1,5,118,3,0.481,17.64,300
+LA00057,Uttar Pradesh,Kanpur,Agricultural,Possession,297,122,20,0,3,17,46,0.296,1.99,169
+LA00058,Rajasthan,Kota,Industrial,Compensation,465,112,58,1,13,53,6,0.481,4.65,320
+LA00059,Madhya Pradesh,Indore,Agricultural,Notification,127,127,52,0,5,15,55,0.229,8.24,235
+LA00060,Madhya Pradesh,Indore,Commercial,Notification,111,111,36,1,4,7,74,0.219,4.15,222
+LA00061,Punjab,Bathinda,Industrial,Possession,229,147,1,0,1,22,54,0.146,93.04,131
+LA00062,Madhya Pradesh,Gwalior,Residential,Objection,203,5,36,1,11,16,46,0.437,4.56,200
+LA00063,Maharashtra,Pune,Agricultural,Compensation,52,52,42,0,4,44,78,0.073,7.08,224
+LA00064,Punjab,Patiala,Residential,Notification,244,45,22,0,5,12,17,0.254,4.05,122
+LA00065,Maharashtra,Nagpur,Agricultural,Objection,152,51,9,0,3,12,62,0.097,9.32,95
+LA00066,Gujarat,Vadodara,Commercial,Possession,88,41,34,0,4,27,16,0.062,29.44,183
+LA00067,Punjab,Patiala,Agricultural,Compensation,160,85,49,0,11,31,0,0.311,8.29,213
+LA00068,Maharashtra,Aurangabad,Residential,Possession,39,26,20,0,4,17,19,0.231,5.94,89
+LA00069,Rajasthan,Jodhpur,Industrial,Objection,460,98,28,0,3,2,40,0.156,2.52,178
+LA00070,Maharashtra,Nashik,Agricultural,Compensation,498,34,1,0,2,108,5,0.02,24.75,100
+LA00071,Madhya Pradesh,Bhopal,Agricultural,Possession,203,93,43,0,6,8,22,0.379,6.4,200
+LA00072,Gujarat,Vadodara,Residential,Objection,442,115,52,0,6,15,4,0.221,6.13,245
+LA00073,Maharashtra,Nashik,Agricultural,Objection,247,36,47,0,9,27,19,0.355,0.71,171
+LA00074,Rajasthan,Jodhpur,Agricultural,Possession,459,23,26,0,2,28,58,0.054,6.51,123
+LA00075,Madhya Pradesh,Gwalior,Agricultural,Objection,111,111,3,0,0,8,12,0.124,4.95,123
+LA00076,Maharashtra,Nashik,Agricultural,Compensation,164,134,30,0,7,106,21,0.23,1.19,242
+LA00077,Gujarat,Surat,Residential,Possession,378,51,57,1,13,29,10,0.475,19.88,250
+LA00078,Gujarat,Surat,Residential,Notification,133,133,6,0,1,7,31,0.222,4.33,157
+LA00079,Uttar Pradesh,Agra,Agricultural,Objection,417,43,13,0,1,13,61,0.062,49.18,105
+LA00080,Madhya Pradesh,Bhopal,Agricultural,Notification,230,168,51,0,11,15,43,0.322,30.4,248
+LA00081,Punjab,Bathinda,Agricultural,Objection,220,24,35,0,1,0,16,0.095,3.6,153
+LA00082,Maharashtra,Pune,Agricultural,Objection,243,121,11,0,0,14,25,0.02,29.06,132
+LA00083,Rajasthan,Jodhpur,Residential,Compensation,405,8,2,0,0,107,54,0.041,36.99,145
+LA00084,Madhya Pradesh,Gwalior,Agricultural,Notification,32,32,25,0,6,9,38,0.212,4.22,106
+LA00085,Uttar Pradesh,Lucknow,Agricultural,Compensation,383,76,36,0,7,70,37,0.354,2.63,243
+LA00086,Madhya Pradesh,Gwalior,Industrial,Objection,397,20,51,0,2,22,70,0.411,0.86,207
+LA00087,Rajasthan,Kota,Agricultural,Objection,416,85,54,0,7,25,66,0.255,10.81,214
+LA00088,Gujarat,Vadodara,Residential,Objection,499,45,28,0,5,8,19,0.212,2.79,148
+LA00089,Madhya Pradesh,Indore,Agricultural,Compensation,398,22,26,0,5,4,57,0.256,11.14,159
+LA00090,Madhya Pradesh,Bhopal,Agricultural,Compensation,279,174,56,0,7,35,64,0.351,4.19,320
+LA00091,Maharashtra,Aurangabad,Agricultural,Objection,249,177,47,0,4,3,72,0.239,3.39,240
+LA00092,Madhya Pradesh,Indore,Commercial,Possession,212,174,13,0,4,13,21,0.14,4.21,143
+LA00093,Punjab,Bathinda,Commercial,Compensation,419,32,41,0,3,29,58,0.221,2.01,179
+LA00094,Maharashtra,Pune,Agricultural,Objection,214,72,43,0,6,14,15,0.226,4.21,179
+LA00095,Punjab,Ludhiana,Agricultural,Possession,299,62,15,0,5,16,36,0.115,3.54,94
+LA00096,Gujarat,Rajkot,Agricultural,Objection,75,62,59,0,10,17,5,0.297,7.29,205
+LA00097,Gujarat,Rajkot,Residential,Notification,179,78,18,0,4,5,48,0.119,8.2,117
+LA00098,Madhya Pradesh,Jabalpur,Residential,Compensation,155,94,33,0,10,83,55,0.125,2.53,221
+LA00099,Uttar Pradesh,Varanasi,Residential,Notification,234,90,30,0,6,20,36,0.266,22.22,177
+LA00100,Rajasthan,Jaipur,Industrial,Objection,266,56,42,1,9,4,33,0.386,6.3,204
+LA00101,Madhya Pradesh,Jabalpur,Agricultural,Compensation,367,177,55,0,8,85,19,0.439,33.2,254
+LA00102,Gujarat,Vadodara,Residential,Notification,233,177,24,0,3,8,62,0.2,9.4,145
+LA00103,Madhya Pradesh,Bhopal,Residential,Possession,100,63,24,0,3,12,73,0.137,7.92,146
+LA00104,Rajasthan,Jaipur,Agricultural,Possession,286,43,46,0,6,23,10,0.203,4.52,160
+LA00105,Madhya Pradesh,Jabalpur,Industrial,Compensation,55,55,58,1,7,113,22,0.401,13.67,269
+LA00106,Madhya Pradesh,Indore,Agricultural,Compensation,429,69,55,1,8,40,48,0.433,7.64,306
+LA00107,Madhya Pradesh,Jabalpur,Residential,Compensation,392,178,46,0,9,60,29,0.239,17.43,286
+LA00108,Uttar Pradesh,Lucknow,Residential,Possession,136,80,43,0,10,1,1,0.133,36.77,177
+LA00109,Maharashtra,Nashik,Industrial,Objection,153,12,47,1,12,22,1,0.309,3.57,214
+LA00110,Madhya Pradesh,Indore,Agricultural,Notification,43,27,57,0,11,2,18,0.303,13.65,184
+LA00111,Gujarat,Surat,Agricultural,Compensation,201,18,1,1,2,76,78,0.247,13.26,128
+LA00112,Madhya Pradesh,Gwalior,Commercial,Compensation,48,48,36,0,6,17,49,0.099,11.68,205
+LA00113,Uttar Pradesh,Varanasi,Commercial,Notification,471,60,3,0,4,30,20,0.12,4.79,109
+LA00114,Maharashtra,Aurangabad,Agricultural,Compensation,93,93,35,0,5,51,4,0.23,4.89,160
+LA00115,Uttar Pradesh,Kanpur,Commercial,Notification,340,161,24,0,7,30,61,0.142,4.12,192
+LA00116,Uttar Pradesh,Lucknow,Agricultural,Possession,298,29,19,0,3,30,30,0.106,4.04,117
+LA00117,Rajasthan,Udaipur,Residential,Objection,141,141,54,0,6,27,31,0.222,3.19,232
+LA00118,Rajasthan,Kota,Industrial,Notification,410,107,43,0,8,25,45,0.258,6.66,242
+LA00119,Gujarat,Vadodara,Agricultural,Notification,81,58,35,0,4,2,18,0.301,3.46,178
+LA00120,Rajasthan,Kota,Agricultural,Objection,447,76,53,1,10,3,58,0.481,11.42,246
+LA00121,Maharashtra,Aurangabad,Industrial,Objection,378,82,6,0,3,19,25,0.02,7.82,104
+LA00122,Madhya Pradesh,Jabalpur,Commercial,Notification,329,35,39,1,14,3,57,0.33,8.75,202
+LA00123,Uttar Pradesh,Kanpur,Industrial,Objection,444,157,10,0,1,7,41,0.02,5.62,126
+LA00124,Maharashtra,Nagpur,Agricultural,Notification,219,7,14,0,4,30,12,0.146,7.92,68
+LA00125,Punjab,Patiala,Industrial,Objection,162,17,12,0,4,28,50,0.178,5.77,128
+LA00126,Uttar Pradesh,Agra,Agricultural,Objection,102,53,33,1,6,7,6,0.433,16.11,217
+LA00127,Rajasthan,Jodhpur,Agricultural,Objection,465,30,38,0,3,16,57,0.076,4.75,180
+LA00128,Madhya Pradesh,Gwalior,Agricultural,Objection,219,15,46,0,5,16,30,0.164,10.76,178
+LA00129,Uttar Pradesh,Lucknow,Commercial,Notification,420,72,27,0,0,8,54,0.186,2.0,95
+LA00130,Uttar Pradesh,Agra,Industrial,Notification,186,71,57,0,8,7,19,0.166,15.06,163
+LA00131,Uttar Pradesh,Kanpur,Residential,Objection,479,27,23,0,5,13,32,0.184,4.22,152
+LA00132,Uttar Pradesh,Varanasi,Residential,Compensation,439,147,10,0,3,45,24,0.171,2.97,198
+LA00133,Rajasthan,Kota,Agricultural,Possession,175,160,3,0,2,24,20,0.02,2.37,125
+LA00134,Uttar Pradesh,Agra,Agricultural,Possession,259,131,8,0,3,26,27,0.125,2.19,121
+LA00135,Madhya Pradesh,Indore,Agricultural,Compensation,403,96,27,0,8,63,4,0.094,4.57,209
+LA00136,Gujarat,Vadodara,Agricultural,Compensation,136,136,25,0,6,105,32,0.29,33.07,240
+LA00137,Uttar Pradesh,Kanpur,Agricultural,Objection,41,41,52,0,9,19,9,0.297,3.88,218
+LA00138,Rajasthan,Jaipur,Industrial,Compensation,166,80,8,0,1,2,42,0.059,0.81,89
+LA00139,Maharashtra,Nagpur,Residential,Compensation,308,7,16,0,3,45,7,0.043,10.65,124
+LA00140,Maharashtra,Nashik,Commercial,Possession,94,94,59,0,11,18,0,0.34,2.42,270
+LA00141,Punjab,Patiala,Agricultural,Possession,187,21,2,0,1,22,35,0.198,16.69,87
+LA00142,Gujarat,Rajkot,Agricultural,Objection,462,122,26,1,3,20,24,0.215,4.85,198
+LA00143,Gujarat,Rajkot,Agricultural,Compensation,65,65,12,0,3,88,71,0.093,5.62,164
+LA00144,Maharashtra,Nagpur,Agricultural,Possession,53,43,33,0,11,6,21,0.157,24.47,156
+LA00145,Punjab,Amritsar,Agricultural,Objection,229,112,59,0,4,11,32,0.419,13.7,260
+LA00146,Punjab,Amritsar,Agricultural,Possession,36,36,14,0,3,23,19,0.02,2.12,81
+LA00147,Rajasthan,Jaipur,Agricultural,Notification,43,43,23,0,4,19,72,0.271,2.46,122
+LA00148,Gujarat,Rajkot,Residential,Possession,116,98,27,0,6,19,63,0.156,1.24,163
+LA00149,Madhya Pradesh,Jabalpur,Agricultural,Compensation,78,48,48,0,5,89,13,0.252,99.81,222
+LA00150,Rajasthan,Udaipur,Agricultural,Notification,411,145,60,0,8,0,20,0.279,3.12,197
+LA00151,Punjab,Amritsar,Agricultural,Compensation,87,74,6,0,4,4,15,0.128,23.8,127
+LA00152,Gujarat,Surat,Agricultural,Notification,276,86,30,0,14,29,12,0.155,4.34,163
+LA00153,Punjab,Bathinda,Agricultural,Compensation,362,148,46,0,13,104,19,0.352,2.51,300
+LA00154,Gujarat,Vadodara,Agricultural,Compensation,324,45,1,1,2,81,68,0.275,7.55,122
+LA00155,Maharashtra,Nagpur,Residential,Compensation,337,84,49,0,7,94,37,0.187,5.33,265
+LA00156,Uttar Pradesh,Agra,Agricultural,Possession,198,179,15,1,7,7,31,0.3,16.48,214
+LA00157,Rajasthan,Jodhpur,Industrial,Notification,448,75,32,0,4,16,15,0.171,16.68,153
+LA00158,Uttar Pradesh,Kanpur,Agricultural,Objection,62,25,59,0,9,2,14,0.309,4.1,201
+LA00159,Uttar Pradesh,Varanasi,Agricultural,Objection,80,55,39,0,4,8,44,0.347,1.75,192
+LA00160,Madhya Pradesh,Indore,Agricultural,Notification,433,173,60,0,6,11,60,0.248,2.23,267
+LA00161,Punjab,Bathinda,Agricultural,Objection,62,62,37,0,7,21,45,0.298,0.75,193
+LA00162,Uttar Pradesh,Lucknow,Agricultural,Objection,120,120,13,0,2,9,53,0.166,5.62,149
+LA00163,Maharashtra,Nashik,Industrial,Objection,111,49,42,0,6,14,21,0.223,7.3,208
+LA00164,Maharashtra,Aurangabad,Agricultural,Objection,45,45,37,0,6,9,76,0.251,2.36,191
+LA00165,Maharashtra,Aurangabad,Residential,Possession,85,74,19,0,2,4,66,0.17,2.09,121
+LA00166,Madhya Pradesh,Jabalpur,Agricultural,Objection,299,144,5,0,0,24,71,0.02,7.27,151
+LA00167,Gujarat,Surat,Agricultural,Possession,341,160,39,0,7,20,54,0.182,3.93,210
+LA00168,Gujarat,Rajkot,Agricultural,Objection,69,41,35,0,8,20,56,0.135,5.97,169
+LA00169,Maharashtra,Aurangabad,Agricultural,Objection,473,170,47,0,7,18,5,0.236,5.12,225
+LA00170,Rajasthan,Udaipur,Agricultural,Compensation,75,75,8,0,2,30,13,0.22,9.48,145
+LA00171,Rajasthan,Jaipur,Industrial,Objection,353,133,33,0,6,15,10,0.254,4.2,222
+LA00172,Rajasthan,Kota,Residential,Objection,406,138,50,0,7,21,39,0.154,4.53,228
+LA00173,Madhya Pradesh,Jabalpur,Industrial,Compensation,275,34,54,0,9,56,47,0.265,1.13,274
+LA00174,Madhya Pradesh,Jabalpur,Agricultural,Notification,261,136,57,0,9,22,9,0.316,7.03,230
+LA00175,Madhya Pradesh,Bhopal,Commercial,Objection,81,42,13,1,9,10,60,0.303,8.07,193
+LA00176,Maharashtra,Aurangabad,Residential,Compensation,143,52,11,1,5,0,44,0.176,6.19,155
+LA00177,Madhya Pradesh,Bhopal,Residential,Objection,430,25,35,0,5,11,48,0.114,49.99,145
+LA00178,Rajasthan,Jodhpur,Industrial,Possession,194,36,28,0,6,30,74,0.185,8.7,197
+LA00179,Punjab,Patiala,Residential,Objection,46,46,15,0,1,5,47,0.18,6.32,106
+LA00180,Uttar Pradesh,Agra,Industrial,Possession,373,62,7,0,3,8,0,0.129,12.17,81
+LA00181,Punjab,Patiala,Residential,Compensation,352,73,9,0,2,10,62,0.045,61.12,108
+LA00182,Rajasthan,Jaipur,Agricultural,Possession,61,61,21,0,2,1,70,0.298,9.51,161
+LA00183,Maharashtra,Nagpur,Residential,Possession,54,54,45,0,8,15,6,0.246,0.8,208
+LA00184,Madhya Pradesh,Gwalior,Agricultural,Notification,84,84,4,1,6,0,43,0.221,11.38,127
+LA00185,Maharashtra,Nagpur,Industrial,Compensation,53,53,7,0,4,10,38,0.06,3.07,102
+LA00186,Maharashtra,Nashik,Commercial,Notification,320,152,16,1,4,9,12,0.333,1.08,171
+LA00187,Rajasthan,Jodhpur,Agricultural,Possession,92,92,53,0,8,5,22,0.327,40.35,205
+LA00188,Maharashtra,Nashik,Agricultural,Compensation,315,140,60,0,5,75,69,0.325,32.51,273
+LA00189,Gujarat,Surat,Agricultural,Objection,112,112,27,0,3,10,31,0.088,2.99,143
+LA00190,Gujarat,Vadodara,Agricultural,Possession,488,124,3,0,0,2,43,0.178,3.01,116
+LA00191,Madhya Pradesh,Indore,Agricultural,Notification,371,11,1,0,2,16,62,0.148,8.67,57
+LA00192,Uttar Pradesh,Agra,Residential,Compensation,206,51,52,0,11,3,36,0.365,3.05,238
+LA00193,Uttar Pradesh,Agra,Residential,Compensation,231,113,27,0,5,111,72,0.187,6.46,199
+LA00194,Maharashtra,Pune,Commercial,Notification,60,60,5,0,1,27,40,0.094,3.62,123
+LA00195,Punjab,Patiala,Agricultural,Compensation,55,55,51,0,4,36,79,0.252,4.95,220
+LA00196,Rajasthan,Udaipur,Agricultural,Possession,283,64,32,0,3,24,11,0.38,1.81,173
+LA00197,Maharashtra,Nashik,Agricultural,Notification,40,18,21,0,9,20,71,0.128,16.89,130
+LA00198,Rajasthan,Udaipur,Industrial,Compensation,330,46,28,0,3,24,9,0.089,24.63,159
+LA00199,Maharashtra,Nagpur,Agricultural,Objection,210,142,14,0,3,24,65,0.105,6.68,135
+LA00200,Punjab,Ludhiana,Agricultural,Compensation,95,6,56,0,10,64,53,0.253,7.13,222
+LA00201,Maharashtra,Nashik,Agricultural,Notification,282,152,48,0,10,15,45,0.369,13.86,217
+LA00202,Punjab,Ludhiana,Commercial,Possession,290,64,12,1,11,22,71,0.136,7.4,171
+LA00203,Maharashtra,Pune,Agricultural,Possession,381,147,45,0,3,29,51,0.199,41.66,236
+LA00204,Madhya Pradesh,Indore,Residential,Notification,123,50,11,0,0,15,56,0.134,1.98,104
+LA00205,Maharashtra,Nashik,Residential,Objection,287,150,28,0,2,7,61,0.283,17.48,174
+LA00206,Gujarat,Rajkot,Commercial,Compensation,427,105,45,1,9,53,68,0.413,6.59,289
+LA00207,Madhya Pradesh,Bhopal,Agricultural,Compensation,157,154,3,0,0,8,18,0.22,2.41,133
+LA00208,Punjab,Bathinda,Agricultural,Objection,423,15,44,0,4,9,68,0.27,69.9,168
+LA00209,Gujarat,Ahmedabad,Agricultural,Notification,370,145,14,0,6,27,47,0.125,80.25,147
+LA00210,Madhya Pradesh,Bhopal,Agricultural,Notification,232,52,42,0,11,3,2,0.317,6.0,180
+LA00211,Gujarat,Vadodara,Residential,Possession,445,68,30,1,6,27,74,0.188,11.53,180
+LA00212,Madhya Pradesh,Jabalpur,Agricultural,Compensation,485,12,2,0,0,67,62,0.02,4.61,98
+LA00213,Madhya Pradesh,Gwalior,Agricultural,Possession,141,141,46,0,11,9,72,0.341,5.42,257
+LA00214,Maharashtra,Pune,Agricultural,Compensation,491,117,16,0,5,35,62,0.163,2.38,185
+LA00215,Madhya Pradesh,Bhopal,Residential,Possession,31,31,58,0,8,27,27,0.376,2.05,238
+LA00216,Gujarat,Surat,Agricultural,Notification,90,90,51,0,6,3,28,0.202,46.72,210
+LA00217,Rajasthan,Jodhpur,Residential,Notification,50,32,12,1,7,17,22,0.339,7.11,106
+LA00218,Rajasthan,Udaipur,Agricultural,Possession,203,64,37,1,10,8,33,0.383,7.77,208
+LA00219,Maharashtra,Nashik,Industrial,Possession,471,82,22,0,6,16,2,0.167,3.29,131
+LA00220,Punjab,Ludhiana,Residential,Objection,312,30,37,0,8,24,60,0.242,8.93,161
+LA00221,Rajasthan,Udaipur,Agricultural,Objection,320,168,34,1,4,28,60,0.335,1.64,221
+LA00222,Maharashtra,Pune,Agricultural,Compensation,69,69,18,0,1,34,79,0.076,3.41,147
+LA00223,Madhya Pradesh,Bhopal,Agricultural,Objection,273,104,40,0,9,20,44,0.207,2.23,197
+LA00224,Gujarat,Surat,Agricultural,Notification,210,107,16,0,6,13,80,0.174,26.92,134
+LA00225,Madhya Pradesh,Indore,Agricultural,Possession,255,128,55,0,4,15,17,0.246,1.42,213
+LA00226,Gujarat,Vadodara,Industrial,Objection,153,124,57,1,12,5,38,0.286,2.27,315
+LA00227,Madhya Pradesh,Jabalpur,Residential,Compensation,124,16,10,1,9,51,63,0.257,0.95,144
+LA00228,Uttar Pradesh,Varanasi,Agricultural,Notification,478,98,44,0,6,5,63,0.313,3.03,213
+LA00229,Uttar Pradesh,Agra,Residential,Notification,293,141,56,1,12,1,62,0.485,4.67,276
+LA00230,Gujarat,Rajkot,Agricultural,Compensation,223,146,8,0,2,26,37,0.155,19.64,146
+LA00231,Maharashtra,Nagpur,Industrial,Objection,64,64,45,0,2,12,5,0.307,5.92,143
+LA00232,Punjab,Ludhiana,Agricultural,Compensation,389,162,57,1,13,107,70,0.485,4.9,367
+LA00233,Rajasthan,Udaipur,Residential,Notification,252,108,14,0,1,21,30,0.137,9.97,93
+LA00234,Madhya Pradesh,Bhopal,Commercial,Possession,212,72,35,1,11,8,52,0.155,4.75,220
+LA00235,Maharashtra,Nagpur,Agricultural,Compensation,344,82,48,0,9,55,10,0.359,82.26,269
+LA00236,Madhya Pradesh,Jabalpur,Agricultural,Possession,92,92,21,0,3,30,75,0.088,4.09,126
+LA00237,Uttar Pradesh,Lucknow,Agricultural,Notification,281,161,15,0,3,17,20,0.048,11.18,150
+LA00238,Maharashtra,Nashik,Industrial,Objection,436,45,24,0,3,14,80,0.082,16.89,146
+LA00239,Gujarat,Surat,Agricultural,Objection,248,56,21,0,1,13,57,0.354,3.98,105
+LA00240,Uttar Pradesh,Varanasi,Residential,Compensation,30,30,44,1,13,32,26,0.395,8.72,221
+LA00241,Rajasthan,Jaipur,Commercial,Objection,138,138,23,0,2,28,29,0.081,4.48,170
+LA00242,Uttar Pradesh,Kanpur,Commercial,Notification,56,56,23,0,6,19,79,0.118,9.72,154
+LA00243,Rajasthan,Jodhpur,Agricultural,Objection,265,118,57,0,7,3,48,0.293,8.17,206
+LA00244,Uttar Pradesh,Lucknow,Agricultural,Objection,201,6,35,0,4,6,56,0.254,6.42,149
+LA00245,Uttar Pradesh,Kanpur,Residential,Objection,92,56,56,0,7,19,49,0.312,2.33,237
+LA00246,Rajasthan,Udaipur,Agricultural,Notification,353,173,43,0,6,11,19,0.168,47.64,215
+LA00247,Madhya Pradesh,Gwalior,Industrial,Objection,113,106,54,0,4,14,10,0.302,13.28,210
+LA00248,Maharashtra,Pune,Agricultural,Compensation,190,157,12,0,3,24,0,0.079,1.51,159
+LA00249,Madhya Pradesh,Bhopal,Agricultural,Objection,495,43,57,0,10,18,32,0.383,4.85,241
+LA00250,Rajasthan,Jodhpur,Commercial,Objection,61,56,57,1,15,7,55,0.414,1.54,287
+LA00251,Gujarat,Vadodara,Agricultural,Compensation,146,146,3,0,0,59,24,0.03,15.83,156
+LA00252,Maharashtra,Nagpur,Agricultural,Compensation,179,179,22,0,6,33,18,0.224,7.23,204
+LA00253,Gujarat,Ahmedabad,Agricultural,Objection,269,159,25,0,3,20,31,0.204,7.42,174
+LA00254,Gujarat,Vadodara,Agricultural,Compensation,145,60,26,0,5,61,18,0.143,3.18,174
+LA00255,Uttar Pradesh,Agra,Commercial,Possession,486,146,47,1,14,25,35,0.431,5.39,265
+LA00256,Rajasthan,Kota,Agricultural,Compensation,32,32,42,0,5,50,44,0.287,16.24,222
+LA00257,Madhya Pradesh,Jabalpur,Agricultural,Possession,476,153,13,0,6,4,22,0.234,21.24,121
+LA00258,Rajasthan,Kota,Agricultural,Compensation,281,154,37,1,14,107,2,0.394,17.23,281
+LA00259,Gujarat,Ahmedabad,Industrial,Notification,48,48,59,0,9,17,8,0.287,1.56,202
+LA00260,Uttar Pradesh,Varanasi,Agricultural,Objection,84,58,27,0,9,17,33,0.057,6.13,158
+LA00261,Madhya Pradesh,Bhopal,Industrial,Compensation,78,78,56,1,13,96,14,0.417,9.52,315
+LA00262,Gujarat,Rajkot,Industrial,Possession,165,84,39,0,5,13,64,0.254,3.54,219
+LA00263,Gujarat,Ahmedabad,Agricultural,Compensation,186,80,56,1,14,93,13,0.408,1.41,299
+LA00264,Punjab,Patiala,Commercial,Notification,332,122,55,1,10,18,2,0.152,2.04,222
+LA00265,Punjab,Ludhiana,Residential,Compensation,176,169,2,0,1,101,50,0.143,33.11,181
+LA00266,Uttar Pradesh,Lucknow,Agricultural,Notification,371,27,49,0,6,0,50,0.191,2.24,157
+LA00267,Maharashtra,Nagpur,Agricultural,Compensation,168,168,12,0,2,19,54,0.181,7.75,182
+LA00268,Maharashtra,Nagpur,Commercial,Compensation,154,79,50,1,12,49,12,0.515,6.32,264
+LA00269,Uttar Pradesh,Lucknow,Commercial,Compensation,159,9,49,1,11,50,55,0.353,6.34,254
+LA00270,Uttar Pradesh,Varanasi,Commercial,Possession,185,59,16,0,5,26,69,0.181,5.37,176
+LA00271,Gujarat,Surat,Industrial,Compensation,424,86,4,0,2,78,48,0.101,16.27,154
+LA00272,Rajasthan,Jodhpur,Agricultural,Compensation,146,124,26,0,3,120,31,0.219,7.66,197
+LA00273,Rajasthan,Jodhpur,Commercial,Compensation,158,104,19,1,3,81,39,0.261,3.95,210
+LA00274,Punjab,Amritsar,Industrial,Possession,480,28,34,0,4,26,65,0.166,7.78,120
+LA00275,Maharashtra,Pune,Agricultural,Possession,337,90,5,0,2,28,11,0.029,2.06,92
+LA00276,Maharashtra,Nashik,Agricultural,Notification,119,45,3,0,2,12,58,0.222,11.89,115
+LA00277,Maharashtra,Pune,Agricultural,Compensation,438,52,27,1,12,119,21,0.334,3.74,216
+LA00278,Madhya Pradesh,Bhopal,Industrial,Objection,116,116,47,0,6,2,71,0.323,3.96,202
+LA00279,Rajasthan,Jodhpur,Agricultural,Possession,106,106,19,0,4,5,11,0.186,12.34,120
+LA00280,Rajasthan,Kota,Residential,Compensation,239,32,20,1,2,32,41,0.332,4.92,190
+LA00281,Gujarat,Rajkot,Agricultural,Objection,355,111,10,1,5,25,32,0.153,5.2,184
+LA00282,Maharashtra,Nashik,Agricultural,Notification,119,79,17,1,9,13,39,0.264,23.75,164
+LA00283,Madhya Pradesh,Indore,Residential,Objection,384,64,18,0,3,18,30,0.189,2.79,110
+LA00284,Maharashtra,Aurangabad,Agricultural,Compensation,103,103,16,0,4,70,3,0.247,12.16,169
+LA00285,Maharashtra,Nagpur,Industrial,Objection,398,48,21,0,3,14,69,0.373,19.1,189
+LA00286,Punjab,Bathinda,Agricultural,Notification,75,75,18,0,4,10,43,0.184,23.73,115
+LA00287,Rajasthan,Udaipur,Industrial,Possession,248,75,41,1,9,22,48,0.289,65.14,225
+LA00288,Uttar Pradesh,Varanasi,Agricultural,Compensation,331,21,21,0,3,4,42,0.064,3.89,128
+LA00289,Uttar Pradesh,Varanasi,Industrial,Notification,155,144,46,0,4,12,42,0.177,3.1,174
+LA00290,Maharashtra,Nashik,Residential,Objection,318,154,37,0,2,27,49,0.152,16.73,221
+LA00291,Madhya Pradesh,Indore,Agricultural,Possession,354,104,39,0,8,13,33,0.02,18.92,191
+LA00292,Gujarat,Surat,Agricultural,Compensation,336,132,36,1,5,116,10,0.262,3.35,219
+LA00293,Punjab,Ludhiana,Agricultural,Compensation,216,30,56,1,7,118,2,0.447,12.0,247
+LA00294,Gujarat,Vadodara,Residential,Objection,394,64,16,0,2,19,43,0.146,112.64,112
+LA00295,Uttar Pradesh,Kanpur,Commercial,Objection,374,66,59,0,11,23,15,0.288,8.2,250
+LA00296,Uttar Pradesh,Varanasi,Agricultural,Notification,183,139,13,0,1,10,36,0.02,18.61,100
+LA00297,Punjab,Ludhiana,Agricultural,Compensation,375,66,9,0,1,72,49,0.198,35.76,155
+LA00298,Maharashtra,Nashik,Residential,Notification,462,133,50,1,14,29,48,0.424,90.35,268
+LA00299,Gujarat,Ahmedabad,Agricultural,Notification,414,59,54,0,8,5,13,0.284,9.45,186
+LA00300,Rajasthan,Udaipur,Residential,Compensation,375,110,6,0,1,30,53,0.02,25.87,147
+LA00301,Maharashtra,Nashik,Agricultural,Possession,391,41,36,0,3,17,76,0.173,3.36,165
+LA00302,Madhya Pradesh,Bhopal,Residential,Compensation,409,103,31,0,4,118,29,0.231,7.58,225
+LA00303,Rajasthan,Kota,Industrial,Compensation,166,19,14,0,5,99,9,0.137,4.73,157
+LA00304,Punjab,Bathinda,Agricultural,Compensation,369,134,32,0,4,21,40,0.215,1.12,205
+LA00305,Uttar Pradesh,Varanasi,Agricultural,Objection,123,10,42,0,6,3,49,0.294,1.49,163
+LA00306,Rajasthan,Jaipur,Agricultural,Objection,198,180,35,0,6,30,32,0.227,11.36,206
+LA00307,Gujarat,Surat,Residential,Compensation,470,152,32,1,7,88,48,0.358,11.58,307
+LA00308,Uttar Pradesh,Lucknow,Agricultural,Objection,163,106,54,1,9,30,62,0.32,2.61,255
+LA00309,Gujarat,Surat,Industrial,Compensation,427,165,14,0,3,85,46,0.037,35.07,222
+LA00310,Rajasthan,Kota,Residential,Possession,229,147,38,0,7,24,64,0.265,2.44,208
+LA00311,Uttar Pradesh,Agra,Agricultural,Possession,128,30,19,0,5,11,11,0.211,9.56,126
+LA00312,Madhya Pradesh,Bhopal,Commercial,Notification,75,75,59,0,13,3,23,0.354,4.88,261
+LA00313,Rajasthan,Kota,Agricultural,Objection,288,71,16,0,1,14,44,0.149,8.22,116
+LA00314,Gujarat,Ahmedabad,Commercial,Notification,242,155,53,0,10,14,21,0.26,18.15,224
+LA00315,Gujarat,Ahmedabad,Agricultural,Objection,270,157,38,0,5,15,80,0.24,15.76,211
+LA00316,Uttar Pradesh,Lucknow,Residential,Objection,50,50,13,1,2,26,54,0.26,15.0,149
+LA00317,Madhya Pradesh,Bhopal,Industrial,Notification,156,84,46,1,14,8,33,0.404,13.2,240
+LA00318,Madhya Pradesh,Indore,Commercial,Compensation,31,31,15,0,3,8,62,0.347,2.07,152
+LA00319,Punjab,Bathinda,Industrial,Compensation,172,27,16,0,3,3,79,0.068,22.98,128
+LA00320,Madhya Pradesh,Jabalpur,Agricultural,Possession,468,34,21,0,4,27,0,0.42,2.56,165
+LA00321,Gujarat,Ahmedabad,Commercial,Notification,101,101,41,0,10,14,45,0.143,6.65,191
+LA00322,Rajasthan,Jaipur,Residential,Notification,354,108,24,0,2,24,34,0.199,5.2,134
+LA00323,Uttar Pradesh,Agra,Residential,Objection,32,32,35,0,3,8,61,0.113,10.49,168
+LA00324,Punjab,Patiala,Agricultural,Notification,294,84,34,0,5,9,24,0.233,4.55,167
+LA00325,Punjab,Patiala,Agricultural,Objection,463,35,12,0,5,30,26,0.211,6.31,142
+LA00326,Gujarat,Rajkot,Residential,Possession,190,105,14,0,3,6,62,0.138,37.3,172
+LA00327,Gujarat,Surat,Agricultural,Objection,122,79,19,0,3,17,72,0.23,2.02,156
+LA00328,Rajasthan,Jaipur,Residential,Notification,298,145,14,0,5,9,11,0.105,7.37,125
+LA00329,Rajasthan,Jaipur,Commercial,Compensation,161,8,56,0,12,87,49,0.136,2.43,216
+LA00330,Uttar Pradesh,Lucknow,Industrial,Compensation,449,168,23,0,4,90,63,0.219,14.5,218
+LA00331,Uttar Pradesh,Lucknow,Agricultural,Compensation,429,15,25,0,4,83,13,0.178,3.57,162
+LA00332,Maharashtra,Aurangabad,Industrial,Objection,337,78,41,0,4,14,53,0.193,7.68,168
+LA00333,Gujarat,Surat,Agricultural,Possession,330,64,48,0,2,19,79,0.219,1.96,163
+LA00334,Madhya Pradesh,Jabalpur,Agricultural,Notification,313,131,42,0,1,1,68,0.262,26.88,186
+LA00335,Maharashtra,Nagpur,Commercial,Objection,376,120,34,0,7,7,15,0.148,7.95,199
+LA00336,Madhya Pradesh,Gwalior,Agricultural,Compensation,246,39,59,1,14,4,80,0.445,8.48,276
+LA00337,Punjab,Amritsar,Agricultural,Possession,486,91,54,0,6,20,28,0.376,16.93,233
+LA00338,Gujarat,Rajkot,Agricultural,Objection,192,99,13,0,2,1,38,0.294,2.11,143
+LA00339,Gujarat,Ahmedabad,Agricultural,Compensation,34,34,10,0,3,1,23,0.233,3.99,134
+LA00340,Punjab,Ludhiana,Commercial,Notification,359,8,24,0,4,12,56,0.185,8.76,161
+LA00341,Uttar Pradesh,Agra,Agricultural,Notification,341,36,51,0,7,9,10,0.293,1.27,217
+LA00342,Gujarat,Surat,Agricultural,Notification,492,93,58,0,8,14,57,0.267,1.41,232
+LA00343,Uttar Pradesh,Kanpur,Residential,Compensation,216,50,43,1,13,63,4,0.319,3.25,239
+LA00344,Uttar Pradesh,Kanpur,Agricultural,Objection,230,100,42,0,4,15,68,0.305,2.36,205
+LA00345,Punjab,Patiala,Residential,Compensation,294,33,15,0,5,73,26,0.118,5.24,178
+LA00346,Gujarat,Surat,Industrial,Notification,214,134,36,0,4,4,41,0.243,12.46,165
+LA00347,Punjab,Amritsar,Commercial,Possession,399,38,12,0,1,30,18,0.047,15.64,126
+LA00348,Punjab,Bathinda,Industrial,Possession,231,119,33,0,10,23,8,0.325,45.12,195
+LA00349,Gujarat,Ahmedabad,Agricultural,Notification,399,152,12,0,3,11,1,0.102,7.22,120
+LA00350,Rajasthan,Kota,Commercial,Notification,230,68,5,0,3,26,79,0.191,8.62,104
+LA00351,Uttar Pradesh,Kanpur,Agricultural,Notification,136,29,59,1,6,24,11,0.342,7.21,183
+LA00352,Rajasthan,Udaipur,Agricultural,Possession,496,6,54,0,4,21,4,0.216,10.18,160
+LA00353,Gujarat,Vadodara,Residential,Objection,277,68,42,0,4,22,41,0.341,11.01,218
+LA00354,Maharashtra,Nashik,Agricultural,Compensation,362,25,38,0,10,117,77,0.183,18.58,219
+LA00355,Punjab,Amritsar,Industrial,Objection,308,160,15,0,0,25,6,0.02,18.51,169
+LA00356,Punjab,Amritsar,Residential,Compensation,199,176,35,0,3,63,20,0.125,12.42,216
+LA00357,Rajasthan,Jodhpur,Industrial,Compensation,487,177,45,1,9,119,45,0.424,33.45,307
+LA00358,Punjab,Ludhiana,Agricultural,Compensation,204,167,33,0,3,81,39,0.262,7.59,240
+LA00359,Rajasthan,Kota,Agricultural,Possession,497,108,17,0,4,15,11,0.086,4.01,138
+LA00360,Madhya Pradesh,Bhopal,Residential,Notification,232,62,24,0,3,2,77,0.119,4.72,135
+LA00361,Punjab,Patiala,Agricultural,Possession,40,40,51,0,5,5,29,0.322,6.65,186
+LA00362,Punjab,Bathinda,Agricultural,Notification,47,47,16,0,5,22,54,0.251,2.5,150
+LA00363,Gujarat,Rajkot,Residential,Compensation,488,152,58,0,2,37,37,0.281,4.0,265
+LA00364,Punjab,Ludhiana,Industrial,Possession,278,81,46,0,10,5,47,0.305,2.36,203
+LA00365,Rajasthan,Udaipur,Residential,Compensation,212,72,54,1,9,25,73,0.457,10.42,261
+LA00366,Uttar Pradesh,Lucknow,Agricultural,Compensation,412,126,31,0,8,25,26,0.377,10.53,237
+LA00367,Maharashtra,Nashik,Agricultural,Objection,320,70,14,0,4,7,65,0.045,1.26,115
+LA00368,Gujarat,Ahmedabad,Residential,Objection,341,67,3,0,3,18,23,0.043,3.84,89
+LA00369,Rajasthan,Jaipur,Agricultural,Objection,352,45,33,0,5,9,25,0.165,45.84,167
+LA00370,Madhya Pradesh,Bhopal,Agricultural,Compensation,123,16,24,0,2,1,2,0.234,13.87,160
+LA00371,Maharashtra,Pune,Agricultural,Compensation,71,11,7,1,7,83,28,0.198,11.64,160
+LA00372,Uttar Pradesh,Varanasi,Agricultural,Objection,372,75,56,0,5,13,47,0.311,3.8,214
+LA00373,Maharashtra,Pune,Agricultural,Objection,40,40,59,0,6,28,51,0.308,9.85,218
+LA00374,Maharashtra,Nashik,Agricultural,Objection,368,50,23,1,7,22,34,0.275,7.28,160
+LA00375,Punjab,Patiala,Residential,Objection,91,91,41,0,10,4,28,0.252,3.33,193
+LA00376,Rajasthan,Udaipur,Agricultural,Notification,153,62,25,0,11,13,18,0.272,4.51,139
+LA00377,Madhya Pradesh,Jabalpur,Residential,Possession,363,58,30,1,3,25,73,0.213,4.61,199
+LA00378,Madhya Pradesh,Bhopal,Agricultural,Compensation,323,33,38,0,10,26,31,0.221,1.67,189
+LA00379,Maharashtra,Aurangabad,Industrial,Notification,398,104,25,0,3,3,24,0.076,1.97,157
+LA00380,Gujarat,Vadodara,Agricultural,Compensation,317,120,49,0,6,116,76,0.282,6.05,278
+LA00381,Rajasthan,Jaipur,Agricultural,Possession,52,52,12,0,1,14,51,0.108,3.16,96
+LA00382,Punjab,Amritsar,Agricultural,Objection,425,97,41,0,8,7,68,0.325,5.47,233
+LA00383,Punjab,Bathinda,Agricultural,Notification,131,88,59,0,8,25,31,0.302,1.48,218
+LA00384,Gujarat,Surat,Agricultural,Notification,94,52,52,1,6,27,34,0.338,16.47,207
+LA00385,Rajasthan,Jaipur,Commercial,Notification,443,126,3,0,0,18,59,0.071,59.17,113
+LA00386,Rajasthan,Udaipur,Industrial,Compensation,121,102,7,0,0,71,79,0.242,20.64,199
+LA00387,Rajasthan,Udaipur,Agricultural,Possession,282,16,38,1,13,7,63,0.213,22.89,199
+LA00388,Madhya Pradesh,Jabalpur,Agricultural,Notification,258,91,56,1,10,23,37,0.346,13.82,263
+LA00389,Punjab,Bathinda,Residential,Compensation,392,73,51,0,4,53,48,0.269,9.64,232
+LA00390,Rajasthan,Udaipur,Residential,Notification,50,50,55,0,6,7,28,0.234,8.06,205
+LA00391,Madhya Pradesh,Indore,Agricultural,Compensation,80,58,9,0,0,65,36,0.151,2.96,137
+LA00392,Gujarat,Ahmedabad,Commercial,Compensation,225,173,32,1,10,66,31,0.307,14.73,293
+LA00393,Maharashtra,Nagpur,Agricultural,Objection,252,113,44,0,10,13,8,0.274,13.88,224
+LA00394,Uttar Pradesh,Lucknow,Residential,Notification,401,27,38,0,5,2,70,0.232,4.65,138
+LA00395,Madhya Pradesh,Indore,Agricultural,Compensation,315,75,47,1,7,115,11,0.35,12.5,267
+LA00396,Punjab,Patiala,Agricultural,Possession,100,100,13,0,2,20,21,0.026,3.69,129
+LA00397,Rajasthan,Udaipur,Agricultural,Objection,491,49,28,0,5,26,20,0.202,3.93,166
+LA00398,Gujarat,Surat,Commercial,Notification,246,129,27,1,10,4,17,0.153,16.04,209
+LA00399,Gujarat,Surat,Agricultural,Notification,484,142,57,1,10,27,40,0.346,11.36,264
+LA00400,Gujarat,Vadodara,Commercial,Compensation,496,126,13,0,4,68,77,0.173,5.86,226
+LA00401,Punjab,Ludhiana,Commercial,Compensation,54,20,20,0,3,42,26,0.251,5.22,141
+LA00402,Madhya Pradesh,Gwalior,Residential,Compensation,268,70,2,0,2,89,59,0.279,8.8,131
+LA00403,Gujarat,Vadodara,Agricultural,Compensation,228,66,10,0,2,30,59,0.085,1.18,128
+LA00404,Punjab,Patiala,Agricultural,Possession,264,65,59,0,8,0,61,0.233,3.46,237
+LA00405,Maharashtra,Nashik,Agricultural,Possession,175,159,51,0,8,1,50,0.316,2.09,217
+LA00406,Uttar Pradesh,Varanasi,Residential,Objection,293,5,16,0,2,22,59,0.29,7.48,96
+LA00407,Maharashtra,Nashik,Industrial,Compensation,261,99,43,0,4,97,61,0.361,21.95,227
+LA00408,Rajasthan,Kota,Agricultural,Objection,117,117,36,0,8,8,55,0.139,11.91,206
+LA00409,Punjab,Amritsar,Industrial,Objection,165,159,55,0,7,12,45,0.275,4.43,227
+LA00410,Rajasthan,Jaipur,Agricultural,Possession,99,99,19,0,5,10,7,0.225,3.65,144
+LA00411,Gujarat,Vadodara,Agricultural,Compensation,427,180,60,0,7,24,41,0.378,3.48,281
+LA00412,Gujarat,Ahmedabad,Agricultural,Possession,349,75,23,0,5,7,61,0.218,54.58,135
+LA00413,Gujarat,Rajkot,Residential,Objection,212,112,44,0,6,2,27,0.21,7.91,181
+LA00414,Rajasthan,Kota,Agricultural,Compensation,216,100,24,1,7,36,20,0.325,9.02,210
+LA00415,Rajasthan,Jodhpur,Agricultural,Compensation,67,13,41,1,9,13,48,0.416,0.89,204
+LA00416,Madhya Pradesh,Indore,Commercial,Notification,166,12,21,0,4,27,10,0.087,2.27,103
+LA00417,Punjab,Patiala,Agricultural,Objection,465,162,51,0,7,30,58,0.379,7.07,264
+LA00418,Rajasthan,Jodhpur,Agricultural,Compensation,44,35,39,0,3,94,79,0.302,4.49,230
+LA00419,Gujarat,Surat,Agricultural,Notification,98,67,18,0,7,23,39,0.098,8.44,139
+LA00420,Uttar Pradesh,Agra,Agricultural,Possession,428,114,58,1,5,8,2,0.467,8.33,245
+LA00421,Punjab,Amritsar,Agricultural,Notification,275,106,43,0,7,13,21,0.31,13.47,167
+LA00422,Madhya Pradesh,Jabalpur,Agricultural,Notification,45,45,26,0,5,13,2,0.249,1.14,128
+LA00423,Madhya Pradesh,Bhopal,Residential,Compensation,260,177,9,0,4,67,37,0.246,2.45,209
+LA00424,Uttar Pradesh,Varanasi,Agricultural,Notification,383,143,59,0,11,16,25,0.308,6.69,237
+LA00425,Maharashtra,Nashik,Residential,Possession,192,170,46,0,7,6,62,0.282,3.87,232
+LA00426,Gujarat,Vadodara,Agricultural,Compensation,209,120,41,1,6,84,68,0.124,5.42,304
+LA00427,Punjab,Ludhiana,Agricultural,Notification,327,177,50,0,7,18,35,0.358,8.24,209
+LA00428,Madhya Pradesh,Indore,Agricultural,Compensation,311,110,37,0,4,92,79,0.299,3.51,252
+LA00429,Rajasthan,Udaipur,Agricultural,Compensation,455,100,14,0,2,46,36,0.241,8.96,180
+LA00430,Madhya Pradesh,Indore,Agricultural,Compensation,146,146,15,1,8,42,9,0.174,12.73,192
+LA00431,Rajasthan,Jaipur,Agricultural,Possession,160,157,5,0,2,1,73,0.178,7.89,133
+LA00432,Madhya Pradesh,Gwalior,Industrial,Compensation,103,17,4,0,2,74,32,0.179,15.19,118
+LA00433,Madhya Pradesh,Bhopal,Commercial,Compensation,343,165,44,0,5,25,71,0.192,0.84,255
+LA00434,Rajasthan,Jodhpur,Agricultural,Objection,281,126,52,0,7,26,59,0.36,4.11,260
+LA00435,Maharashtra,Nashik,Residential,Compensation,193,162,10,0,1,104,76,0.154,18.04,201
+LA00436,Rajasthan,Kota,Residential,Possession,357,130,35,0,9,20,52,0.085,3.11,253
+LA00437,Uttar Pradesh,Kanpur,Commercial,Compensation,207,168,8,0,6,29,48,0.167,2.72,178
+LA00438,Punjab,Patiala,Agricultural,Compensation,122,53,25,0,5,8,18,0.116,6.51,170
+LA00439,Rajasthan,Udaipur,Agricultural,Objection,284,38,48,0,3,24,22,0.12,7.26,178
+LA00440,Maharashtra,Pune,Agricultural,Compensation,235,39,49,0,7,20,26,0.295,4.33,208
+LA00441,Punjab,Amritsar,Agricultural,Possession,220,49,57,0,5,14,25,0.284,46.69,223
+LA00442,Gujarat,Ahmedabad,Agricultural,Notification,239,42,19,1,4,14,48,0.367,9.84,114
+LA00443,Rajasthan,Jaipur,Industrial,Objection,460,82,57,0,5,27,70,0.304,3.0,247
+LA00444,Maharashtra,Pune,Industrial,Compensation,131,39,48,0,7,34,2,0.324,1.75,198
+LA00445,Uttar Pradesh,Kanpur,Agricultural,Compensation,159,32,21,0,3,83,50,0.2,11.08,159
+LA00446,Uttar Pradesh,Varanasi,Agricultural,Compensation,296,97,20,0,7,59,61,0.246,2.93,187
+LA00447,Gujarat,Rajkot,Agricultural,Notification,51,51,7,0,0,22,35,0.034,63.6,57
+LA00448,Punjab,Patiala,Agricultural,Objection,98,28,56,0,18,22,22,0.328,11.34,200
+LA00449,Uttar Pradesh,Varanasi,Residential,Compensation,296,94,13,0,3,20,35,0.12,12.94,154
+LA00450,Gujarat,Ahmedabad,Agricultural,Compensation,270,121,17,0,2,116,67,0.196,9.48,203
+LA00451,Punjab,Bathinda,Commercial,Compensation,337,129,25,1,8,19,74,0.304,22.68,235
+LA00452,Punjab,Bathinda,Industrial,Compensation,83,23,9,0,4,36,55,0.07,0.67,142
+LA00453,Maharashtra,Pune,Residential,Compensation,432,134,49,1,14,26,39,0.352,2.22,298
+LA00454,Rajasthan,Jodhpur,Residential,Compensation,258,9,42,0,8,63,52,0.375,20.78,214
+LA00455,Uttar Pradesh,Varanasi,Agricultural,Compensation,103,46,10,0,3,81,54,0.02,33.13,196
+LA00456,Uttar Pradesh,Agra,Agricultural,Compensation,176,61,10,0,2,115,62,0.176,2.15,186
+LA00457,Rajasthan,Udaipur,Agricultural,Compensation,137,137,2,0,2,47,11,0.19,1.2,186
+LA00458,Uttar Pradesh,Varanasi,Residential,Notification,243,38,57,0,4,7,6,0.334,8.74,173
+LA00459,Punjab,Amritsar,Agricultural,Objection,251,142,27,0,7,25,27,0.346,12.01,198
+LA00460,Rajasthan,Jaipur,Commercial,Compensation,234,179,40,1,12,72,21,0.419,8.56,282
+LA00461,Madhya Pradesh,Indore,Agricultural,Possession,247,173,9,0,0,18,49,0.142,6.96,134
+LA00462,Rajasthan,Jaipur,Agricultural,Compensation,457,58,14,0,1,7,42,0.094,1.16,112
+LA00463,Madhya Pradesh,Indore,Agricultural,Notification,481,21,33,0,8,25,74,0.244,5.08,211
+LA00464,Maharashtra,Nagpur,Industrial,Compensation,260,44,13,0,4,31,62,0.188,5.89,138
+LA00465,Rajasthan,Jodhpur,Agricultural,Objection,483,140,37,1,8,6,11,0.326,4.27,214
+LA00466,Punjab,Ludhiana,Agricultural,Compensation,415,39,56,0,10,8,68,0.237,1.08,205
+LA00467,Rajasthan,Jodhpur,Agricultural,Possession,416,118,19,0,4,13,62,0.058,13.26,155
+LA00468,Uttar Pradesh,Kanpur,Residential,Compensation,136,70,37,0,6,39,30,0.236,17.56,186
+LA00469,Gujarat,Ahmedabad,Industrial,Compensation,236,139,55,0,11,33,4,0.176,3.34,276
+LA00470,Punjab,Ludhiana,Agricultural,Objection,195,111,54,0,11,25,64,0.253,6.14,214
+LA00471,Madhya Pradesh,Jabalpur,Industrial,Objection,75,75,1,0,2,29,15,0.02,4.5,92
+LA00472,Madhya Pradesh,Bhopal,Agricultural,Possession,65,65,7,0,3,3,17,0.177,4.54,60
+LA00473,Maharashtra,Nashik,Residential,Compensation,323,173,60,0,7,8,38,0.396,12.1,275
+LA00474,Maharashtra,Pune,Agricultural,Compensation,228,69,56,0,14,56,6,0.31,12.4,250
+LA00475,Uttar Pradesh,Lucknow,Agricultural,Objection,418,98,20,0,6,18,32,0.309,21.64,149
+LA00476,Madhya Pradesh,Indore,Residential,Notification,344,115,32,1,8,9,19,0.416,21.2,191
+LA00477,Punjab,Patiala,Agricultural,Notification,70,70,35,0,11,10,4,0.263,6.22,177
+LA00478,Rajasthan,Jaipur,Agricultural,Notification,424,89,41,0,11,16,73,0.236,126.74,239
+LA00479,Uttar Pradesh,Lucknow,Commercial,Objection,263,70,46,0,4,6,21,0.221,34.81,195
+LA00480,Rajasthan,Jaipur,Industrial,Possession,296,153,23,0,9,22,44,0.223,3.83,177
+LA00481,Gujarat,Vadodara,Agricultural,Compensation,484,172,54,1,7,11,66,0.372,8.39,295
+LA00482,Madhya Pradesh,Jabalpur,Residential,Objection,331,105,4,0,0,0,38,0.138,1.01,101
+LA00483,Gujarat,Ahmedabad,Commercial,Notification,40,23,2,1,4,6,23,0.245,7.59,114
+LA00484,Madhya Pradesh,Indore,Agricultural,Objection,113,56,58,0,7,15,60,0.279,39.4,227
+LA00485,Maharashtra,Nashik,Industrial,Possession,230,86,11,0,10,23,56,0.226,119.26,128
+LA00486,Gujarat,Surat,Agricultural,Objection,47,47,60,0,11,9,0,0.294,6.55,232
+LA00487,Maharashtra,Pune,Commercial,Compensation,108,108,18,0,5,114,66,0.155,10.33,233
+LA00488,Uttar Pradesh,Lucknow,Agricultural,Possession,402,149,22,0,7,16,9,0.093,13.54,184
+LA00489,Madhya Pradesh,Gwalior,Agricultural,Notification,97,10,2,1,4,16,59,0.173,53.5,84
+LA00490,Uttar Pradesh,Agra,Agricultural,Compensation,108,86,57,1,9,102,8,0.57,2.76,307
+LA00491,Punjab,Amritsar,Agricultural,Possession,267,128,22,0,4,19,5,0.093,105.16,122
+LA00492,Punjab,Amritsar,Industrial,Objection,72,72,11,1,3,25,9,0.26,5.38,143
+LA00493,Madhya Pradesh,Jabalpur,Industrial,Notification,150,30,30,1,13,6,59,0.275,2.29,190
+LA00494,Uttar Pradesh,Kanpur,Agricultural,Possession,471,159,10,0,2,16,36,0.02,5.39,118
+LA00495,Gujarat,Surat,Agricultural,Possession,327,6,48,0,7,0,48,0.307,3.29,180
+LA00496,Maharashtra,Pune,Agricultural,Compensation,483,39,5,0,0,63,22,0.053,11.24,111
+LA00497,Rajasthan,Udaipur,Agricultural,Compensation,196,154,30,0,3,30,9,0.217,1.42,188
+LA00498,Maharashtra,Aurangabad,Agricultural,Objection,320,143,24,0,3,23,63,0.249,8.51,207
+LA00499,Punjab,Ludhiana,Industrial,Possession,142,142,3,1,5,30,67,0.219,14.35,166
+LA00500,Maharashtra,Aurangabad,Commercial,Compensation,208,110,4,0,4,40,67,0.128,32.55,164
+LA00501,Rajasthan,Kota,Agricultural,Notification,112,112,32,0,7,21,5,0.137,14.59,129
+LA00502,Uttar Pradesh,Lucknow,Agricultural,Compensation,422,99,24,0,3,9,74,0.227,30.61,188
+LA00503,Punjab,Bathinda,Residential,Possession,116,95,8,0,3,21,43,0.099,4.03,111
+LA00504,Punjab,Ludhiana,Agricultural,Possession,126,95,9,0,4,15,15,0.02,10.96,121
+LA00505,Gujarat,Ahmedabad,Agricultural,Objection,248,56,49,0,14,30,16,0.346,0.8,195
+LA00506,Maharashtra,Pune,Agricultural,Notification,232,155,44,0,11,1,40,0.347,6.59,227
+LA00507,Uttar Pradesh,Agra,Agricultural,Possession,177,67,37,0,11,4,48,0.35,10.88,150
+LA00508,Gujarat,Vadodara,Agricultural,Possession,198,112,51,0,12,7,3,0.456,11.91,238
+LA00509,Gujarat,Surat,Commercial,Compensation,168,122,5,0,0,14,40,0.159,1.53,139
+LA00510,Gujarat,Ahmedabad,Agricultural,Compensation,459,99,42,0,8,23,19,0.284,5.0,223
+LA00511,Punjab,Ludhiana,Residential,Compensation,303,112,46,0,10,52,74,0.348,5.75,257
+LA00512,Madhya Pradesh,Jabalpur,Agricultural,Objection,463,13,13,0,5,22,49,0.065,4.81,88
+LA00513,Punjab,Bathinda,Industrial,Notification,494,60,33,0,5,12,30,0.072,15.26,133
+LA00514,Madhya Pradesh,Jabalpur,Agricultural,Notification,336,83,47,1,7,21,34,0.32,5.95,214
+LA00515,Punjab,Ludhiana,Agricultural,Objection,418,74,37,0,6,11,67,0.324,8.16,201
+LA00516,Rajasthan,Udaipur,Agricultural,Possession,82,82,15,1,6,2,55,0.192,4.53,157
+LA00517,Punjab,Patiala,Agricultural,Notification,477,162,40,1,6,18,31,0.369,21.43,208
+LA00518,Rajasthan,Kota,Agricultural,Objection,257,130,46,0,6,3,67,0.299,23.09,255
+LA00519,Maharashtra,Pune,Commercial,Compensation,366,67,1,0,0,120,50,0.103,5.43,158
+LA00520,Uttar Pradesh,Varanasi,Agricultural,Objection,145,13,35,0,4,27,4,0.108,127.82,124
+LA00521,Maharashtra,Nashik,Agricultural,Notification,74,74,31,1,4,5,51,0.324,3.43,178
+LA00522,Rajasthan,Jaipur,Agricultural,Compensation,446,160,23,0,4,7,76,0.135,20.23,199
+LA00523,Gujarat,Ahmedabad,Commercial,Objection,241,91,3,0,5,29,69,0.237,2.85,141
+LA00524,Madhya Pradesh,Indore,Industrial,Compensation,95,95,6,0,7,32,3,0.206,16.01,142
+LA00525,Gujarat,Ahmedabad,Residential,Possession,340,168,46,0,8,11,71,0.226,14.81,257
+LA00526,Gujarat,Surat,Residential,Notification,55,55,50,0,9,21,79,0.414,2.69,249
+LA00527,Punjab,Amritsar,Residential,Possession,242,41,26,0,5,3,13,0.208,6.48,94
+LA00528,Rajasthan,Udaipur,Residential,Possession,361,8,57,0,7,1,51,0.16,47.83,210
+LA00529,Punjab,Ludhiana,Agricultural,Possession,369,138,56,1,5,26,61,0.38,3.27,265
+LA00530,Punjab,Patiala,Residential,Compensation,243,103,40,0,10,39,3,0.371,11.04,234
+LA00531,Uttar Pradesh,Varanasi,Commercial,Compensation,204,32,35,0,4,98,67,0.145,10.33,236
+LA00532,Rajasthan,Udaipur,Agricultural,Compensation,424,14,58,0,3,70,31,0.284,7.08,174
+LA00533,Rajasthan,Udaipur,Residential,Compensation,117,117,37,1,9,68,24,0.219,1.31,266
+LA00534,Gujarat,Ahmedabad,Agricultural,Notification,65,61,57,0,6,26,20,0.195,16.92,213
+LA00535,Uttar Pradesh,Varanasi,Agricultural,Possession,103,62,59,1,17,26,40,0.354,7.48,253
+LA00536,Rajasthan,Udaipur,Agricultural,Compensation,407,115,12,0,2,29,64,0.028,22.28,126
+LA00537,Maharashtra,Nashik,Residential,Compensation,251,69,40,1,14,74,66,0.299,9.32,302
+LA00538,Rajasthan,Jodhpur,Industrial,Objection,47,47,44,0,8,4,18,0.389,7.88,161
+LA00539,Uttar Pradesh,Kanpur,Agricultural,Notification,109,109,50,0,5,4,66,0.262,10.72,210
+LA00540,Rajasthan,Jodhpur,Agricultural,Compensation,43,43,21,0,2,48,66,0.22,2.75,180
+LA00541,Madhya Pradesh,Indore,Agricultural,Compensation,413,51,52,1,10,81,4,0.469,35.1,275
+LA00542,Rajasthan,Udaipur,Agricultural,Objection,247,156,30,1,6,30,25,0.208,5.08,221
+LA00543,Gujarat,Rajkot,Industrial,Objection,62,62,24,0,7,2,1,0.111,5.14,131
+LA00544,Gujarat,Surat,Agricultural,Objection,134,134,10,0,2,16,80,0.18,26.9,158
+LA00545,Madhya Pradesh,Jabalpur,Agricultural,Compensation,320,65,20,0,2,60,38,0.103,9.46,143
+LA00546,Rajasthan,Jodhpur,Agricultural,Objection,309,8,59,0,11,1,21,0.364,5.83,195
+LA00547,Maharashtra,Aurangabad,Industrial,Possession,415,163,43,0,7,13,72,0.379,11.18,244
+LA00548,Uttar Pradesh,Kanpur,Agricultural,Notification,42,42,44,0,7,29,55,0.132,13.82,142
+LA00549,Uttar Pradesh,Agra,Residential,Objection,62,62,54,0,10,3,76,0.26,6.56,238
+LA00550,Madhya Pradesh,Bhopal,Agricultural,Objection,46,46,17,0,3,4,64,0.13,18.58,77
+LA00551,Madhya Pradesh,Gwalior,Agricultural,Compensation,215,45,40,1,10,110,77,0.298,2.07,271
+LA00552,Maharashtra,Nashik,Residential,Compensation,372,138,23,0,2,42,17,0.116,9.6,188
+LA00553,Madhya Pradesh,Bhopal,Agricultural,Compensation,342,19,51,0,6,107,16,0.231,16.45,210
+LA00554,Gujarat,Ahmedabad,Residential,Possession,128,74,26,0,7,1,6,0.184,13.76,120
+LA00555,Punjab,Bathinda,Agricultural,Objection,339,67,52,0,11,8,27,0.297,0.79,205
+LA00556,Uttar Pradesh,Lucknow,Residential,Compensation,339,120,45,0,8,9,44,0.33,6.51,250
+LA00557,Madhya Pradesh,Jabalpur,Commercial,Notification,120,99,47,0,10,30,45,0.262,2.19,225
+LA00558,Punjab,Bathinda,Residential,Objection,383,112,56,0,10,4,54,0.385,26.73,231
+LA00559,Madhya Pradesh,Bhopal,Agricultural,Compensation,228,88,48,0,6,18,59,0.213,5.0,225
+LA00560,Punjab,Patiala,Residential,Notification,57,57,20,0,7,5,66,0.068,23.92,132
+LA00561,Uttar Pradesh,Kanpur,Industrial,Compensation,213,33,32,0,3,85,42,0.174,2.19,194
+LA00562,Rajasthan,Jodhpur,Agricultural,Compensation,392,131,29,0,1,77,22,0.22,10.92,184
+LA00563,Maharashtra,Nagpur,Agricultural,Compensation,357,13,4,0,0,67,35,0.163,7.45,112
+LA00564,Gujarat,Surat,Commercial,Compensation,156,20,36,0,6,23,70,0.335,117.22,219
+LA00565,Punjab,Amritsar,Agricultural,Compensation,386,132,27,0,8,32,66,0.214,24.0,223
+LA00566,Gujarat,Surat,Residential,Objection,213,32,24,0,5,8,74,0.234,22.51,158
+LA00567,Gujarat,Rajkot,Commercial,Notification,246,140,7,0,2,11,43,0.218,56.14,161
+LA00568,Gujarat,Vadodara,Agricultural,Notification,70,28,31,0,2,18,63,0.13,9.81,130
+LA00569,Uttar Pradesh,Agra,Residential,Compensation,499,30,35,0,8,3,33,0.202,6.69,161
+LA00570,Uttar Pradesh,Varanasi,Residential,Possession,424,169,7,0,5,7,0,0.336,5.97,132
+LA00571,Punjab,Bathinda,Agricultural,Notification,121,36,39,0,11,19,60,0.307,10.26,181
+LA00572,Maharashtra,Aurangabad,Industrial,Compensation,294,165,11,0,3,25,7,0.165,0.5,141
+LA00573,Gujarat,Vadodara,Agricultural,Compensation,397,66,9,0,2,49,51,0.187,7.41,136
+LA00574,Rajasthan,Jodhpur,Agricultural,Possession,267,145,25,0,3,10,80,0.067,9.27,177
+LA00575,Rajasthan,Udaipur,Commercial,Compensation,129,129,24,0,7,23,2,0.126,6.32,207
+LA00576,Maharashtra,Nashik,Agricultural,Compensation,486,25,55,0,8,72,59,0.208,1.6,209
+LA00577,Punjab,Amritsar,Commercial,Compensation,156,63,5,0,3,58,70,0.137,6.36,154
+LA00578,Uttar Pradesh,Agra,Agricultural,Possession,187,106,21,0,7,23,50,0.138,1.59,156
+LA00579,Punjab,Bathinda,Agricultural,Notification,205,157,45,0,7,0,55,0.259,43.54,211
+LA00580,Rajasthan,Kota,Agricultural,Possession,449,37,15,0,2,10,73,0.112,5.71,113
+LA00581,Rajasthan,Jodhpur,Residential,Notification,265,37,59,0,6,5,62,0.168,0.94,193
+LA00582,Punjab,Amritsar,Commercial,Possession,368,69,45,0,4,4,3,0.316,6.01,206
+LA00583,Rajasthan,Jodhpur,Commercial,Notification,454,41,57,0,8,1,62,0.155,18.09,222
+LA00584,Rajasthan,Kota,Industrial,Notification,467,52,57,1,13,11,61,0.347,8.81,285
+LA00585,Maharashtra,Nashik,Residential,Notification,433,27,7,0,3,6,18,0.02,2.96,66
+LA00586,Punjab,Patiala,Commercial,Objection,457,150,28,0,6,23,53,0.12,3.75,190
+LA00587,Madhya Pradesh,Indore,Agricultural,Objection,476,145,45,0,7,15,68,0.268,5.55,213
+LA00588,Rajasthan,Jodhpur,Industrial,Notification,496,30,1,0,1,24,68,0.184,4.76,76
+LA00589,Punjab,Bathinda,Residential,Compensation,332,99,28,0,4,18,70,0.061,2.1,197
+LA00590,Punjab,Amritsar,Industrial,Objection,92,92,42,0,6,24,63,0.194,6.91,223
+LA00591,Madhya Pradesh,Bhopal,Agricultural,Compensation,83,83,48,1,9,64,9,0.226,1.95,261
+LA00592,Punjab,Amritsar,Agricultural,Possession,404,178,25,0,4,30,39,0.127,19.09,169
+LA00593,Gujarat,Vadodara,Residential,Compensation,178,117,52,1,13,68,18,0.394,21.57,286
+LA00594,Punjab,Ludhiana,Agricultural,Notification,408,125,41,0,11,25,5,0.307,2.71,234
+LA00595,Gujarat,Surat,Agricultural,Objection,470,10,3,0,3,5,21,0.02,3.61,49
+LA00596,Madhya Pradesh,Bhopal,Industrial,Possession,333,18,17,0,5,30,73,0.194,4.84,160
+LA00597,Uttar Pradesh,Kanpur,Agricultural,Notification,389,113,57,0,7,9,48,0.216,7.16,222
+LA00598,Madhya Pradesh,Gwalior,Agricultural,Objection,161,161,1,0,1,19,61,0.02,9.55,112
+LA00599,Uttar Pradesh,Varanasi,Agricultural,Possession,234,75,7,0,1,10,40,0.112,11.74,76
+LA00600,Uttar Pradesh,Agra,Agricultural,Possession,484,118,21,0,4,7,28,0.212,11.47,134
+LA00601,Uttar Pradesh,Varanasi,Residential,Objection,414,41,60,0,5,10,39,0.292,34.95,220
+LA00602,Madhya Pradesh,Bhopal,Industrial,Compensation,126,85,43,0,10,67,79,0.163,7.85,234
+LA00603,Madhya Pradesh,Jabalpur,Industrial,Compensation,471,137,9,0,6,46,23,0.115,2.01,198
+LA00604,Rajasthan,Kota,Residential,Compensation,265,121,24,0,4,19,25,0.114,1.48,171
+LA00605,Madhya Pradesh,Jabalpur,Residential,Notification,427,25,57,0,4,28,68,0.336,37.93,215
+LA00606,Uttar Pradesh,Varanasi,Agricultural,Notification,275,159,14,1,3,2,30,0.321,12.3,171
+LA00607,Gujarat,Vadodara,Industrial,Compensation,314,168,35,0,2,31,73,0.287,9.08,268
+LA00608,Uttar Pradesh,Agra,Agricultural,Objection,106,88,28,0,5,9,78,0.186,11.58,163
+LA00609,Punjab,Patiala,Agricultural,Compensation,189,64,46,1,14,7,5,0.459,8.67,247
+LA00610,Punjab,Bathinda,Industrial,Objection,370,98,46,0,4,11,54,0.167,11.4,178
+LA00611,Punjab,Bathinda,Industrial,Possession,426,146,50,1,9,11,7,0.516,5.09,263
+LA00612,Maharashtra,Aurangabad,Agricultural,Possession,71,71,8,0,1,21,71,0.028,21.23,126
+LA00613,Madhya Pradesh,Bhopal,Residential,Compensation,66,10,28,0,3,101,9,0.022,4.37,163
+LA00614,Maharashtra,Nagpur,Agricultural,Compensation,356,17,42,0,8,62,71,0.352,2.99,262
+LA00615,Madhya Pradesh,Bhopal,Agricultural,Objection,240,147,26,0,4,5,62,0.122,1.36,184
+LA00616,Uttar Pradesh,Kanpur,Agricultural,Compensation,429,143,41,0,3,41,43,0.239,5.83,217
+LA00617,Gujarat,Rajkot,Agricultural,Notification,62,62,39,0,1,22,16,0.136,26.25,147
+LA00618,Gujarat,Ahmedabad,Agricultural,Possession,194,27,23,0,8,28,21,0.366,4.68,117
+LA00619,Rajasthan,Kota,Agricultural,Possession,46,35,7,0,1,1,34,0.252,1.86,73
+LA00620,Rajasthan,Udaipur,Agricultural,Possession,364,74,59,0,3,18,68,0.416,9.82,205
+LA00621,Maharashtra,Aurangabad,Agricultural,Possession,434,45,50,0,12,6,72,0.286,3.85,211
+LA00622,Maharashtra,Nashik,Industrial,Possession,103,73,54,0,5,6,40,0.357,34.75,212
+LA00623,Rajasthan,Jaipur,Residential,Objection,182,103,18,1,6,25,18,0.251,21.64,197
+LA00624,Maharashtra,Aurangabad,Industrial,Possession,428,54,19,0,4,7,45,0.244,2.07,133
+LA00625,Uttar Pradesh,Varanasi,Agricultural,Compensation,49,26,20,0,4,96,67,0.125,6.21,152
+LA00626,Gujarat,Vadodara,Residential,Objection,478,75,2,0,2,3,43,0.218,3.47,134
+LA00627,Maharashtra,Aurangabad,Commercial,Compensation,447,132,11,0,1,6,72,0.084,2.32,108
+LA00628,Maharashtra,Pune,Agricultural,Objection,101,101,19,0,5,28,0,0.129,6.99,139
+LA00629,Uttar Pradesh,Kanpur,Agricultural,Objection,95,61,60,1,8,28,40,0.369,16.75,255
+LA00630,Maharashtra,Pune,Agricultural,Objection,355,59,13,0,2,7,3,0.145,6.81,100
+LA00631,Madhya Pradesh,Jabalpur,Agricultural,Notification,34,34,31,0,3,5,49,0.163,4.41,134
+LA00632,Gujarat,Vadodara,Agricultural,Compensation,268,35,33,1,6,1,49,0.346,0.81,197
+LA00633,Maharashtra,Aurangabad,Agricultural,Possession,61,61,22,0,6,19,25,0.131,3.8,141
+LA00634,Maharashtra,Nagpur,Agricultural,Compensation,280,158,56,0,7,44,64,0.353,12.83,274
+LA00635,Gujarat,Ahmedabad,Residential,Compensation,194,9,6,0,0,47,77,0.222,1.93,100
+LA00636,Madhya Pradesh,Bhopal,Agricultural,Objection,362,175,53,0,13,24,37,0.298,26.64,266
+LA00637,Gujarat,Surat,Agricultural,Compensation,444,9,45,0,10,29,35,0.435,4.12,193
+LA00638,Gujarat,Vadodara,Residential,Objection,260,85,19,0,4,0,15,0.245,8.97,124
+LA00639,Madhya Pradesh,Bhopal,Agricultural,Possession,332,122,47,0,8,14,2,0.432,4.96,235
+LA00640,Punjab,Bathinda,Agricultural,Notification,312,62,26,0,4,14,32,0.174,2.28,155
+LA00641,Madhya Pradesh,Bhopal,Agricultural,Compensation,493,40,59,1,19,79,35,0.292,11.48,317
+LA00642,Punjab,Amritsar,Agricultural,Compensation,138,13,3,0,1,31,62,0.036,4.06,115
+LA00643,Punjab,Ludhiana,Agricultural,Compensation,142,133,2,1,4,113,69,0.147,3.21,202
+LA00644,Maharashtra,Nashik,Agricultural,Possession,208,11,33,0,10,10,8,0.139,0.69,154
+LA00645,Madhya Pradesh,Indore,Agricultural,Objection,376,90,56,1,15,28,12,0.23,27.19,261
+LA00646,Gujarat,Ahmedabad,Industrial,Possession,437,74,4,0,1,30,45,0.178,7.43,146
+LA00647,Maharashtra,Nagpur,Industrial,Compensation,160,160,47,0,3,36,30,0.102,22.34,220
+LA00648,Uttar Pradesh,Varanasi,Agricultural,Compensation,81,81,57,0,9,71,56,0.372,13.74,285
+LA00649,Punjab,Bathinda,Agricultural,Compensation,316,148,30,0,12,71,26,0.384,22.34,224
+LA00650,Punjab,Amritsar,Agricultural,Possession,311,133,53,0,9,7,33,0.221,4.2,236
+LA00651,Maharashtra,Aurangabad,Commercial,Possession,206,100,46,1,11,5,35,0.394,1.87,213
+LA00652,Uttar Pradesh,Varanasi,Commercial,Objection,116,66,13,0,3,23,48,0.1,15.84,109
+LA00653,Gujarat,Rajkot,Agricultural,Possession,430,34,52,0,12,11,5,0.352,8.42,174
+LA00654,Madhya Pradesh,Indore,Agricultural,Compensation,428,175,42,0,5,5,71,0.141,4.63,239
+LA00655,Uttar Pradesh,Varanasi,Agricultural,Compensation,382,72,1,0,1,54,27,0.075,15.53,121
+LA00656,Uttar Pradesh,Kanpur,Industrial,Possession,302,80,35,0,6,28,17,0.304,10.06,225
+LA00657,Madhya Pradesh,Bhopal,Industrial,Objection,153,29,40,0,5,12,51,0.226,14.0,172
+LA00658,Uttar Pradesh,Agra,Agricultural,Compensation,219,53,49,0,7,71,10,0.135,2.66,228
+LA00659,Rajasthan,Kota,Residential,Notification,62,62,47,1,8,13,47,0.46,19.64,224
+LA00660,Gujarat,Ahmedabad,Agricultural,Objection,147,80,29,0,5,5,4,0.088,7.35,152
+LA00661,Gujarat,Surat,Residential,Possession,242,108,18,0,4,3,21,0.157,21.86,139
+LA00662,Madhya Pradesh,Jabalpur,Industrial,Objection,235,42,12,0,1,8,58,0.171,19.46,135
+LA00663,Rajasthan,Jaipur,Agricultural,Objection,67,19,6,0,3,11,30,0.117,14.68,65
+LA00664,Gujarat,Surat,Agricultural,Objection,481,160,39,1,8,4,72,0.535,6.61,216
+LA00665,Uttar Pradesh,Lucknow,Residential,Compensation,156,81,58,0,8,113,28,0.358,15.02,290
+LA00666,Madhya Pradesh,Gwalior,Agricultural,Possession,269,68,5,0,1,28,55,0.083,22.44,68
+LA00667,Uttar Pradesh,Lucknow,Commercial,Possession,249,55,43,1,10,27,2,0.399,13.55,242
+LA00668,Punjab,Bathinda,Agricultural,Notification,251,120,36,1,4,9,79,0.331,9.05,196
+LA00669,Punjab,Ludhiana,Industrial,Compensation,428,104,11,1,6,29,49,0.234,15.06,171
+LA00670,Rajasthan,Udaipur,Agricultural,Compensation,381,73,13,1,3,51,57,0.251,4.37,227
+LA00671,Punjab,Bathinda,Agricultural,Compensation,438,168,18,0,6,110,26,0.12,33.58,213
+LA00672,Uttar Pradesh,Varanasi,Agricultural,Objection,208,163,42,1,9,25,23,0.362,1.37,247
+LA00673,Uttar Pradesh,Varanasi,Agricultural,Objection,154,39,18,1,7,5,35,0.217,7.65,159
+LA00674,Rajasthan,Jaipur,Agricultural,Compensation,231,118,50,0,7,5,20,0.117,4.92,232
+LA00675,Uttar Pradesh,Varanasi,Residential,Compensation,294,175,23,0,7,86,1,0.266,3.89,246
+LA00676,Madhya Pradesh,Gwalior,Agricultural,Compensation,188,90,7,0,6,66,54,0.071,10.03,132
+LA00677,Uttar Pradesh,Varanasi,Agricultural,Compensation,246,10,6,0,2,5,58,0.116,2.4,109
+LA00678,Rajasthan,Udaipur,Agricultural,Possession,101,28,25,0,2,20,54,0.111,63.56,119
+LA00679,Uttar Pradesh,Kanpur,Agricultural,Compensation,304,122,25,0,3,26,44,0.115,1.91,161
+LA00680,Punjab,Amritsar,Industrial,Objection,366,163,45,0,5,0,42,0.164,2.85,220
+LA00681,Madhya Pradesh,Bhopal,Industrial,Possession,278,27,29,0,2,10,79,0.261,2.6,118
+LA00682,Rajasthan,Jaipur,Agricultural,Possession,441,101,10,0,1,25,42,0.212,9.01,141
+LA00683,Punjab,Amritsar,Commercial,Notification,498,92,13,1,5,26,57,0.238,20.38,156
+LA00684,Punjab,Bathinda,Residential,Compensation,456,55,34,0,8,72,33,0.172,12.5,196
+LA00685,Gujarat,Vadodara,Industrial,Objection,73,73,21,0,5,22,2,0.028,32.21,129
+LA00686,Madhya Pradesh,Indore,Agricultural,Compensation,444,159,41,0,5,0,28,0.297,3.23,220
+LA00687,Maharashtra,Pune,Agricultural,Objection,187,47,56,1,6,26,58,0.334,14.28,257
+LA00688,Uttar Pradesh,Kanpur,Agricultural,Compensation,242,14,22,1,8,92,51,0.184,5.45,175
+LA00689,Maharashtra,Nagpur,Industrial,Objection,224,68,34,0,6,21,56,0.213,9.28,176
+LA00690,Madhya Pradesh,Jabalpur,Residential,Compensation,163,60,50,0,5,58,60,0.238,22.39,232
+LA00691,Punjab,Patiala,Agricultural,Possession,443,132,13,0,3,5,17,0.02,1.36,99
+LA00692,Madhya Pradesh,Gwalior,Agricultural,Objection,330,99,31,0,4,16,65,0.086,54.11,173
+LA00693,Punjab,Bathinda,Residential,Possession,485,8,19,0,2,16,57,0.177,6.39,101
+LA00694,Punjab,Amritsar,Industrial,Possession,479,64,38,0,7,17,24,0.175,1.48,148
+LA00695,Rajasthan,Udaipur,Agricultural,Possession,227,134,45,0,8,25,40,0.294,3.7,230
+LA00696,Gujarat,Surat,Residential,Notification,372,88,9,0,1,23,69,0.125,8.19,142
+LA00697,Madhya Pradesh,Bhopal,Agricultural,Possession,266,104,12,0,1,9,13,0.208,3.69,115
+LA00698,Uttar Pradesh,Agra,Agricultural,Notification,263,51,2,0,2,14,24,0.024,0.95,61
+LA00699,Rajasthan,Jaipur,Agricultural,Objection,378,61,1,0,2,2,15,0.106,8.14,76
+LA00700,Rajasthan,Jaipur,Commercial,Possession,354,27,4,0,3,24,24,0.151,3.59,83
+LA00701,Uttar Pradesh,Varanasi,Industrial,Compensation,459,19,43,0,6,112,16,0.192,14.17,237
+LA00702,Uttar Pradesh,Varanasi,Agricultural,Compensation,393,11,55,0,8,4,65,0.379,2.54,223
+LA00703,Gujarat,Ahmedabad,Agricultural,Objection,323,114,25,1,6,16,80,0.146,70.92,157
+LA00704,Gujarat,Rajkot,Agricultural,Possession,462,32,53,0,10,28,78,0.219,12.35,234
+LA00705,Rajasthan,Jaipur,Agricultural,Compensation,78,78,44,0,6,84,29,0.11,9.0,237
+LA00706,Uttar Pradesh,Agra,Agricultural,Compensation,389,172,49,0,9,34,75,0.211,13.78,283
+LA00707,Rajasthan,Kota,Agricultural,Possession,214,127,45,0,4,5,6,0.233,1.2,138
+LA00708,Uttar Pradesh,Agra,Agricultural,Objection,234,106,12,1,6,25,8,0.301,4.5,160
+LA00709,Maharashtra,Nagpur,Agricultural,Notification,398,25,32,0,8,20,26,0.196,43.95,154
+LA00710,Maharashtra,Aurangabad,Agricultural,Compensation,158,91,32,0,8,59,23,0.16,5.36,207
+LA00711,Madhya Pradesh,Bhopal,Commercial,Possession,446,161,39,0,7,28,74,0.107,6.94,230
+LA00712,Uttar Pradesh,Lucknow,Agricultural,Objection,265,72,48,0,7,3,61,0.165,4.63,213
+LA00713,Madhya Pradesh,Jabalpur,Residential,Objection,194,150,7,0,1,19,61,0.131,31.96,147
+LA00714,Madhya Pradesh,Gwalior,Industrial,Notification,184,129,41,0,4,11,65,0.302,5.79,224
+LA00715,Punjab,Patiala,Residential,Possession,228,51,50,0,7,7,58,0.235,2.11,201
+LA00716,Madhya Pradesh,Indore,Agricultural,Objection,474,29,7,0,2,28,40,0.205,97.4,104
+LA00717,Uttar Pradesh,Agra,Agricultural,Compensation,78,7,25,0,2,48,4,0.096,1.87,146
+LA00718,Maharashtra,Nagpur,Residential,Possession,269,53,54,0,10,25,1,0.258,6.7,197
+LA00719,Gujarat,Vadodara,Agricultural,Notification,423,63,2,0,1,4,79,0.065,3.18,61
+LA00720,Uttar Pradesh,Lucknow,Agricultural,Compensation,252,120,10,0,4,56,40,0.245,3.66,171
+LA00721,Rajasthan,Kota,Agricultural,Compensation,296,105,49,1,10,66,77,0.382,2.56,303
+LA00722,Punjab,Patiala,Agricultural,Possession,194,89,11,1,5,11,2,0.085,4.31,141
+LA00723,Punjab,Ludhiana,Agricultural,Objection,94,94,43,0,7,6,51,0.321,19.77,221
+LA00724,Rajasthan,Jodhpur,Residential,Objection,331,140,55,0,7,18,22,0.434,1.1,248
+LA00725,Madhya Pradesh,Jabalpur,Agricultural,Notification,463,130,30,0,7,26,29,0.179,26.07,167
+LA00726,Rajasthan,Kota,Agricultural,Compensation,274,162,30,1,12,119,53,0.237,21.94,274
+LA00727,Madhya Pradesh,Bhopal,Commercial,Compensation,233,68,26,0,8,60,40,0.256,12.29,208
+LA00728,Rajasthan,Jaipur,Agricultural,Notification,90,90,23,0,1,20,10,0.32,8.38,100
+LA00729,Maharashtra,Nagpur,Residential,Objection,474,79,23,0,5,19,80,0.238,9.74,171
+LA00730,Uttar Pradesh,Agra,Agricultural,Possession,439,37,34,1,5,8,57,0.179,30.67,221
+LA00731,Madhya Pradesh,Jabalpur,Agricultural,Notification,454,30,54,0,6,0,29,0.341,1.29,150
+LA00732,Maharashtra,Nagpur,Industrial,Objection,199,21,59,0,6,25,50,0.331,15.29,222
+LA00733,Punjab,Bathinda,Agricultural,Compensation,324,173,52,1,12,76,12,0.31,3.5,312
+LA00734,Madhya Pradesh,Bhopal,Agricultural,Objection,233,34,8,0,1,21,34,0.213,16.87,108
+LA00735,Gujarat,Surat,Industrial,Objection,140,140,19,0,1,16,34,0.184,4.0,141
+LA00736,Madhya Pradesh,Bhopal,Residential,Compensation,126,126,46,0,6,119,30,0.358,14.98,283
+LA00737,Madhya Pradesh,Gwalior,Residential,Notification,210,82,33,0,3,7,39,0.117,1.57,136
+LA00738,Maharashtra,Pune,Agricultural,Compensation,290,165,21,0,4,86,74,0.193,1.36,198
+LA00739,Madhya Pradesh,Indore,Agricultural,Compensation,87,87,19,0,4,90,0,0.083,6.6,182
+LA00740,Punjab,Amritsar,Residential,Compensation,360,167,8,0,4,87,44,0.136,31.05,206
+LA00741,Madhya Pradesh,Bhopal,Agricultural,Notification,245,92,20,0,6,0,76,0.28,12.63,130
+LA00742,Madhya Pradesh,Bhopal,Agricultural,Possession,445,57,26,0,3,4,72,0.063,12.54,125
+LA00743,Uttar Pradesh,Kanpur,Commercial,Notification,161,12,25,0,2,17,72,0.062,17.46,109
+LA00744,Gujarat,Rajkot,Agricultural,Compensation,54,54,33,0,6,33,33,0.284,4.97,157
+LA00745,Madhya Pradesh,Bhopal,Agricultural,Objection,176,158,17,0,3,25,45,0.144,13.61,177
+LA00746,Maharashtra,Nashik,Agricultural,Compensation,488,99,13,0,6,70,48,0.231,4.14,194
+LA00747,Uttar Pradesh,Lucknow,Agricultural,Objection,181,17,54,0,9,15,67,0.222,5.4,198
+LA00748,Gujarat,Rajkot,Residential,Notification,361,149,25,1,5,7,77,0.282,6.11,199
+LA00749,Gujarat,Surat,Industrial,Compensation,427,57,16,1,6,82,20,0.303,4.28,198
+LA00750,Rajasthan,Udaipur,Agricultural,Notification,163,101,39,0,5,21,10,0.243,6.92,172
+LA00751,Punjab,Ludhiana,Agricultural,Objection,332,121,33,1,8,24,21,0.168,5.73,179
+LA00752,Rajasthan,Jaipur,Agricultural,Compensation,126,30,35,1,9,120,21,0.546,3.64,260
+LA00753,Rajasthan,Kota,Agricultural,Possession,200,16,14,0,5,15,24,0.156,6.42,78
+LA00754,Punjab,Patiala,Agricultural,Notification,169,18,44,0,5,14,74,0.137,8.63,169
+LA00755,Uttar Pradesh,Varanasi,Industrial,Possession,346,173,12,0,4,10,17,0.155,2.46,132
+LA00756,Maharashtra,Aurangabad,Agricultural,Compensation,442,173,51,0,11,51,34,0.315,11.22,258
+LA00757,Madhya Pradesh,Jabalpur,Agricultural,Possession,148,80,26,0,5,22,28,0.261,4.51,153
+LA00758,Maharashtra,Nagpur,Industrial,Compensation,167,79,25,0,5,104,22,0.252,9.01,204
+LA00759,Rajasthan,Jodhpur,Agricultural,Compensation,416,76,24,0,5,34,15,0.157,3.8,164
+LA00760,Madhya Pradesh,Indore,Industrial,Compensation,247,66,26,0,3,101,80,0.039,21.13,184
+LA00761,Gujarat,Ahmedabad,Agricultural,Compensation,271,100,40,1,5,77,50,0.367,19.22,260
+LA00762,Uttar Pradesh,Agra,Agricultural,Possession,362,67,30,0,4,14,8,0.062,2.59,137
+LA00763,Punjab,Amritsar,Industrial,Notification,94,94,8,0,1,9,53,0.207,12.49,133
+LA00764,Punjab,Ludhiana,Agricultural,Objection,440,71,34,0,6,28,49,0.152,31.38,177
+LA00765,Maharashtra,Pune,Agricultural,Notification,202,115,17,0,4,15,29,0.198,2.86,120
+LA00766,Madhya Pradesh,Gwalior,Agricultural,Possession,340,171,7,0,4,6,63,0.06,3.1,116
+LA00767,Uttar Pradesh,Agra,Residential,Objection,233,41,51,0,7,18,64,0.233,15.41,180
+LA00768,Maharashtra,Aurangabad,Residential,Compensation,384,16,19,0,8,43,63,0.098,2.0,164
+LA00769,Rajasthan,Jodhpur,Agricultural,Possession,318,97,36,0,4,3,51,0.271,3.4,190
+LA00770,Maharashtra,Aurangabad,Residential,Possession,111,25,11,0,3,29,35,0.075,2.68,84
+LA00771,Uttar Pradesh,Kanpur,Residential,Notification,118,45,21,0,1,29,16,0.217,15.6,118
+LA00772,Punjab,Ludhiana,Agricultural,Compensation,443,143,24,0,7,16,3,0.13,3.7,176
+LA00773,Rajasthan,Jaipur,Agricultural,Possession,274,78,9,0,2,9,74,0.097,5.56,126
+LA00774,Madhya Pradesh,Gwalior,Agricultural,Notification,159,101,59,0,10,25,68,0.309,3.5,254
+LA00775,Punjab,Patiala,Agricultural,Compensation,97,97,19,0,2,75,16,0.163,23.3,127
+LA00776,Punjab,Amritsar,Agricultural,Objection,90,27,35,0,7,27,65,0.143,3.13,185
+LA00777,Maharashtra,Nagpur,Agricultural,Compensation,463,89,34,0,10,116,3,0.275,1.81,234
+LA00778,Rajasthan,Udaipur,Agricultural,Compensation,489,11,26,0,4,54,19,0.157,1.74,139
+LA00779,Gujarat,Surat,Agricultural,Objection,215,92,36,0,10,9,12,0.27,14.79,175
+LA00780,Punjab,Ludhiana,Residential,Notification,124,44,34,0,3,21,27,0.204,15.89,142
+LA00781,Punjab,Amritsar,Agricultural,Notification,227,165,5,0,4,7,25,0.152,25.75,111
+LA00782,Uttar Pradesh,Varanasi,Industrial,Notification,94,50,41,0,8,24,41,0.207,2.09,159
+LA00783,Rajasthan,Udaipur,Industrial,Compensation,288,40,7,0,1,12,37,0.043,5.86,95
+LA00784,Rajasthan,Udaipur,Residential,Objection,324,7,27,0,6,7,9,0.221,83.71,111
+LA00785,Maharashtra,Aurangabad,Industrial,Objection,494,28,22,0,3,24,12,0.124,5.46,146
+LA00786,Uttar Pradesh,Lucknow,Industrial,Compensation,180,43,27,0,5,18,66,0.301,4.21,183
+LA00787,Rajasthan,Jodhpur,Agricultural,Compensation,123,45,5,0,2,0,44,0.107,7.24,144
+LA00788,Madhya Pradesh,Bhopal,Residential,Compensation,92,92,43,0,2,62,74,0.125,12.55,231
+LA00789,Uttar Pradesh,Lucknow,Agricultural,Possession,207,161,26,0,6,0,10,0.136,12.34,174
+LA00790,Rajasthan,Udaipur,Residential,Objection,313,155,4,0,1,22,24,0.02,4.0,104
+LA00791,Rajasthan,Udaipur,Agricultural,Possession,61,61,1,0,1,4,12,0.171,4.12,71
+LA00792,Maharashtra,Pune,Agricultural,Notification,387,163,33,0,2,21,74,0.261,5.49,192
+LA00793,Madhya Pradesh,Gwalior,Agricultural,Compensation,246,85,40,0,8,98,12,0.231,3.56,216
+LA00794,Madhya Pradesh,Gwalior,Industrial,Possession,403,73,33,0,1,27,64,0.221,2.15,162
+LA00795,Maharashtra,Pune,Agricultural,Possession,248,119,44,0,6,30,15,0.239,45.06,208
+LA00796,Gujarat,Rajkot,Agricultural,Compensation,103,61,46,0,10,73,58,0.33,4.92,255
+LA00797,Punjab,Bathinda,Agricultural,Compensation,40,40,53,0,8,47,36,0.323,5.21,207
+LA00798,Maharashtra,Nagpur,Agricultural,Objection,292,180,59,0,7,19,78,0.356,5.37,283
+LA00799,Gujarat,Vadodara,Commercial,Compensation,284,39,54,0,6,17,5,0.266,6.82,224
+LA00800,Maharashtra,Nashik,Commercial,Compensation,413,140,48,0,8,118,26,0.213,11.41,271
+LA00801,Rajasthan,Udaipur,Agricultural,Possession,443,169,26,0,5,30,58,0.234,4.64,182
+LA00802,Gujarat,Surat,Agricultural,Compensation,105,99,31,0,6,108,74,0.325,23.09,248
+LA00803,Uttar Pradesh,Varanasi,Agricultural,Notification,178,67,37,0,5,15,43,0.308,13.43,118
+LA00804,Punjab,Ludhiana,Agricultural,Compensation,127,49,11,0,6,35,7,0.257,6.1,136
+LA00805,Madhya Pradesh,Bhopal,Commercial,Notification,80,34,41,0,10,5,50,0.256,3.8,207
+LA00806,Madhya Pradesh,Jabalpur,Residential,Objection,31,31,36,1,7,23,38,0.242,21.87,143
+LA00807,Uttar Pradesh,Agra,Agricultural,Objection,68,68,32,0,8,15,62,0.138,6.28,187
+LA00808,Rajasthan,Jodhpur,Residential,Compensation,277,95,51,0,12,7,44,0.393,2.13,264
+LA00809,Maharashtra,Aurangabad,Agricultural,Notification,101,43,42,0,4,9,72,0.086,20.51,128
+LA00810,Punjab,Ludhiana,Residential,Notification,121,100,56,0,6,2,9,0.408,3.57,218
+LA00811,Rajasthan,Kota,Agricultural,Notification,85,85,59,0,7,24,50,0.237,17.61,234
+LA00812,Punjab,Amritsar,Residential,Possession,371,7,50,0,4,1,59,0.417,0.6,164
+LA00813,Madhya Pradesh,Bhopal,Agricultural,Compensation,329,8,18,0,3,10,32,0.143,5.11,105
+LA00814,Gujarat,Rajkot,Industrial,Notification,483,173,12,0,3,25,38,0.186,23.57,153
+LA00815,Madhya Pradesh,Bhopal,Agricultural,Notification,82,82,18,1,8,1,56,0.45,7.43,186
+LA00816,Punjab,Ludhiana,Agricultural,Compensation,128,106,43,0,9,111,36,0.222,13.44,245
+LA00817,Rajasthan,Kota,Agricultural,Objection,244,164,52,0,10,23,31,0.254,3.0,247
+LA00818,Rajasthan,Udaipur,Agricultural,Compensation,335,108,53,0,5,27,47,0.22,10.46,225
+LA00819,Uttar Pradesh,Lucknow,Agricultural,Objection,91,91,42,0,8,2,65,0.163,7.42,197
+LA00820,Punjab,Patiala,Residential,Possession,129,42,41,1,6,8,10,0.309,9.42,204
+LA00821,Rajasthan,Kota,Residential,Objection,228,147,58,1,8,18,70,0.355,56.79,290
+LA00822,Uttar Pradesh,Varanasi,Agricultural,Compensation,38,38,42,1,11,101,16,0.249,27.24,238
+LA00823,Rajasthan,Jaipur,Residential,Notification,216,57,9,0,1,16,7,0.097,16.31,80
+LA00824,Uttar Pradesh,Varanasi,Residential,Possession,387,134,31,0,6,8,14,0.236,16.52,164
+LA00825,Uttar Pradesh,Kanpur,Agricultural,Possession,278,132,22,0,5,16,6,0.095,2.98,127
+LA00826,Rajasthan,Udaipur,Agricultural,Compensation,234,21,39,0,5,105,77,0.214,4.61,239
+LA00827,Madhya Pradesh,Indore,Agricultural,Compensation,259,33,39,1,6,31,23,0.441,1.6,244
+LA00828,Punjab,Bathinda,Agricultural,Objection,475,109,18,0,6,16,62,0.041,2.08,118
+LA00829,Punjab,Patiala,Commercial,Possession,275,114,18,0,3,11,14,0.304,3.04,161
+LA00830,Rajasthan,Jaipur,Industrial,Compensation,281,120,6,0,4,117,42,0.055,7.18,195
+LA00831,Gujarat,Rajkot,Residential,Objection,468,70,18,0,1,11,34,0.161,2.17,105
+LA00832,Gujarat,Rajkot,Agricultural,Compensation,104,104,50,0,3,89,53,0.363,7.11,249
+LA00833,Maharashtra,Nashik,Residential,Compensation,75,75,40,0,10,63,80,0.367,6.33,241
+LA00834,Rajasthan,Kota,Residential,Possession,241,41,57,0,10,18,52,0.337,2.38,258
+LA00835,Punjab,Amritsar,Agricultural,Compensation,180,25,56,1,15,53,56,0.35,33.97,306
+LA00836,Madhya Pradesh,Gwalior,Commercial,Compensation,125,125,52,0,6,27,21,0.211,1.96,228
+LA00837,Madhya Pradesh,Jabalpur,Agricultural,Compensation,86,86,11,0,2,81,9,0.077,22.59,118
+LA00838,Gujarat,Rajkot,Agricultural,Objection,443,86,21,0,4,17,7,0.313,0.78,158
+LA00839,Rajasthan,Jaipur,Agricultural,Objection,319,41,4,0,0,27,24,0.063,6.41,90
+LA00840,Punjab,Bathinda,Agricultural,Notification,355,21,6,1,3,20,44,0.233,2.23,124
+LA00841,Gujarat,Surat,Industrial,Compensation,85,31,14,0,5,81,4,0.055,3.84,123
+LA00842,Uttar Pradesh,Kanpur,Agricultural,Objection,190,23,17,0,4,2,21,0.055,45.16,111
+LA00843,Punjab,Bathinda,Agricultural,Objection,322,98,1,0,2,15,51,0.09,5.22,92
+LA00844,Rajasthan,Jodhpur,Agricultural,Objection,278,39,51,0,6,10,70,0.245,2.45,210
+LA00845,Rajasthan,Jodhpur,Agricultural,Objection,357,27,32,0,8,0,80,0.188,12.03,161
+LA00846,Rajasthan,Jodhpur,Agricultural,Compensation,345,54,40,0,6,60,19,0.114,5.18,227
+LA00847,Rajasthan,Udaipur,Agricultural,Objection,224,128,40,1,10,5,8,0.334,8.59,232
+LA00848,Rajasthan,Jodhpur,Residential,Notification,398,92,59,0,15,0,46,0.44,2.96,241
+LA00849,Madhya Pradesh,Indore,Agricultural,Compensation,152,32,9,0,2,74,75,0.047,3.11,139
+LA00850,Uttar Pradesh,Agra,Commercial,Objection,67,67,21,0,3,1,34,0.231,3.36,141
+LA00851,Punjab,Ludhiana,Agricultural,Objection,460,91,19,0,6,25,73,0.02,16.42,130
+LA00852,Madhya Pradesh,Indore,Residential,Objection,40,37,34,0,6,18,60,0.147,5.89,201
+LA00853,Punjab,Ludhiana,Commercial,Possession,163,126,32,0,5,29,72,0.049,2.59,221
+LA00854,Gujarat,Ahmedabad,Agricultural,Objection,83,83,48,0,6,2,77,0.359,8.69,213
+LA00855,Gujarat,Vadodara,Agricultural,Compensation,139,100,34,0,7,114,8,0.283,8.0,240
+LA00856,Punjab,Ludhiana,Industrial,Possession,216,33,15,0,1,26,33,0.052,13.11,141
+LA00857,Gujarat,Vadodara,Agricultural,Compensation,91,59,34,0,9,24,4,0.24,4.56,205
+LA00858,Rajasthan,Udaipur,Residential,Objection,249,110,58,0,6,23,3,0.391,6.84,230
+LA00859,Madhya Pradesh,Gwalior,Agricultural,Compensation,466,180,35,0,6,56,38,0.323,11.26,245
+LA00860,Madhya Pradesh,Indore,Agricultural,Compensation,94,94,36,0,6,94,53,0.186,2.69,196
+LA00861,Punjab,Ludhiana,Agricultural,Objection,466,169,11,0,5,15,71,0.02,17.93,172
+LA00862,Punjab,Bathinda,Industrial,Compensation,223,151,1,0,1,109,10,0.02,7.51,182
+LA00863,Rajasthan,Udaipur,Agricultural,Objection,309,106,13,0,3,3,2,0.193,2.46,143
+LA00864,Madhya Pradesh,Gwalior,Commercial,Notification,238,119,2,0,0,0,8,0.255,2.44,110
+LA00865,Punjab,Ludhiana,Residential,Objection,179,134,28,0,8,6,75,0.19,6.69,204
+LA00866,Madhya Pradesh,Bhopal,Agricultural,Notification,81,81,53,0,8,3,53,0.233,4.26,181
+LA00867,Madhya Pradesh,Indore,Agricultural,Objection,309,117,27,0,2,30,38,0.37,15.71,185
+LA00868,Punjab,Ludhiana,Agricultural,Compensation,461,28,39,1,12,100,8,0.373,5.55,231
+LA00869,Maharashtra,Aurangabad,Agricultural,Possession,275,159,52,0,7,0,30,0.178,10.0,230
+LA00870,Rajasthan,Jaipur,Residential,Notification,312,6,46,1,10,14,10,0.351,3.16,173
+LA00871,Maharashtra,Nashik,Agricultural,Compensation,333,79,40,0,8,31,2,0.316,7.22,214
+LA00872,Gujarat,Rajkot,Agricultural,Compensation,213,81,48,1,18,77,35,0.378,27.54,317
+LA00873,Rajasthan,Udaipur,Residential,Notification,86,86,17,0,3,20,40,0.209,6.37,136
+LA00874,Rajasthan,Jaipur,Residential,Objection,268,20,26,0,6,26,36,0.055,4.25,141
+LA00875,Madhya Pradesh,Indore,Agricultural,Notification,439,88,24,0,5,18,70,0.059,3.11,157
+LA00876,Uttar Pradesh,Kanpur,Residential,Objection,177,67,48,0,5,28,74,0.199,7.25,242
+LA00877,Uttar Pradesh,Kanpur,Agricultural,Objection,440,22,25,0,6,19,9,0.157,30.24,124
+LA00878,Madhya Pradesh,Jabalpur,Residential,Objection,432,44,57,1,14,16,22,0.434,1.89,264
+LA00879,Uttar Pradesh,Varanasi,Agricultural,Compensation,145,79,12,0,2,21,40,0.177,7.03,165
+LA00880,Uttar Pradesh,Varanasi,Agricultural,Notification,300,166,11,0,1,21,32,0.318,1.33,153
+LA00881,Rajasthan,Jaipur,Agricultural,Notification,382,73,43,0,5,23,35,0.181,4.9,133
+LA00882,Punjab,Ludhiana,Residential,Notification,263,159,46,0,7,24,57,0.23,9.61,212
+LA00883,Maharashtra,Nagpur,Residential,Compensation,359,134,41,0,7,103,14,0.181,1.52,262
+LA00884,Rajasthan,Jaipur,Agricultural,Objection,459,149,19,0,5,22,66,0.243,4.74,173
+LA00885,Madhya Pradesh,Indore,Industrial,Compensation,325,155,1,0,1,75,21,0.176,9.88,189
+LA00886,Madhya Pradesh,Bhopal,Commercial,Objection,424,130,20,0,0,15,28,0.114,8.42,184
+LA00887,Rajasthan,Udaipur,Agricultural,Notification,407,134,28,0,5,17,17,0.353,10.37,156
+LA00888,Gujarat,Ahmedabad,Residential,Possession,412,32,25,0,3,25,51,0.117,2.79,115
+LA00889,Rajasthan,Jaipur,Agricultural,Notification,431,131,56,0,7,4,56,0.372,9.88,223
+LA00890,Gujarat,Ahmedabad,Industrial,Notification,136,13,52,1,10,16,50,0.498,4.06,217
+LA00891,Rajasthan,Jaipur,Agricultural,Notification,38,38,47,0,5,23,39,0.146,15.09,190
+LA00892,Madhya Pradesh,Gwalior,Agricultural,Possession,102,102,2,0,4,8,24,0.141,0.73,83
+LA00893,Uttar Pradesh,Agra,Agricultural,Compensation,147,138,8,0,2,119,55,0.02,5.53,194
+LA00894,Punjab,Bathinda,Agricultural,Compensation,355,118,27,1,6,29,9,0.352,8.16,237
+LA00895,Madhya Pradesh,Indore,Residential,Possession,270,69,38,0,4,9,25,0.133,28.49,175
+LA00896,Uttar Pradesh,Kanpur,Agricultural,Notification,250,70,41,1,6,11,55,0.381,8.06,207
+LA00897,Uttar Pradesh,Kanpur,Agricultural,Possession,34,34,18,0,9,29,56,0.221,8.92,138
+LA00898,Rajasthan,Kota,Agricultural,Objection,352,88,7,0,3,2,21,0.2,10.76,142
+LA00899,Rajasthan,Udaipur,Industrial,Compensation,201,64,20,0,1,25,27,0.223,25.87,148
+LA00900,Uttar Pradesh,Lucknow,Commercial,Objection,388,91,48,1,7,1,25,0.366,5.04,251
+LA00901,Rajasthan,Kota,Agricultural,Objection,83,83,60,0,13,24,71,0.286,1.82,253
+LA00902,Rajasthan,Udaipur,Agricultural,Possession,169,47,57,0,7,14,46,0.288,1.5,174
+LA00903,Gujarat,Rajkot,Agricultural,Notification,55,55,36,0,7,13,9,0.131,14.36,136
+LA00904,Punjab,Patiala,Industrial,Possession,164,60,6,0,3,29,13,0.09,9.24,97
+LA00905,Maharashtra,Nagpur,Residential,Objection,464,52,59,0,14,23,5,0.291,5.72,228
+LA00906,Madhya Pradesh,Jabalpur,Residential,Compensation,261,78,10,0,2,73,19,0.056,4.11,131
+LA00907,Maharashtra,Nagpur,Industrial,Possession,237,23,17,0,4,8,18,0.02,8.85,110
+LA00908,Gujarat,Rajkot,Agricultural,Notification,158,111,59,1,7,8,36,0.298,9.11,250
+LA00909,Maharashtra,Pune,Residential,Possession,154,134,31,0,4,18,60,0.02,11.94,171
+LA00910,Rajasthan,Jodhpur,Agricultural,Compensation,344,173,12,1,7,14,71,0.211,2.44,205
+LA00911,Madhya Pradesh,Bhopal,Agricultural,Compensation,494,54,31,0,4,58,45,0.225,1.27,167
+LA00912,Gujarat,Ahmedabad,Agricultural,Notification,381,99,5,0,2,12,62,0.02,2.96,100
+LA00913,Maharashtra,Nashik,Agricultural,Compensation,377,93,19,1,6,21,53,0.277,1.91,219
+LA00914,Punjab,Ludhiana,Industrial,Compensation,252,133,58,0,15,116,25,0.303,1.82,341
+LA00915,Uttar Pradesh,Agra,Agricultural,Compensation,76,76,18,0,3,92,49,0.055,35.51,160
+LA00916,Maharashtra,Nashik,Commercial,Notification,370,147,54,0,9,16,24,0.253,0.77,269
+LA00917,Uttar Pradesh,Kanpur,Residential,Objection,410,154,33,0,7,22,25,0.294,11.82,202
+LA00918,Madhya Pradesh,Jabalpur,Residential,Possession,270,24,40,0,9,18,79,0.16,18.3,163
+LA00919,Gujarat,Rajkot,Industrial,Notification,73,67,43,0,8,7,73,0.253,19.84,167
+LA00920,Uttar Pradesh,Agra,Agricultural,Compensation,365,119,34,1,6,49,52,0.339,9.75,224
+LA00921,Punjab,Amritsar,Agricultural,Possession,463,100,3,0,2,9,48,0.029,27.66,104
+LA00922,Uttar Pradesh,Varanasi,Agricultural,Notification,135,89,56,0,11,10,55,0.379,43.97,223
+LA00923,Maharashtra,Pune,Agricultural,Notification,105,35,29,0,4,28,60,0.222,5.46,128
+LA00924,Rajasthan,Kota,Industrial,Compensation,377,105,40,0,14,74,4,0.228,11.56,231
+LA00925,Gujarat,Surat,Agricultural,Notification,186,135,34,0,4,25,29,0.396,26.46,165
+LA00926,Punjab,Ludhiana,Agricultural,Compensation,366,11,40,1,11,32,8,0.423,3.12,199
+LA00927,Uttar Pradesh,Kanpur,Agricultural,Compensation,361,109,22,0,4,85,42,0.03,5.78,203
+LA00928,Gujarat,Surat,Agricultural,Compensation,155,155,51,0,5,23,23,0.237,3.95,274
+LA00929,Maharashtra,Pune,Residential,Objection,49,49,14,0,4,17,26,0.334,11.72,165
+LA00930,Uttar Pradesh,Kanpur,Agricultural,Compensation,291,172,40,0,4,59,68,0.149,1.11,258
+LA00931,Uttar Pradesh,Lucknow,Commercial,Compensation,222,67,35,0,5,63,16,0.218,31.08,195
+LA00932,Madhya Pradesh,Gwalior,Residential,Objection,432,5,31,0,7,20,73,0.301,12.6,155
+LA00933,Gujarat,Ahmedabad,Commercial,Compensation,198,125,2,0,0,16,34,0.139,13.33,149
+LA00934,Uttar Pradesh,Agra,Agricultural,Possession,147,42,24,0,3,15,15,0.234,0.7,119
+LA00935,Maharashtra,Aurangabad,Residential,Compensation,435,6,3,1,6,67,11,0.262,2.61,150
+LA00936,Punjab,Ludhiana,Agricultural,Compensation,376,36,31,0,4,71,57,0.199,32.8,221
+LA00937,Rajasthan,Udaipur,Agricultural,Objection,321,169,42,0,7,17,73,0.178,6.19,234
+LA00938,Rajasthan,Kota,Residential,Notification,479,142,32,0,6,22,70,0.239,1.32,236
+LA00939,Maharashtra,Aurangabad,Residential,Objection,398,53,46,0,8,24,13,0.225,9.22,171
+LA00940,Uttar Pradesh,Lucknow,Agricultural,Notification,437,110,22,0,0,0,71,0.118,14.57,138
+LA00941,Madhya Pradesh,Gwalior,Industrial,Possession,406,64,19,1,8,11,18,0.381,12.57,174
+LA00942,Maharashtra,Aurangabad,Agricultural,Objection,219,36,27,0,3,27,37,0.15,6.36,119
+LA00943,Punjab,Bathinda,Residential,Possession,59,59,14,0,5,9,0,0.275,23.0,132
+LA00944,Maharashtra,Pune,Industrial,Notification,315,148,49,0,10,25,20,0.292,3.66,256
+LA00945,Rajasthan,Udaipur,Agricultural,Objection,390,68,49,0,9,17,25,0.257,12.68,242
+LA00946,Rajasthan,Jaipur,Commercial,Objection,497,67,25,0,7,8,77,0.036,8.46,170
+LA00947,Punjab,Patiala,Residential,Objection,351,148,48,1,8,10,22,0.534,6.47,230
+LA00948,Rajasthan,Jodhpur,Commercial,Compensation,297,86,2,0,0,113,22,0.087,5.06,157
+LA00949,Punjab,Patiala,Residential,Possession,301,71,10,0,5,3,22,0.02,5.24,116
+LA00950,Gujarat,Vadodara,Residential,Possession,84,73,17,0,2,9,20,0.223,7.63,119
+LA00951,Rajasthan,Jaipur,Agricultural,Notification,33,33,24,0,4,21,43,0.168,5.51,123
+LA00952,Gujarat,Vadodara,Residential,Compensation,51,51,14,1,4,73,16,0.162,15.38,161
+LA00953,Uttar Pradesh,Varanasi,Agricultural,Notification,456,12,31,0,6,29,23,0.275,4.32,131
+LA00954,Maharashtra,Nashik,Industrial,Possession,402,89,48,0,7,11,43,0.058,35.46,214
+LA00955,Madhya Pradesh,Indore,Agricultural,Compensation,152,82,28,0,4,4,61,0.129,4.13,195
+LA00956,Uttar Pradesh,Varanasi,Agricultural,Objection,229,53,27,0,5,12,8,0.161,18.54,112
+LA00957,Maharashtra,Pune,Industrial,Notification,257,67,4,0,0,25,28,0.162,19.36,79
+LA00958,Uttar Pradesh,Agra,Agricultural,Notification,146,79,17,0,2,28,46,0.323,8.72,102
+LA00959,Punjab,Patiala,Agricultural,Objection,229,69,49,0,8,13,74,0.248,7.98,246
+LA00960,Maharashtra,Nashik,Residential,Possession,193,164,49,0,7,18,76,0.302,3.56,266
+LA00961,Rajasthan,Udaipur,Agricultural,Compensation,357,98,7,0,0,116,70,0.324,4.41,147
+LA00962,Maharashtra,Nashik,Agricultural,Possession,386,93,2,0,2,4,40,0.091,9.21,92
+LA00963,Punjab,Bathinda,Agricultural,Notification,76,51,50,0,5,7,7,0.302,7.06,163
+LA00964,Gujarat,Ahmedabad,Agricultural,Compensation,249,166,11,1,6,17,78,0.132,24.12,189
+LA00965,Punjab,Patiala,Agricultural,Objection,496,9,35,0,7,5,50,0.373,4.69,181
+LA00966,Uttar Pradesh,Kanpur,Agricultural,Compensation,439,101,50,0,4,104,73,0.206,4.98,278
+LA00967,Uttar Pradesh,Lucknow,Agricultural,Objection,403,34,48,0,6,8,74,0.281,1.4,199
+LA00968,Gujarat,Ahmedabad,Agricultural,Objection,376,140,34,0,8,10,64,0.234,14.06,195
+LA00969,Punjab,Patiala,Agricultural,Compensation,32,32,23,0,4,39,34,0.175,12.85,140
+LA00970,Rajasthan,Kota,Residential,Notification,488,56,47,0,11,16,49,0.232,19.63,196
+LA00971,Gujarat,Vadodara,Residential,Compensation,376,15,42,0,2,72,55,0.25,20.77,194
+LA00972,Maharashtra,Pune,Agricultural,Compensation,448,144,51,0,8,56,71,0.415,16.26,283
+LA00973,Maharashtra,Nagpur,Agricultural,Notification,458,74,31,1,11,15,18,0.493,16.96,203
+LA00974,Maharashtra,Aurangabad,Industrial,Possession,149,51,57,0,9,15,44,0.283,13.6,192
+LA00975,Rajasthan,Jaipur,Residential,Compensation,36,36,47,0,6,60,48,0.221,15.86,207
+LA00976,Gujarat,Surat,Agricultural,Possession,340,8,4,0,1,30,16,0.031,1.17,62
+LA00977,Rajasthan,Jodhpur,Agricultural,Compensation,246,87,18,0,2,116,32,0.362,2.46,223
+LA00978,Uttar Pradesh,Varanasi,Agricultural,Compensation,39,33,48,1,14,40,74,0.386,2.09,281
+LA00979,Maharashtra,Nashik,Commercial,Compensation,157,27,7,0,2,94,1,0.198,26.32,136
+LA00980,Uttar Pradesh,Agra,Industrial,Possession,496,8,43,0,9,19,40,0.304,3.38,188
+LA00981,Uttar Pradesh,Kanpur,Industrial,Compensation,201,37,21,0,3,26,49,0.336,3.96,162
+LA00982,Madhya Pradesh,Bhopal,Agricultural,Objection,152,152,13,0,4,24,73,0.114,7.44,182
+LA00983,Uttar Pradesh,Varanasi,Agricultural,Notification,338,83,33,1,7,14,22,0.221,2.13,181
+LA00984,Uttar Pradesh,Varanasi,Agricultural,Compensation,343,180,56,0,7,74,31,0.439,10.81,321
+LA00985,Uttar Pradesh,Kanpur,Agricultural,Notification,186,52,54,0,12,8,6,0.365,0.88,172
+LA00986,Uttar Pradesh,Kanpur,Agricultural,Objection,429,139,25,1,5,1,27,0.314,2.28,177
+LA00987,Uttar Pradesh,Kanpur,Residential,Notification,303,20,1,0,2,21,80,0.21,9.01,92
+LA00988,Gujarat,Rajkot,Agricultural,Compensation,105,24,54,1,14,85,62,0.438,2.13,297
+LA00989,Gujarat,Rajkot,Industrial,Notification,183,7,54,0,8,11,34,0.411,27.09,234
+LA00990,Madhya Pradesh,Indore,Agricultural,Compensation,429,163,37,0,6,79,51,0.241,7.74,218
+LA00991,Maharashtra,Nashik,Agricultural,Compensation,72,72,38,0,8,57,78,0.301,22.92,229
+LA00992,Uttar Pradesh,Kanpur,Industrial,Possession,35,35,32,0,6,12,35,0.246,10.57,154
+LA00993,Gujarat,Ahmedabad,Residential,Objection,339,168,1,0,2,27,23,0.061,7.3,133
+LA00994,Maharashtra,Aurangabad,Agricultural,Compensation,238,63,10,0,3,67,71,0.105,2.73,183
+LA00995,Uttar Pradesh,Varanasi,Residential,Compensation,149,132,9,0,3,75,68,0.086,18.71,196
+LA00996,Uttar Pradesh,Kanpur,Agricultural,Compensation,252,93,55,0,5,112,41,0.304,11.49,240
+LA00997,Uttar Pradesh,Agra,Agricultural,Compensation,116,100,3,0,2,41,0,0.058,59.42,145
+LA00998,Maharashtra,Nashik,Agricultural,Objection,206,121,34,0,7,0,1,0.248,16.92,203
+LA00999,Punjab,Amritsar,Agricultural,Possession,140,87,22,0,2,25,9,0.193,4.97,137
+LA01000,Uttar Pradesh,Kanpur,Residential,Notification,306,9,1,0,2,12,56,0.104,9.87,37
+LA01001,Madhya Pradesh,Jabalpur,Agricultural,Possession,347,18,56,0,5,7,14,0.304,11.27,176
+LA01002,Madhya Pradesh,Gwalior,Residential,Compensation,460,93,2,0,4,94,5,0.05,23.64,151
+LA01003,Uttar Pradesh,Varanasi,Commercial,Objection,61,61,52,0,9,30,55,0.257,27.71,248
+LA01004,Punjab,Bathinda,Agricultural,Compensation,184,133,47,0,7,37,38,0.125,6.28,202
+LA01005,Rajasthan,Kota,Agricultural,Notification,154,105,48,0,5,9,42,0.248,2.19,177
+LA01006,Punjab,Amritsar,Agricultural,Compensation,302,38,10,0,4,53,15,0.044,1.16,140
+LA01007,Punjab,Patiala,Commercial,Compensation,281,69,53,0,4,22,17,0.281,2.36,251
+LA01008,Uttar Pradesh,Agra,Residential,Notification,443,83,36,1,4,29,19,0.257,4.09,190
+LA01009,Madhya Pradesh,Gwalior,Residential,Notification,462,178,25,0,3,16,52,0.02,33.26,186
+LA01010,Uttar Pradesh,Varanasi,Agricultural,Compensation,394,98,41,0,8,65,79,0.42,33.77,264
+LA01011,Gujarat,Surat,Agricultural,Objection,123,116,21,0,2,12,74,0.139,19.3,174
+LA01012,Madhya Pradesh,Gwalior,Agricultural,Possession,49,49,17,0,1,25,9,0.257,25.29,114
+LA01013,Gujarat,Ahmedabad,Agricultural,Compensation,453,68,18,0,5,51,55,0.111,3.64,172
+LA01014,Gujarat,Vadodara,Residential,Compensation,474,174,35,0,11,21,61,0.36,1.62,237
+LA01015,Uttar Pradesh,Agra,Agricultural,Objection,147,123,37,1,10,10,3,0.237,2.7,224
+LA01016,Punjab,Amritsar,Agricultural,Compensation,51,51,15,0,5,36,51,0.157,0.97,126
+LA01017,Maharashtra,Nagpur,Agricultural,Possession,350,136,15,0,3,6,36,0.051,2.43,144
+LA01018,Maharashtra,Pune,Agricultural,Notification,307,114,57,1,13,15,15,0.614,4.46,258
+LA01019,Rajasthan,Kota,Residential,Objection,448,10,31,0,2,26,63,0.173,8.73,153
+LA01020,Rajasthan,Kota,Agricultural,Objection,300,107,52,0,6,4,75,0.34,8.46,213
+LA01021,Rajasthan,Jodhpur,Industrial,Objection,388,27,20,0,2,24,48,0.19,3.71,122
+LA01022,Rajasthan,Jaipur,Commercial,Compensation,400,111,18,0,3,100,16,0.147,13.05,198
+LA01023,Punjab,Amritsar,Industrial,Compensation,34,34,17,0,3,81,34,0.187,3.78,174
+LA01024,Punjab,Ludhiana,Residential,Compensation,99,99,32,1,7,34,41,0.415,7.46,257
+LA01025,Madhya Pradesh,Indore,Residential,Objection,397,59,47,0,6,15,73,0.31,2.44,190
+LA01026,Rajasthan,Kota,Residential,Notification,114,15,31,0,4,19,64,0.209,21.95,112
+LA01027,Rajasthan,Jaipur,Agricultural,Objection,127,123,18,1,7,9,54,0.299,7.54,170
+LA01028,Gujarat,Vadodara,Agricultural,Possession,384,127,58,0,9,6,61,0.454,14.57,235
+LA01029,Uttar Pradesh,Lucknow,Residential,Compensation,126,89,35,1,11,22,56,0.291,2.19,269
+LA01030,Maharashtra,Aurangabad,Agricultural,Objection,100,100,24,0,3,4,25,0.022,8.8,158
+LA01031,Maharashtra,Nagpur,Agricultural,Compensation,36,36,1,0,1,112,10,0.02,13.1,96
+LA01032,Gujarat,Surat,Industrial,Notification,251,95,34,0,7,27,67,0.131,0.96,211
+LA01033,Madhya Pradesh,Gwalior,Agricultural,Objection,329,13,38,0,6,24,44,0.154,23.76,181
+LA01034,Gujarat,Ahmedabad,Agricultural,Objection,374,158,56,0,8,5,77,0.224,2.12,224
+LA01035,Rajasthan,Jaipur,Residential,Possession,456,87,14,1,5,17,55,0.237,9.12,144
+LA01036,Madhya Pradesh,Jabalpur,Agricultural,Compensation,336,123,10,1,10,78,38,0.255,44.15,183
+LA01037,Punjab,Bathinda,Industrial,Compensation,386,165,60,1,10,6,52,0.429,19.2,313
+LA01038,Rajasthan,Jaipur,Agricultural,Notification,129,68,34,0,4,19,52,0.149,1.67,150
+LA01039,Maharashtra,Nashik,Industrial,Notification,190,114,2,0,1,9,79,0.169,6.18,114
+LA01040,Madhya Pradesh,Bhopal,Commercial,Compensation,173,8,7,0,3,97,29,0.153,25.37,102
+LA01041,Madhya Pradesh,Indore,Agricultural,Objection,60,60,29,0,4,4,30,0.316,3.26,126
+LA01042,Punjab,Amritsar,Agricultural,Possession,486,15,38,0,5,3,28,0.291,5.16,152
+LA01043,Maharashtra,Nashik,Agricultural,Compensation,143,100,15,0,2,106,8,0.109,5.01,178
+LA01044,Maharashtra,Nagpur,Agricultural,Objection,241,66,22,0,2,6,38,0.265,13.07,100
+LA01045,Madhya Pradesh,Bhopal,Agricultural,Compensation,198,11,45,0,8,14,36,0.275,1.59,168
+LA01046,Rajasthan,Udaipur,Industrial,Possession,50,50,59,0,9,24,15,0.368,13.82,242
+LA01047,Gujarat,Vadodara,Agricultural,Compensation,455,169,30,0,6,93,66,0.255,3.96,228
+LA01048,Uttar Pradesh,Varanasi,Commercial,Compensation,133,34,25,0,4,114,55,0.166,7.31,197
+LA01049,Madhya Pradesh,Bhopal,Agricultural,Possession,77,56,22,1,6,18,19,0.277,5.9,132
+LA01050,Rajasthan,Kota,Industrial,Objection,191,38,9,0,2,14,13,0.105,13.46,110
+LA01051,Uttar Pradesh,Varanasi,Agricultural,Possession,97,26,4,0,1,20,50,0.028,7.24,39
+LA01052,Maharashtra,Pune,Agricultural,Notification,500,45,51,0,5,24,0,0.097,31.2,153
+LA01053,Uttar Pradesh,Varanasi,Residential,Compensation,119,105,3,0,2,62,12,0.039,19.87,150
+LA01054,Punjab,Amritsar,Agricultural,Compensation,172,142,50,0,9,42,35,0.289,3.34,270
+LA01055,Rajasthan,Udaipur,Commercial,Compensation,157,126,15,1,11,16,80,0.341,28.94,223
+LA01056,Punjab,Amritsar,Agricultural,Compensation,42,42,42,0,11,43,6,0.313,10.17,196
+LA01057,Maharashtra,Aurangabad,Agricultural,Compensation,36,36,58,0,7,107,42,0.275,8.76,251
+LA01058,Madhya Pradesh,Bhopal,Agricultural,Notification,271,72,45,0,6,17,45,0.195,17.26,153
+LA01059,Maharashtra,Nashik,Residential,Objection,139,139,44,0,5,13,20,0.23,2.61,207
+LA01060,Gujarat,Surat,Agricultural,Objection,69,35,16,1,7,26,42,0.172,1.86,146
+LA01061,Madhya Pradesh,Bhopal,Agricultural,Compensation,167,128,36,1,13,55,51,0.163,7.58,251
+LA01062,Madhya Pradesh,Indore,Agricultural,Objection,159,24,39,0,2,24,11,0.097,4.03,158
+LA01063,Rajasthan,Jodhpur,Agricultural,Objection,229,139,26,0,3,27,77,0.287,58.78,174
+LA01064,Madhya Pradesh,Bhopal,Agricultural,Possession,497,20,3,0,4,8,19,0.247,3.44,49
+LA01065,Madhya Pradesh,Gwalior,Industrial,Objection,174,43,55,0,7,5,29,0.347,7.69,200
+LA01066,Maharashtra,Nagpur,Agricultural,Objection,361,73,12,1,10,4,1,0.237,8.95,148
+LA01067,Punjab,Bathinda,Residential,Objection,391,127,59,0,7,18,48,0.189,25.31,243
+LA01068,Uttar Pradesh,Kanpur,Agricultural,Notification,53,13,56,1,10,25,48,0.383,2.73,217
+LA01069,Maharashtra,Pune,Agricultural,Compensation,266,50,2,0,0,53,9,0.136,1.47,84
+LA01070,Rajasthan,Jaipur,Agricultural,Objection,241,63,45,0,8,1,23,0.32,29.8,172
+LA01071,Madhya Pradesh,Indore,Agricultural,Notification,269,133,39,0,10,0,62,0.292,8.01,194
+LA01072,Gujarat,Surat,Agricultural,Possession,110,110,14,1,7,21,57,0.34,16.61,169
+LA01073,Madhya Pradesh,Bhopal,Agricultural,Possession,249,113,49,0,8,8,24,0.423,17.4,238
+LA01074,Uttar Pradesh,Varanasi,Agricultural,Compensation,87,87,7,0,4,60,51,0.08,20.7,153
+LA01075,Maharashtra,Nagpur,Industrial,Possession,475,64,15,0,4,2,60,0.365,5.06,132
+LA01076,Rajasthan,Kota,Agricultural,Possession,306,149,57,0,8,2,30,0.134,3.86,246
+LA01077,Madhya Pradesh,Bhopal,Agricultural,Objection,46,23,45,0,5,16,14,0.185,1.0,169
+LA01078,Rajasthan,Udaipur,Agricultural,Compensation,268,27,7,0,4,25,1,0.129,2.73,78
+LA01079,Maharashtra,Pune,Agricultural,Compensation,466,40,9,0,5,20,77,0.165,7.86,78
+LA01080,Punjab,Amritsar,Residential,Objection,379,52,16,0,3,14,25,0.127,3.66,94
+LA01081,Punjab,Amritsar,Agricultural,Objection,158,86,5,0,4,20,65,0.066,2.36,129
+LA01082,Punjab,Bathinda,Residential,Notification,450,171,11,0,4,26,26,0.303,7.77,170
+LA01083,Punjab,Amritsar,Agricultural,Compensation,117,117,35,0,7,8,57,0.173,28.3,176
+LA01084,Uttar Pradesh,Lucknow,Agricultural,Compensation,146,72,1,1,2,103,26,0.106,6.99,166
+LA01085,Gujarat,Surat,Industrial,Compensation,103,42,18,0,4,108,49,0.286,2.38,199
+LA01086,Punjab,Amritsar,Agricultural,Objection,464,119,19,0,3,0,77,0.22,26.38,184
+LA01087,Madhya Pradesh,Bhopal,Commercial,Objection,367,49,59,0,8,8,61,0.39,3.41,255
+LA01088,Punjab,Ludhiana,Agricultural,Compensation,273,176,59,1,11,43,13,0.424,32.44,338
+LA01089,Uttar Pradesh,Lucknow,Industrial,Compensation,344,89,51,0,6,47,42,0.16,5.68,246
+LA01090,Rajasthan,Jodhpur,Agricultural,Possession,151,101,21,0,3,8,21,0.166,8.19,142
+LA01091,Uttar Pradesh,Agra,Agricultural,Possession,63,63,32,0,9,10,17,0.089,35.19,144
+LA01092,Maharashtra,Nashik,Commercial,Possession,428,58,31,0,3,20,67,0.214,1.91,182
+LA01093,Punjab,Patiala,Agricultural,Possession,484,88,52,0,6,9,79,0.326,2.59,197
+LA01094,Maharashtra,Pune,Agricultural,Possession,46,46,45,0,9,11,74,0.342,5.33,198
+LA01095,Gujarat,Rajkot,Industrial,Compensation,54,52,55,1,18,45,67,0.401,6.42,312
+LA01096,Rajasthan,Udaipur,Residential,Notification,293,14,34,0,7,3,37,0.273,103.76,168
+LA01097,Punjab,Ludhiana,Residential,Notification,50,50,56,0,14,28,42,0.232,3.04,210
+LA01098,Madhya Pradesh,Indore,Residential,Objection,369,24,45,1,14,30,43,0.443,2.01,255
+LA01099,Rajasthan,Jaipur,Commercial,Objection,475,123,45,0,6,22,59,0.303,2.9,229
+LA01100,Maharashtra,Nashik,Industrial,Notification,161,6,40,0,9,3,4,0.174,9.32,158
+LA01101,Maharashtra,Nashik,Residential,Possession,168,60,21,1,13,14,66,0.322,12.09,179
+LA01102,Maharashtra,Pune,Agricultural,Notification,436,160,37,0,5,11,65,0.307,3.64,215
+LA01103,Punjab,Ludhiana,Agricultural,Possession,197,105,22,1,13,5,80,0.289,7.55,203
+LA01104,Rajasthan,Jodhpur,Residential,Compensation,143,123,39,1,4,38,48,0.259,51.69,223
+LA01105,Gujarat,Vadodara,Commercial,Compensation,69,69,16,0,2,113,37,0.154,7.65,179
+LA01106,Gujarat,Surat,Agricultural,Compensation,425,57,48,0,8,30,38,0.308,10.19,245
+LA01107,Gujarat,Rajkot,Agricultural,Objection,466,116,35,0,5,21,50,0.146,48.86,168
+LA01108,Punjab,Amritsar,Agricultural,Compensation,66,43,43,1,9,31,24,0.268,3.68,195
+LA01109,Punjab,Bathinda,Agricultural,Notification,408,116,14,0,7,10,62,0.185,3.44,148
+LA01110,Rajasthan,Jaipur,Commercial,Possession,105,105,48,0,7,30,35,0.328,4.62,196
+LA01111,Uttar Pradesh,Kanpur,Agricultural,Objection,95,95,49,0,9,25,22,0.441,4.36,254
+LA01112,Gujarat,Rajkot,Residential,Objection,209,166,9,0,1,15,59,0.167,1.2,181
+LA01113,Gujarat,Ahmedabad,Commercial,Compensation,235,9,22,0,5,74,27,0.07,8.48,176
+LA01114,Gujarat,Rajkot,Industrial,Compensation,432,57,41,1,7,14,6,0.501,9.18,228
+LA01115,Gujarat,Surat,Agricultural,Compensation,359,101,53,0,12,5,42,0.374,6.14,282
+LA01116,Maharashtra,Nashik,Industrial,Compensation,98,61,45,0,11,118,41,0.099,9.46,274
+LA01117,Punjab,Patiala,Residential,Notification,305,113,29,1,8,24,23,0.215,9.56,178
+LA01118,Uttar Pradesh,Kanpur,Commercial,Compensation,442,155,18,0,4,29,2,0.112,1.98,204
+LA01119,Madhya Pradesh,Bhopal,Agricultural,Objection,341,50,55,0,6,5,38,0.352,9.86,189
+LA01120,Maharashtra,Aurangabad,Agricultural,Objection,138,138,53,0,8,8,62,0.091,12.92,226
+LA01121,Rajasthan,Kota,Residential,Notification,90,90,54,0,8,10,64,0.275,1.5,185
+LA01122,Rajasthan,Udaipur,Agricultural,Objection,243,165,19,0,5,25,17,0.219,31.92,174
+LA01123,Gujarat,Surat,Agricultural,Objection,252,17,27,0,4,12,34,0.02,2.15,113
+LA01124,Gujarat,Vadodara,Residential,Compensation,196,56,15,0,6,56,73,0.204,2.37,166
+LA01125,Punjab,Amritsar,Residential,Notification,81,26,58,0,9,18,27,0.37,9.04,200
+LA01126,Punjab,Bathinda,Agricultural,Notification,85,26,53,0,11,4,38,0.22,12.61,172
+LA01127,Punjab,Bathinda,Agricultural,Compensation,279,14,11,0,9,36,55,0.044,16.08,133
+LA01128,Uttar Pradesh,Varanasi,Agricultural,Notification,474,82,15,1,5,26,37,0.174,12.95,164
+LA01129,Uttar Pradesh,Kanpur,Industrial,Compensation,311,20,34,0,7,12,68,0.02,4.39,153
+LA01130,Uttar Pradesh,Varanasi,Industrial,Possession,236,57,25,0,3,30,29,0.147,8.24,157
+LA01131,Maharashtra,Nashik,Agricultural,Objection,468,177,28,1,3,20,39,0.302,5.38,218
+LA01132,Madhya Pradesh,Indore,Agricultural,Possession,355,160,23,0,4,1,41,0.071,8.8,165
+LA01133,Madhya Pradesh,Jabalpur,Agricultural,Notification,368,169,41,0,1,6,60,0.303,7.91,198
+LA01134,Madhya Pradesh,Bhopal,Agricultural,Notification,300,11,54,1,9,5,27,0.395,4.46,187
+LA01135,Uttar Pradesh,Kanpur,Industrial,Compensation,389,121,56,0,4,51,22,0.305,5.22,265
+LA01136,Rajasthan,Jaipur,Agricultural,Compensation,266,116,28,0,5,85,29,0.156,1.16,214
+LA01137,Madhya Pradesh,Gwalior,Agricultural,Possession,322,28,50,0,8,11,18,0.33,16.95,169
+LA01138,Maharashtra,Nashik,Agricultural,Notification,320,164,42,0,3,16,15,0.336,9.95,172
+LA01139,Madhya Pradesh,Indore,Agricultural,Compensation,384,76,12,0,6,4,66,0.101,0.74,146
+LA01140,Uttar Pradesh,Agra,Commercial,Objection,453,176,48,0,3,12,27,0.315,16.33,250
+LA01141,Punjab,Amritsar,Residential,Objection,168,25,22,0,5,19,21,0.229,7.01,150
+LA01142,Maharashtra,Nashik,Residential,Notification,359,119,38,0,5,6,65,0.256,2.9,211
+LA01143,Punjab,Amritsar,Agricultural,Possession,44,28,44,0,10,23,63,0.388,2.65,206
+LA01144,Punjab,Patiala,Industrial,Notification,280,172,57,0,7,29,19,0.235,3.71,237
+LA01145,Gujarat,Rajkot,Agricultural,Possession,453,111,57,0,7,30,24,0.26,2.91,227
+LA01146,Maharashtra,Nagpur,Commercial,Compensation,333,18,49,1,12,89,66,0.313,3.33,254
+LA01147,Uttar Pradesh,Kanpur,Industrial,Compensation,156,42,31,0,7,75,22,0.261,40.47,186
+LA01148,Madhya Pradesh,Jabalpur,Agricultural,Compensation,315,68,25,0,5,72,69,0.156,10.71,190
+LA01149,Madhya Pradesh,Jabalpur,Industrial,Possession,198,7,27,0,4,19,50,0.127,56.6,127
+LA01150,Punjab,Ludhiana,Agricultural,Notification,234,6,58,0,3,10,53,0.422,9.26,186
+LA01151,Maharashtra,Nagpur,Residential,Notification,137,137,13,0,2,12,43,0.274,13.19,115
+LA01152,Uttar Pradesh,Lucknow,Agricultural,Compensation,324,177,32,1,10,25,2,0.286,3.06,223
+LA01153,Maharashtra,Pune,Agricultural,Objection,123,99,41,0,9,17,66,0.132,6.25,217
+LA01154,Punjab,Bathinda,Agricultural,Notification,238,163,2,0,1,16,45,0.238,6.81,106
+LA01155,Gujarat,Ahmedabad,Agricultural,Notification,472,120,39,0,7,17,14,0.268,13.74,168
+LA01156,Uttar Pradesh,Varanasi,Agricultural,Objection,386,9,16,0,4,10,67,0.178,7.03,117
+LA01157,Rajasthan,Udaipur,Agricultural,Notification,225,130,17,0,0,23,23,0.148,10.5,107
+LA01158,Punjab,Bathinda,Residential,Notification,486,8,38,0,3,18,29,0.155,10.13,152
+LA01159,Maharashtra,Nagpur,Agricultural,Possession,36,36,1,0,1,5,51,0.052,5.46,48
+LA01160,Maharashtra,Aurangabad,Agricultural,Objection,482,69,10,0,2,11,22,0.173,4.92,107
+LA01161,Uttar Pradesh,Lucknow,Industrial,Possession,195,29,28,0,3,20,0,0.148,3.78,111
+LA01162,Maharashtra,Aurangabad,Industrial,Possession,416,50,36,0,4,3,26,0.249,21.81,160
+LA01163,Punjab,Ludhiana,Agricultural,Notification,476,125,7,0,5,10,55,0.116,5.46,110
+LA01164,Uttar Pradesh,Agra,Agricultural,Compensation,313,154,22,0,2,58,34,0.076,10.27,187
+LA01165,Uttar Pradesh,Lucknow,Residential,Compensation,317,105,19,0,6,117,57,0.288,6.32,243
+LA01166,Rajasthan,Jodhpur,Residential,Compensation,382,33,33,1,11,62,5,0.365,21.38,209
+LA01167,Rajasthan,Kota,Agricultural,Notification,142,142,19,1,4,21,20,0.281,1.01,154
+LA01168,Maharashtra,Nashik,Residential,Notification,113,113,1,0,0,9,19,0.128,10.0,81
+LA01169,Punjab,Bathinda,Agricultural,Notification,191,77,32,1,5,25,5,0.159,2.11,185
+LA01170,Punjab,Patiala,Agricultural,Compensation,255,102,51,0,6,109,52,0.231,10.92,263
+LA01171,Uttar Pradesh,Kanpur,Residential,Possession,379,174,36,0,8,14,17,0.1,6.38,222
+LA01172,Uttar Pradesh,Varanasi,Residential,Compensation,151,71,22,0,7,66,38,0.181,1.68,183
+LA01173,Maharashtra,Nashik,Commercial,Compensation,296,9,29,1,6,6,80,0.32,10.36,220
+LA01174,Gujarat,Surat,Agricultural,Possession,31,30,9,0,1,24,20,0.125,9.25,92
+LA01175,Rajasthan,Udaipur,Agricultural,Compensation,44,44,15,0,2,89,15,0.231,5.86,161
+LA01176,Maharashtra,Nagpur,Agricultural,Notification,485,180,27,0,10,20,75,0.075,6.66,168
+LA01177,Gujarat,Vadodara,Agricultural,Possession,430,135,36,0,5,19,28,0.152,8.68,154
+LA01178,Gujarat,Surat,Agricultural,Objection,436,113,30,0,9,24,23,0.236,24.0,204
+LA01179,Gujarat,Ahmedabad,Agricultural,Notification,184,61,58,0,10,6,58,0.324,5.4,233
+LA01180,Rajasthan,Jaipur,Agricultural,Compensation,271,82,39,0,3,40,10,0.117,20.35,228
+LA01181,Uttar Pradesh,Lucknow,Residential,Possession,347,11,2,0,3,17,30,0.189,7.12,54
+LA01182,Punjab,Ludhiana,Agricultural,Objection,149,70,32,0,8,30,16,0.331,27.0,186
+LA01183,Madhya Pradesh,Gwalior,Agricultural,Compensation,380,114,35,0,8,61,72,0.253,5.84,217
+LA01184,Maharashtra,Pune,Residential,Notification,356,164,3,0,4,6,24,0.02,3.79,98
+LA01185,Maharashtra,Nagpur,Agricultural,Notification,221,167,24,0,3,12,45,0.183,2.47,153
+LA01186,Gujarat,Rajkot,Industrial,Notification,234,149,53,0,5,8,42,0.303,7.14,232
+LA01187,Rajasthan,Udaipur,Agricultural,Compensation,174,8,22,0,5,94,39,0.145,3.34,150
+LA01188,Uttar Pradesh,Agra,Agricultural,Possession,408,147,28,0,8,15,5,0.302,30.1,182
+LA01189,Uttar Pradesh,Lucknow,Industrial,Notification,494,43,14,0,3,13,21,0.126,3.09,112
+LA01190,Rajasthan,Udaipur,Residential,Objection,500,113,5,0,3,0,69,0.272,3.71,158
+LA01191,Maharashtra,Pune,Residential,Notification,393,171,20,1,9,19,44,0.331,13.21,218
+LA01192,Gujarat,Vadodara,Residential,Notification,194,161,47,0,4,13,71,0.275,24.19,231
+LA01193,Gujarat,Vadodara,Agricultural,Compensation,397,121,59,0,12,72,45,0.384,15.35,293
+LA01194,Madhya Pradesh,Bhopal,Residential,Compensation,145,57,40,0,5,62,25,0.352,21.3,205
+LA01195,Uttar Pradesh,Kanpur,Industrial,Compensation,452,96,50,0,2,23,27,0.331,6.82,236
+LA01196,Uttar Pradesh,Lucknow,Industrial,Objection,155,128,39,1,5,23,62,0.32,6.92,219
+LA01197,Madhya Pradesh,Bhopal,Agricultural,Compensation,219,95,40,0,5,116,19,0.177,55.24,232
+LA01198,Punjab,Bathinda,Agricultural,Notification,73,73,26,0,3,23,48,0.087,40.06,112
+LA01199,Madhya Pradesh,Jabalpur,Commercial,Notification,68,68,4,0,6,22,75,0.02,15.09,110
+LA01200,Uttar Pradesh,Agra,Agricultural,Possession,215,110,25,0,3,19,68,0.187,22.35,145
+LA01201,Punjab,Bathinda,Agricultural,Compensation,289,11,52,0,6,97,31,0.243,17.44,218
+LA01202,Maharashtra,Aurangabad,Agricultural,Possession,38,38,33,0,4,13,22,0.177,2.21,126
+LA01203,Punjab,Bathinda,Agricultural,Possession,428,22,46,0,9,25,50,0.341,7.1,178
+LA01204,Madhya Pradesh,Bhopal,Agricultural,Compensation,83,83,4,0,2,91,49,0.089,33.01,146
+LA01205,Uttar Pradesh,Agra,Agricultural,Possession,500,11,13,0,4,20,58,0.285,15.19,70
+LA01206,Punjab,Patiala,Agricultural,Objection,157,95,18,0,2,25,5,0.101,6.93,93
+LA01207,Uttar Pradesh,Varanasi,Agricultural,Notification,208,78,22,0,7,16,43,0.093,33.41,147
+LA01208,Madhya Pradesh,Jabalpur,Industrial,Notification,105,105,60,0,10,15,0,0.209,10.69,221
+LA01209,Gujarat,Surat,Agricultural,Notification,418,81,28,0,6,5,80,0.248,15.73,146
+LA01210,Punjab,Ludhiana,Agricultural,Notification,374,162,40,0,6,15,70,0.324,10.75,232
+LA01211,Uttar Pradesh,Varanasi,Agricultural,Objection,66,7,39,0,6,1,59,0.181,12.69,144
+LA01212,Madhya Pradesh,Indore,Agricultural,Compensation,79,79,26,0,6,66,23,0.098,13.64,169
+LA01213,Maharashtra,Nashik,Industrial,Compensation,316,126,58,0,10,120,60,0.425,27.1,307
+LA01214,Punjab,Bathinda,Industrial,Compensation,437,142,14,0,4,49,36,0.021,30.88,209
+LA01215,Rajasthan,Kota,Agricultural,Notification,81,29,3,0,3,10,52,0.177,4.71,81
+LA01216,Rajasthan,Jodhpur,Agricultural,Compensation,134,16,45,0,7,92,18,0.206,10.54,212
+LA01217,Uttar Pradesh,Lucknow,Agricultural,Objection,286,74,40,0,10,14,38,0.272,26.34,204
+LA01218,Madhya Pradesh,Indore,Agricultural,Notification,81,61,16,0,3,21,71,0.228,6.48,91
+LA01219,Madhya Pradesh,Jabalpur,Agricultural,Objection,173,142,53,0,8,13,15,0.32,2.0,222
+LA01220,Maharashtra,Nashik,Agricultural,Objection,34,34,10,0,4,26,31,0.099,2.98,111
+LA01221,Uttar Pradesh,Kanpur,Agricultural,Objection,265,80,16,0,2,14,23,0.252,3.19,128
+LA01222,Uttar Pradesh,Agra,Residential,Possession,366,140,10,0,2,30,14,0.142,4.67,174
+LA01223,Punjab,Bathinda,Agricultural,Compensation,224,15,12,0,1,115,32,0.419,3.5,150
+LA01224,Uttar Pradesh,Varanasi,Agricultural,Compensation,150,135,44,0,10,81,49,0.118,20.68,272
+LA01225,Maharashtra,Nagpur,Agricultural,Notification,229,22,43,0,5,23,4,0.103,5.6,151
+LA01226,Punjab,Bathinda,Agricultural,Possession,269,122,39,0,4,14,16,0.304,26.08,188
+LA01227,Rajasthan,Kota,Agricultural,Compensation,108,72,52,1,8,1,66,0.375,2.39,260
+LA01228,Punjab,Amritsar,Agricultural,Notification,82,78,5,0,1,23,21,0.163,5.19,82
+LA01229,Rajasthan,Kota,Agricultural,Compensation,115,53,38,0,11,107,27,0.147,8.2,187
+LA01230,Gujarat,Rajkot,Agricultural,Compensation,494,75,7,0,1,1,54,0.111,16.62,125
+LA01231,Madhya Pradesh,Jabalpur,Commercial,Objection,370,158,58,0,5,27,60,0.33,23.19,277
+LA01232,Madhya Pradesh,Bhopal,Industrial,Notification,89,89,39,0,9,16,77,0.191,4.31,206
+LA01233,Punjab,Patiala,Agricultural,Compensation,171,64,46,0,10,33,12,0.28,19.95,218
+LA01234,Madhya Pradesh,Bhopal,Agricultural,Notification,224,56,35,0,7,20,61,0.108,1.37,173
+LA01235,Uttar Pradesh,Kanpur,Residential,Notification,115,94,24,0,3,5,58,0.202,17.66,129
+LA01236,Maharashtra,Nagpur,Residential,Notification,431,125,42,0,8,7,10,0.359,1.93,223
+LA01237,Rajasthan,Jodhpur,Agricultural,Possession,473,37,51,1,8,27,71,0.275,11.55,207
+LA01238,Rajasthan,Udaipur,Agricultural,Objection,145,132,11,0,6,8,25,0.027,22.86,129
+LA01239,Gujarat,Rajkot,Agricultural,Objection,37,37,53,0,9,26,34,0.379,17.94,225
+LA01240,Rajasthan,Jaipur,Residential,Objection,155,153,44,0,2,11,64,0.133,1.43,203
+LA01241,Uttar Pradesh,Lucknow,Agricultural,Possession,304,101,6,0,2,26,42,0.172,4.72,131
+LA01242,Madhya Pradesh,Bhopal,Agricultural,Compensation,410,61,57,0,5,82,22,0.294,15.13,238
+LA01243,Punjab,Bathinda,Agricultural,Possession,189,61,11,0,3,3,26,0.091,14.71,99
+LA01244,Maharashtra,Nagpur,Agricultural,Objection,158,135,37,0,5,8,59,0.337,9.74,204
+LA01245,Punjab,Patiala,Agricultural,Notification,147,85,8,0,2,29,14,0.186,0.82,88
+LA01246,Punjab,Bathinda,Residential,Compensation,31,23,12,0,7,99,38,0.158,24.48,202
+LA01247,Punjab,Bathinda,Agricultural,Objection,36,36,39,0,5,7,60,0.054,29.26,143
+LA01248,Maharashtra,Pune,Agricultural,Possession,231,29,41,0,6,4,71,0.292,8.7,133
+LA01249,Gujarat,Ahmedabad,Agricultural,Possession,320,178,42,0,3,18,66,0.147,9.29,200
+LA01250,Punjab,Amritsar,Commercial,Compensation,35,35,21,1,5,10,29,0.246,12.22,174
+LA01251,Gujarat,Surat,Agricultural,Possession,124,65,50,1,11,29,16,0.378,31.83,224
+LA01252,Maharashtra,Nagpur,Agricultural,Compensation,458,14,3,1,6,27,75,0.354,9.49,170
+LA01253,Rajasthan,Jaipur,Agricultural,Objection,496,34,52,1,14,27,48,0.37,6.1,262
+LA01254,Madhya Pradesh,Indore,Commercial,Compensation,332,171,19,0,3,112,33,0.039,10.82,211
+LA01255,Uttar Pradesh,Lucknow,Commercial,Notification,275,99,38,0,10,17,73,0.351,7.31,182
+LA01256,Rajasthan,Jaipur,Industrial,Possession,304,163,55,0,6,25,58,0.343,7.39,236
+LA01257,Gujarat,Ahmedabad,Residential,Notification,204,173,16,0,2,19,38,0.201,1.26,153
+LA01258,Uttar Pradesh,Lucknow,Agricultural,Objection,124,13,25,0,6,4,15,0.299,12.46,100
+LA01259,Uttar Pradesh,Kanpur,Agricultural,Compensation,207,72,50,0,4,79,6,0.401,23.84,227
+LA01260,Madhya Pradesh,Indore,Agricultural,Notification,359,152,52,1,6,3,42,0.303,20.5,262
+LA01261,Gujarat,Surat,Residential,Notification,342,92,15,0,2,10,9,0.025,19.12,106
+LA01262,Punjab,Amritsar,Residential,Compensation,348,94,31,1,0,18,25,0.356,7.01,203
+LA01263,Maharashtra,Nagpur,Agricultural,Notification,316,105,20,0,3,19,55,0.135,8.55,117
+LA01264,Madhya Pradesh,Jabalpur,Industrial,Compensation,58,58,32,0,6,26,1,0.19,24.32,178
+LA01265,Gujarat,Vadodara,Agricultural,Objection,325,170,23,0,5,11,80,0.081,17.59,180
+LA01266,Rajasthan,Kota,Agricultural,Objection,444,161,1,0,2,22,35,0.134,32.67,133
+LA01267,Rajasthan,Kota,Agricultural,Notification,335,115,56,0,7,26,70,0.322,3.77,246
+LA01268,Maharashtra,Nagpur,Industrial,Compensation,302,106,39,0,5,107,13,0.214,3.75,251
+LA01269,Punjab,Ludhiana,Industrial,Possession,135,68,28,0,7,8,37,0.081,5.3,153
+LA01270,Rajasthan,Udaipur,Agricultural,Notification,403,25,7,0,1,28,77,0.203,2.88,102
+LA01271,Maharashtra,Pune,Industrial,Possession,242,129,5,0,7,30,51,0.132,1.97,137
+LA01272,Rajasthan,Jodhpur,Industrial,Compensation,153,5,29,1,9,106,65,0.389,11.81,257
+LA01273,Punjab,Patiala,Commercial,Compensation,260,127,39,0,6,67,55,0.06,11.03,221
+LA01274,Madhya Pradesh,Indore,Industrial,Compensation,87,87,16,0,0,5,59,0.141,9.45,144
+LA01275,Madhya Pradesh,Bhopal,Agricultural,Compensation,466,143,45,0,9,30,29,0.198,10.52,261
+LA01276,Madhya Pradesh,Jabalpur,Commercial,Possession,360,172,24,0,9,26,36,0.185,1.71,192
+LA01277,Uttar Pradesh,Lucknow,Residential,Compensation,183,102,1,0,0,106,4,0.159,4.57,120
+LA01278,Madhya Pradesh,Bhopal,Residential,Compensation,403,105,33,0,5,51,20,0.235,5.51,198
+LA01279,Rajasthan,Udaipur,Agricultural,Objection,55,55,11,0,3,6,5,0.126,7.76,122
+LA01280,Punjab,Patiala,Residential,Notification,211,70,1,1,2,23,26,0.189,1.72,65
+LA01281,Madhya Pradesh,Bhopal,Industrial,Compensation,336,20,8,0,2,27,58,0.02,2.92,116
+LA01282,Madhya Pradesh,Jabalpur,Agricultural,Notification,41,10,18,0,2,23,16,0.074,4.78,70
+LA01283,Maharashtra,Aurangabad,Industrial,Objection,363,132,31,0,3,28,38,0.284,21.29,191
+LA01284,Madhya Pradesh,Bhopal,Agricultural,Notification,415,166,60,1,13,24,44,0.376,9.6,279
+LA01285,Maharashtra,Nashik,Agricultural,Notification,309,14,14,0,3,26,13,0.226,20.52,106
+LA01286,Rajasthan,Jodhpur,Agricultural,Compensation,127,62,4,0,1,106,65,0.162,6.54,153
+LA01287,Punjab,Ludhiana,Commercial,Compensation,382,112,12,1,4,119,62,0.3,7.4,250
+LA01288,Gujarat,Ahmedabad,Residential,Objection,189,129,20,1,7,12,15,0.291,12.17,211
+LA01289,Rajasthan,Jaipur,Agricultural,Notification,376,134,13,0,2,10,2,0.095,6.19,109
+LA01290,Uttar Pradesh,Lucknow,Residential,Objection,325,127,20,0,4,11,0,0.146,3.96,140
+LA01291,Gujarat,Surat,Agricultural,Objection,73,19,59,0,13,18,23,0.364,1.67,227
+LA01292,Punjab,Amritsar,Agricultural,Compensation,77,49,23,0,4,100,10,0.02,4.06,171
+LA01293,Maharashtra,Pune,Industrial,Compensation,37,37,39,1,12,48,1,0.44,17.05,216
+LA01294,Rajasthan,Jodhpur,Residential,Compensation,63,16,42,0,11,29,37,0.209,26.07,206
+LA01295,Punjab,Ludhiana,Commercial,Compensation,171,65,8,0,2,69,42,0.105,3.41,144
+LA01296,Uttar Pradesh,Varanasi,Residential,Possession,42,42,15,0,3,18,1,0.132,1.31,95
+LA01297,Gujarat,Ahmedabad,Industrial,Compensation,472,177,25,0,12,42,48,0.188,18.66,226
+LA01298,Madhya Pradesh,Jabalpur,Agricultural,Compensation,461,60,28,0,6,84,32,0.085,7.92,173
+LA01299,Uttar Pradesh,Kanpur,Agricultural,Compensation,111,111,1,0,2,73,16,0.1,1.92,158
+LA01300,Rajasthan,Udaipur,Agricultural,Notification,176,128,39,1,5,6,9,0.374,0.5,191
+LA01301,Madhya Pradesh,Gwalior,Residential,Possession,379,126,19,0,8,15,61,0.02,2.82,182
+LA01302,Maharashtra,Nashik,Residential,Objection,341,149,20,0,1,14,8,0.048,4.65,146
+LA01303,Madhya Pradesh,Gwalior,Residential,Objection,303,153,37,0,4,4,16,0.289,2.34,178
+LA01304,Punjab,Amritsar,Agricultural,Possession,495,44,57,0,9,30,57,0.354,14.76,228
+LA01305,Uttar Pradesh,Lucknow,Agricultural,Compensation,326,79,52,1,9,26,51,0.404,3.28,244
+LA01306,Madhya Pradesh,Indore,Residential,Notification,345,97,59,0,8,9,80,0.248,7.48,242
+LA01307,Gujarat,Surat,Industrial,Notification,266,176,25,0,3,29,3,0.231,79.32,168
+LA01308,Gujarat,Ahmedabad,Agricultural,Notification,277,12,8,0,1,8,15,0.02,8.31,68
+LA01309,Maharashtra,Pune,Agricultural,Compensation,167,88,13,0,0,13,53,0.115,6.58,161
+LA01310,Punjab,Bathinda,Agricultural,Notification,275,42,21,0,5,4,18,0.059,6.73,67
+LA01311,Uttar Pradesh,Kanpur,Agricultural,Possession,462,41,19,0,2,18,30,0.138,14.43,103
+LA01312,Maharashtra,Nashik,Agricultural,Possession,207,139,13,0,4,14,24,0.051,12.74,109
+LA01313,Madhya Pradesh,Jabalpur,Agricultural,Compensation,92,40,10,0,0,39,65,0.175,2.71,168
+LA01314,Punjab,Ludhiana,Residential,Compensation,312,144,12,1,3,102,63,0.263,4.9,219
+LA01315,Punjab,Amritsar,Agricultural,Objection,399,179,40,0,1,28,65,0.176,3.79,192
+LA01316,Gujarat,Rajkot,Agricultural,Notification,481,141,30,0,6,21,40,0.284,5.57,220
+LA01317,Madhya Pradesh,Gwalior,Agricultural,Compensation,285,34,3,0,2,68,39,0.02,45.91,100
+LA01318,Uttar Pradesh,Agra,Industrial,Notification,401,30,34,0,3,4,46,0.202,13.7,109
+LA01319,Maharashtra,Nashik,Agricultural,Notification,147,81,51,1,14,2,5,0.337,6.82,200
+LA01320,Maharashtra,Pune,Agricultural,Objection,229,101,26,0,1,7,44,0.232,25.65,156
+LA01321,Rajasthan,Jaipur,Agricultural,Notification,227,141,20,0,3,22,22,0.207,8.92,145
+LA01322,Gujarat,Ahmedabad,Residential,Objection,186,79,17,0,8,1,75,0.26,1.44,146
+LA01323,Uttar Pradesh,Varanasi,Industrial,Compensation,367,34,23,0,6,110,14,0.179,39.02,174
+LA01324,Punjab,Patiala,Agricultural,Possession,446,179,17,0,2,1,2,0.02,6.32,135
+LA01325,Punjab,Amritsar,Agricultural,Compensation,183,164,56,0,7,27,78,0.256,0.77,302
+LA01326,Gujarat,Rajkot,Agricultural,Possession,93,93,60,0,2,25,12,0.419,1.49,224
+LA01327,Madhya Pradesh,Bhopal,Residential,Objection,418,127,21,0,6,16,41,0.14,22.82,157
+LA01328,Rajasthan,Jaipur,Industrial,Possession,430,169,56,0,14,28,30,0.151,1.52,259
+LA01329,Madhya Pradesh,Indore,Agricultural,Compensation,470,88,52,0,4,12,21,0.306,28.48,232
+LA01330,Maharashtra,Aurangabad,Agricultural,Objection,150,30,5,0,1,23,39,0.141,8.01,119
+LA01331,Maharashtra,Nagpur,Commercial,Possession,368,111,30,0,6,9,59,0.139,15.09,161
+LA01332,Madhya Pradesh,Jabalpur,Residential,Objection,367,84,40,1,15,26,9,0.33,5.72,253
+LA01333,Maharashtra,Pune,Agricultural,Notification,402,145,26,0,4,19,53,0.111,12.47,155
+LA01334,Madhya Pradesh,Jabalpur,Agricultural,Objection,409,140,28,0,5,2,72,0.23,10.14,158
+LA01335,Uttar Pradesh,Lucknow,Agricultural,Objection,478,87,30,0,5,2,23,0.2,7.11,123
+LA01336,Punjab,Ludhiana,Commercial,Objection,254,69,42,1,15,27,54,0.264,2.55,270
+LA01337,Uttar Pradesh,Kanpur,Residential,Compensation,65,65,18,0,3,97,74,0.148,10.58,213
+LA01338,Gujarat,Ahmedabad,Residential,Possession,120,116,36,1,15,14,75,0.277,1.2,234
+LA01339,Madhya Pradesh,Jabalpur,Commercial,Objection,447,117,15,0,5,23,52,0.259,18.76,165
+LA01340,Maharashtra,Aurangabad,Agricultural,Compensation,427,95,54,1,9,115,76,0.458,9.0,285
+LA01341,Uttar Pradesh,Kanpur,Agricultural,Objection,35,35,6,0,1,0,62,0.093,11.75,102
+LA01342,Rajasthan,Jodhpur,Agricultural,Possession,203,179,5,1,5,19,41,0.214,0.54,168
+LA01343,Rajasthan,Jaipur,Industrial,Notification,145,49,3,0,1,28,10,0.174,2.4,51
+LA01344,Uttar Pradesh,Kanpur,Residential,Notification,181,35,21,1,8,10,69,0.256,4.46,161
+LA01345,Gujarat,Vadodara,Agricultural,Compensation,330,145,37,0,3,110,23,0.276,14.49,216
+LA01346,Punjab,Bathinda,Agricultural,Compensation,270,169,60,1,20,64,59,0.548,2.88,374
+LA01347,Punjab,Patiala,Residential,Compensation,256,112,28,0,4,54,52,0.147,94.44,184
+LA01348,Madhya Pradesh,Bhopal,Residential,Compensation,234,75,11,0,4,47,29,0.258,5.68,162
+LA01349,Madhya Pradesh,Bhopal,Residential,Compensation,332,66,23,0,5,26,62,0.279,2.68,169
+LA01350,Uttar Pradesh,Varanasi,Agricultural,Objection,351,87,8,0,3,12,53,0.134,6.13,77
+LA01351,Rajasthan,Jaipur,Industrial,Notification,50,14,29,0,7,19,60,0.16,2.85,158
+LA01352,Maharashtra,Aurangabad,Commercial,Notification,94,94,44,0,11,15,77,0.275,2.26,238
+LA01353,Maharashtra,Pune,Residential,Notification,190,52,3,0,2,30,22,0.075,20.31,69
+LA01354,Punjab,Patiala,Residential,Objection,235,51,47,0,4,30,61,0.189,12.34,202
+LA01355,Gujarat,Rajkot,Industrial,Compensation,499,103,14,0,3,50,3,0.178,12.38,167
+LA01356,Maharashtra,Nashik,Industrial,Objection,449,174,41,0,5,1,57,0.152,26.49,228
+LA01357,Maharashtra,Pune,Residential,Compensation,335,41,49,0,11,48,12,0.246,12.02,256
+LA01358,Rajasthan,Udaipur,Agricultural,Compensation,46,46,47,0,7,18,17,0.232,2.54,205
+LA01359,Rajasthan,Jaipur,Agricultural,Compensation,77,77,41,0,4,114,15,0.122,15.01,210
+LA01360,Maharashtra,Nagpur,Commercial,Compensation,245,176,42,0,4,21,67,0.288,2.39,264
+LA01361,Rajasthan,Udaipur,Residential,Objection,306,72,12,0,2,18,30,0.108,4.58,109
+LA01362,Rajasthan,Kota,Agricultural,Objection,341,180,9,0,0,0,31,0.215,7.06,121
+LA01363,Maharashtra,Pune,Agricultural,Compensation,96,96,23,0,1,41,29,0.143,6.38,185
+LA01364,Gujarat,Rajkot,Industrial,Compensation,448,122,37,0,10,120,50,0.197,1.23,274
+LA01365,Uttar Pradesh,Lucknow,Industrial,Objection,262,104,38,0,5,11,74,0.151,2.81,165
+LA01366,Rajasthan,Kota,Industrial,Objection,309,84,47,0,6,13,54,0.26,7.22,199
+LA01367,Gujarat,Vadodara,Agricultural,Compensation,48,48,19,0,3,100,8,0.156,4.01,173
+LA01368,Maharashtra,Nashik,Commercial,Compensation,418,154,52,0,12,119,41,0.345,22.79,289
+LA01369,Punjab,Amritsar,Commercial,Notification,285,144,27,0,4,11,8,0.188,27.04,147
+LA01370,Uttar Pradesh,Lucknow,Agricultural,Objection,134,9,15,1,5,7,13,0.41,2.41,180
+LA01371,Punjab,Bathinda,Agricultural,Possession,180,127,45,0,8,7,15,0.29,7.84,198
+LA01372,Maharashtra,Pune,Industrial,Notification,196,151,8,0,0,1,56,0.029,35.97,136
+LA01373,Maharashtra,Nashik,Agricultural,Possession,42,42,25,0,3,27,70,0.088,6.46,163
+LA01374,Maharashtra,Nagpur,Residential,Notification,473,92,47,0,12,9,20,0.311,4.92,188
+LA01375,Punjab,Patiala,Residential,Compensation,408,64,47,1,7,46,76,0.277,17.47,262
+LA01376,Punjab,Patiala,Residential,Objection,447,123,16,0,4,25,21,0.192,5.62,189
+LA01377,Punjab,Patiala,Agricultural,Notification,196,121,10,0,3,14,24,0.193,26.33,124
+LA01378,Madhya Pradesh,Gwalior,Residential,Possession,292,70,2,0,0,25,10,0.161,4.08,131
+LA01379,Uttar Pradesh,Varanasi,Agricultural,Compensation,245,76,6,0,3,2,3,0.037,4.6,91
+LA01380,Uttar Pradesh,Agra,Commercial,Possession,253,69,50,0,6,5,50,0.341,16.28,244
+LA01381,Punjab,Bathinda,Agricultural,Objection,307,12,48,0,8,27,33,0.29,8.17,187
+LA01382,Gujarat,Rajkot,Residential,Possession,242,10,31,0,5,20,9,0.15,8.24,123
+LA01383,Maharashtra,Aurangabad,Commercial,Possession,394,19,35,0,7,21,45,0.204,1.09,176
+LA01384,Punjab,Bathinda,Agricultural,Compensation,57,57,20,1,3,112,27,0.294,5.19,199
+LA01385,Maharashtra,Aurangabad,Agricultural,Objection,120,94,12,0,1,0,31,0.07,17.53,108
+LA01386,Gujarat,Ahmedabad,Commercial,Compensation,450,76,1,0,0,16,72,0.108,3.37,134
+LA01387,Uttar Pradesh,Varanasi,Agricultural,Compensation,445,173,41,0,7,39,32,0.353,14.89,219
+LA01388,Gujarat,Vadodara,Agricultural,Possession,415,44,3,0,2,3,36,0.172,9.66,68
+LA01389,Punjab,Amritsar,Agricultural,Objection,203,74,7,0,2,13,55,0.115,6.05,123
+LA01390,Punjab,Patiala,Industrial,Objection,244,48,48,0,9,0,72,0.285,28.72,229
+LA01391,Gujarat,Surat,Residential,Notification,41,41,35,0,3,10,59,0.165,5.26,151
+LA01392,Uttar Pradesh,Kanpur,Agricultural,Compensation,161,107,30,1,11,41,39,0.266,5.64,238
+LA01393,Punjab,Bathinda,Industrial,Possession,372,59,14,0,2,7,24,0.02,5.98,109
+LA01394,Madhya Pradesh,Bhopal,Agricultural,Notification,191,60,9,0,3,25,14,0.138,8.01,107
+LA01395,Gujarat,Surat,Agricultural,Compensation,256,123,28,0,2,54,10,0.237,15.91,163
+LA01396,Uttar Pradesh,Varanasi,Agricultural,Possession,88,88,22,0,5,25,61,0.161,1.69,144
+LA01397,Uttar Pradesh,Agra,Agricultural,Notification,263,42,33,0,9,27,59,0.143,17.6,155
+LA01398,Uttar Pradesh,Varanasi,Agricultural,Notification,369,24,10,0,2,16,28,0.124,7.91,80
+LA01399,Rajasthan,Jaipur,Residential,Compensation,299,47,14,1,4,59,76,0.344,12.86,156
+LA01400,Gujarat,Vadodara,Agricultural,Compensation,292,106,7,0,1,107,78,0.178,80.79,156
+LA01401,Punjab,Bathinda,Residential,Notification,460,173,26,1,6,20,50,0.281,4.43,208
+LA01402,Gujarat,Rajkot,Agricultural,Possession,140,33,17,0,1,25,21,0.305,2.17,131
+LA01403,Gujarat,Ahmedabad,Agricultural,Compensation,171,12,14,0,4,105,41,0.353,8.97,157
+LA01404,Gujarat,Rajkot,Agricultural,Possession,323,97,33,0,6,6,66,0.169,10.51,162
+LA01405,Gujarat,Surat,Residential,Possession,256,179,30,0,6,21,41,0.177,17.67,211
+LA01406,Rajasthan,Jodhpur,Residential,Possession,491,102,13,0,3,4,40,0.187,4.31,124
+LA01407,Maharashtra,Nashik,Agricultural,Compensation,58,58,42,1,9,58,43,0.272,3.22,256
+LA01408,Punjab,Patiala,Agricultural,Objection,87,87,21,0,3,2,68,0.227,1.6,146
+LA01409,Rajasthan,Kota,Agricultural,Compensation,191,10,21,0,5,23,33,0.172,1.88,116
+LA01410,Gujarat,Surat,Commercial,Notification,245,80,29,0,10,26,14,0.231,4.87,192
+LA01411,Rajasthan,Jaipur,Agricultural,Compensation,449,140,9,0,5,94,41,0.075,6.58,203
+LA01412,Uttar Pradesh,Varanasi,Commercial,Notification,262,94,26,0,8,22,51,0.124,58.27,147
+LA01413,Gujarat,Ahmedabad,Agricultural,Compensation,235,39,35,0,5,9,75,0.054,1.36,178
+LA01414,Madhya Pradesh,Bhopal,Agricultural,Notification,108,36,8,0,6,19,9,0.239,10.33,84
+LA01415,Uttar Pradesh,Kanpur,Residential,Objection,234,121,34,0,6,3,76,0.286,3.58,215
+LA01416,Madhya Pradesh,Indore,Agricultural,Objection,280,86,3,1,5,22,65,0.254,9.23,132
+LA01417,Uttar Pradesh,Kanpur,Agricultural,Compensation,304,106,37,0,3,1,57,0.243,4.25,213
+LA01418,Maharashtra,Aurangabad,Industrial,Compensation,315,70,3,0,0,115,19,0.02,20.81,159
+LA01419,Punjab,Ludhiana,Agricultural,Notification,232,64,11,0,2,19,16,0.062,20.68,69
+LA01420,Maharashtra,Nashik,Agricultural,Possession,104,104,22,0,6,11,34,0.149,6.6,149
+LA01421,Punjab,Patiala,Agricultural,Possession,101,6,37,0,4,15,14,0.131,31.16,152
+LA01422,Punjab,Bathinda,Agricultural,Objection,102,81,44,0,9,25,53,0.117,15.8,182
+LA01423,Uttar Pradesh,Kanpur,Commercial,Compensation,321,70,29,0,5,61,60,0.113,29.74,187
+LA01424,Madhya Pradesh,Indore,Agricultural,Objection,433,142,8,0,1,28,38,0.114,7.08,145
+LA01425,Gujarat,Vadodara,Industrial,Notification,445,133,24,0,5,12,56,0.178,19.14,162
+LA01426,Madhya Pradesh,Jabalpur,Residential,Compensation,176,79,48,0,9,28,63,0.339,3.43,217
+LA01427,Madhya Pradesh,Indore,Industrial,Notification,67,51,6,0,2,0,73,0.27,3.1,97
+LA01428,Punjab,Bathinda,Commercial,Possession,326,46,43,0,6,3,55,0.297,65.35,221
+LA01429,Gujarat,Rajkot,Industrial,Possession,48,42,24,0,3,8,18,0.156,2.49,161
+LA01430,Madhya Pradesh,Indore,Residential,Possession,325,53,1,0,2,30,10,0.232,4.78,81
+LA01431,Maharashtra,Pune,Agricultural,Compensation,210,138,42,0,3,85,76,0.106,1.11,227
+LA01432,Gujarat,Rajkot,Agricultural,Compensation,425,12,2,0,2,34,62,0.02,3.17,89
+LA01433,Gujarat,Ahmedabad,Residential,Possession,324,9,23,0,5,26,68,0.1,2.73,163
+LA01434,Uttar Pradesh,Agra,Agricultural,Objection,378,100,12,0,6,9,34,0.199,3.78,151
+LA01435,Gujarat,Ahmedabad,Residential,Notification,221,44,36,0,6,25,12,0.231,9.97,177
+LA01436,Rajasthan,Kota,Agricultural,Compensation,425,151,4,1,8,66,48,0.12,12.69,214
+LA01437,Maharashtra,Nashik,Commercial,Objection,277,137,6,0,0,4,51,0.043,2.7,103
+LA01438,Uttar Pradesh,Kanpur,Agricultural,Objection,324,140,32,1,10,0,17,0.213,3.35,189
+LA01439,Gujarat,Rajkot,Industrial,Notification,199,85,60,1,8,3,38,0.307,21.83,226
+LA01440,Punjab,Bathinda,Agricultural,Compensation,241,82,3,0,2,45,34,0.219,40.66,123
+LA01441,Madhya Pradesh,Jabalpur,Agricultural,Objection,425,79,28,0,4,2,21,0.175,25.94,133
+LA01442,Uttar Pradesh,Lucknow,Commercial,Notification,215,39,49,0,4,18,66,0.401,1.42,187
+LA01443,Punjab,Amritsar,Commercial,Notification,40,40,18,1,5,18,39,0.182,24.27,152
+LA01444,Maharashtra,Pune,Residential,Objection,208,156,30,0,5,7,75,0.234,47.17,207
+LA01445,Rajasthan,Udaipur,Industrial,Possession,214,50,51,0,8,1,0,0.293,1.36,211
+LA01446,Rajasthan,Kota,Agricultural,Objection,227,14,44,0,5,5,76,0.314,21.82,184
+LA01447,Punjab,Amritsar,Commercial,Compensation,63,63,18,1,5,66,53,0.273,9.26,193
+LA01448,Punjab,Patiala,Agricultural,Compensation,90,75,46,0,7,6,56,0.334,5.33,224
+LA01449,Madhya Pradesh,Gwalior,Agricultural,Objection,182,145,41,0,3,28,23,0.274,8.22,177
+LA01450,Rajasthan,Jodhpur,Agricultural,Possession,229,155,31,0,3,13,6,0.107,11.51,122
+LA01451,Gujarat,Surat,Agricultural,Compensation,43,43,27,0,3,67,18,0.239,23.51,180
+LA01452,Rajasthan,Jaipur,Residential,Compensation,213,74,56,1,9,97,35,0.386,22.33,313
+LA01453,Rajasthan,Jodhpur,Residential,Notification,180,163,53,1,12,2,27,0.327,1.64,260
+LA01454,Gujarat,Surat,Agricultural,Notification,46,25,60,0,10,6,15,0.366,3.86,188
+LA01455,Uttar Pradesh,Varanasi,Industrial,Possession,147,70,41,0,4,14,1,0.305,8.11,149
+LA01456,Rajasthan,Udaipur,Agricultural,Compensation,159,51,22,0,2,81,56,0.122,35.6,190
+LA01457,Punjab,Bathinda,Agricultural,Possession,97,97,7,0,1,7,54,0.078,0.5,115
+LA01458,Maharashtra,Pune,Residential,Possession,384,110,8,0,0,30,13,0.02,4.01,112
+LA01459,Gujarat,Rajkot,Agricultural,Notification,64,64,58,0,10,19,63,0.159,1.6,211
+LA01460,Uttar Pradesh,Agra,Agricultural,Compensation,302,31,22,0,4,37,79,0.146,1.88,151
+LA01461,Madhya Pradesh,Indore,Residential,Compensation,343,142,7,1,2,81,80,0.272,19.8,194
+LA01462,Gujarat,Rajkot,Agricultural,Compensation,409,120,14,0,6,51,15,0.095,4.34,168
+LA01463,Rajasthan,Udaipur,Agricultural,Notification,286,155,2,0,1,21,34,0.203,0.72,104
+LA01464,Rajasthan,Jaipur,Residential,Objection,285,82,32,0,5,26,4,0.186,6.31,157
+LA01465,Punjab,Amritsar,Agricultural,Compensation,388,31,36,0,1,117,0,0.192,56.59,216
+LA01466,Rajasthan,Kota,Commercial,Compensation,432,63,23,1,4,85,68,0.245,1.21,220
+LA01467,Uttar Pradesh,Kanpur,Commercial,Compensation,129,114,45,0,6,52,78,0.328,12.59,218
+LA01468,Maharashtra,Nashik,Agricultural,Objection,404,47,29,0,9,28,16,0.123,35.44,143
+LA01469,Madhya Pradesh,Gwalior,Agricultural,Objection,247,17,58,0,7,6,37,0.287,7.03,180
+LA01470,Rajasthan,Udaipur,Agricultural,Possession,76,76,46,0,11,15,1,0.219,50.81,188
+LA01471,Punjab,Ludhiana,Residential,Objection,318,98,5,0,1,15,66,0.055,3.82,92
+LA01472,Madhya Pradesh,Gwalior,Agricultural,Objection,490,74,17,0,5,17,44,0.152,31.37,144
+LA01473,Maharashtra,Nagpur,Industrial,Compensation,96,96,46,1,12,35,23,0.356,24.78,262
+LA01474,Gujarat,Rajkot,Agricultural,Objection,36,36,33,0,8,16,78,0.296,7.15,170
+LA01475,Punjab,Amritsar,Residential,Compensation,461,5,46,0,11,74,11,0.262,1.67,219
+LA01476,Gujarat,Ahmedabad,Agricultural,Objection,311,82,21,0,8,7,21,0.214,2.71,146
+LA01477,Maharashtra,Nagpur,Agricultural,Possession,133,49,3,0,0,19,60,0.104,0.71,85
+LA01478,Maharashtra,Nagpur,Agricultural,Possession,403,21,48,0,11,24,33,0.382,13.39,194
+LA01479,Gujarat,Surat,Residential,Possession,215,11,48,0,5,20,56,0.234,11.87,180
+LA01480,Maharashtra,Aurangabad,Industrial,Compensation,186,82,39,1,5,71,19,0.303,8.0,246
+LA01481,Rajasthan,Udaipur,Agricultural,Objection,166,100,25,1,6,7,53,0.339,6.54,195
+LA01482,Rajasthan,Jaipur,Agricultural,Compensation,311,94,1,0,2,111,45,0.062,28.72,170
+LA01483,Gujarat,Rajkot,Agricultural,Possession,93,93,44,0,5,29,3,0.284,9.95,177
+LA01484,Rajasthan,Jaipur,Agricultural,Compensation,200,85,40,0,1,81,26,0.409,4.24,224
+LA01485,Maharashtra,Nashik,Industrial,Compensation,173,108,41,0,4,2,24,0.153,8.56,244
+LA01486,Punjab,Ludhiana,Industrial,Compensation,58,58,11,0,2,30,47,0.245,57.25,146
+LA01487,Rajasthan,Jodhpur,Industrial,Compensation,389,120,44,0,8,68,35,0.211,13.77,249
+LA01488,Rajasthan,Udaipur,Agricultural,Compensation,33,33,44,0,4,102,38,0.349,5.0,201
+LA01489,Rajasthan,Jodhpur,Agricultural,Objection,482,44,52,1,8,11,13,0.433,7.07,208
+LA01490,Uttar Pradesh,Kanpur,Residential,Compensation,74,74,35,0,10,6,75,0.271,11.74,212
+LA01491,Gujarat,Ahmedabad,Agricultural,Compensation,198,127,44,0,4,115,60,0.23,4.85,270
+LA01492,Maharashtra,Nagpur,Residential,Notification,76,76,25,0,6,6,54,0.159,4.44,155
+LA01493,Rajasthan,Jodhpur,Agricultural,Possession,202,5,42,1,11,27,22,0.291,7.31,197
+LA01494,Gujarat,Vadodara,Agricultural,Compensation,317,100,42,0,5,13,55,0.238,33.75,228
+LA01495,Maharashtra,Aurangabad,Industrial,Notification,71,71,47,1,11,0,19,0.352,16.3,196
+LA01496,Maharashtra,Nagpur,Agricultural,Possession,277,118,52,1,14,4,39,0.405,4.91,269
+LA01497,Uttar Pradesh,Lucknow,Industrial,Compensation,393,5,1,0,1,26,21,0.02,17.62,83
+LA01498,Madhya Pradesh,Indore,Agricultural,Compensation,244,55,47,0,4,77,24,0.254,7.45,220
+LA01499,Maharashtra,Pune,Agricultural,Objection,82,82,48,0,5,20,52,0.359,10.43,205
+LA01500,Punjab,Amritsar,Agricultural,Possession,355,147,33,0,4,24,25,0.279,9.52,171
+LA01501,Uttar Pradesh,Lucknow,Agricultural,Objection,117,83,32,0,5,20,59,0.204,0.9,153
+LA01502,Gujarat,Vadodara,Agricultural,Compensation,37,37,44,0,11,98,40,0.461,0.5,255
+LA01503,Gujarat,Surat,Agricultural,Notification,235,145,28,0,6,3,79,0.144,9.27,182
+LA01504,Gujarat,Ahmedabad,Residential,Compensation,157,52,25,0,1,68,15,0.163,3.15,160
+LA01505,Uttar Pradesh,Lucknow,Industrial,Compensation,43,39,49,1,7,4,76,0.249,1.43,238
+LA01506,Gujarat,Rajkot,Agricultural,Compensation,396,163,48,1,9,28,10,0.334,3.25,259
+LA01507,Punjab,Bathinda,Agricultural,Compensation,312,108,13,0,6,69,44,0.281,18.63,194
+LA01508,Maharashtra,Aurangabad,Agricultural,Possession,458,154,50,0,8,29,30,0.242,10.57,233
+LA01509,Punjab,Ludhiana,Commercial,Compensation,256,167,20,0,8,64,60,0.044,15.99,214
+LA01510,Madhya Pradesh,Indore,Residential,Objection,236,79,9,0,4,20,10,0.189,11.62,135
+LA01511,Maharashtra,Aurangabad,Agricultural,Possession,426,13,53,0,7,15,20,0.311,2.95,194
+LA01512,Gujarat,Vadodara,Agricultural,Compensation,68,68,15,0,3,60,18,0.205,16.06,124
+LA01513,Madhya Pradesh,Bhopal,Agricultural,Possession,200,107,13,0,7,20,74,0.116,13.27,149
+LA01514,Gujarat,Ahmedabad,Agricultural,Possession,406,26,17,0,4,13,43,0.067,6.57,87
+LA01515,Gujarat,Surat,Agricultural,Possession,167,98,30,1,12,7,13,0.294,7.84,197
+LA01516,Punjab,Bathinda,Industrial,Compensation,446,9,10,0,4,64,63,0.167,16.32,87
+LA01517,Maharashtra,Pune,Agricultural,Compensation,163,56,10,0,2,71,23,0.113,3.49,138
+LA01518,Rajasthan,Udaipur,Agricultural,Notification,224,66,24,0,7,4,18,0.209,21.93,140
+LA01519,Maharashtra,Nagpur,Agricultural,Compensation,452,84,14,0,2,70,40,0.09,13.0,153
+LA01520,Maharashtra,Aurangabad,Residential,Compensation,144,104,12,1,7,37,64,0.27,7.41,180
+LA01521,Punjab,Bathinda,Agricultural,Compensation,485,152,55,1,7,21,68,0.386,34.17,329
+LA01522,Madhya Pradesh,Indore,Agricultural,Possession,50,50,36,0,9,1,1,0.168,2.03,170
+LA01523,Gujarat,Rajkot,Agricultural,Notification,155,134,1,0,1,5,72,0.097,4.66,94
+LA01524,Rajasthan,Jaipur,Residential,Objection,308,170,7,0,3,21,80,0.08,3.74,154
+LA01525,Uttar Pradesh,Agra,Agricultural,Compensation,309,136,49,1,11,120,25,0.423,10.57,276
+LA01526,Rajasthan,Jaipur,Industrial,Objection,458,49,17,0,1,10,41,0.211,24.1,134
+LA01527,Gujarat,Ahmedabad,Agricultural,Notification,482,124,10,1,8,5,30,0.271,2.76,126
+LA01528,Rajasthan,Jaipur,Agricultural,Notification,349,54,40,0,5,1,38,0.099,201.44,160
+LA01529,Rajasthan,Jaipur,Industrial,Possession,340,89,51,0,14,6,52,0.209,3.81,248
+LA01530,Punjab,Ludhiana,Commercial,Compensation,179,116,24,0,3,101,52,0.119,10.6,212
+LA01531,Rajasthan,Jodhpur,Agricultural,Notification,409,56,45,0,4,2,38,0.182,7.41,138
+LA01532,Rajasthan,Jaipur,Commercial,Notification,332,5,26,0,2,20,38,0.132,7.74,136
+LA01533,Punjab,Ludhiana,Agricultural,Compensation,41,41,7,0,2,51,39,0.183,3.35,126
+LA01534,Gujarat,Rajkot,Agricultural,Notification,421,133,48,0,3,29,33,0.31,21.49,206
+LA01535,Madhya Pradesh,Bhopal,Commercial,Compensation,199,26,56,0,11,60,9,0.264,3.15,225
+LA01536,Rajasthan,Jaipur,Commercial,Compensation,254,71,60,0,10,117,30,0.357,1.26,298
+LA01537,Rajasthan,Jaipur,Agricultural,Objection,258,51,7,0,1,27,57,0.133,2.41,103
+LA01538,Rajasthan,Jaipur,Residential,Compensation,416,177,34,1,9,44,79,0.314,31.35,258
+LA01539,Madhya Pradesh,Gwalior,Agricultural,Notification,156,156,38,0,8,13,65,0.321,25.8,235
+LA01540,Uttar Pradesh,Varanasi,Agricultural,Objection,214,126,5,1,3,30,69,0.151,0.99,189
+LA01541,Maharashtra,Nagpur,Industrial,Possession,48,48,58,1,11,16,63,0.409,16.67,276
+LA01542,Gujarat,Vadodara,Agricultural,Compensation,194,14,7,0,4,71,40,0.028,1.02,135
+LA01543,Rajasthan,Jaipur,Residential,Possession,71,48,17,0,3,30,55,0.065,7.19,156
+LA01544,Uttar Pradesh,Varanasi,Residential,Objection,304,21,59,1,8,22,67,0.294,2.21,223
+LA01545,Gujarat,Ahmedabad,Residential,Objection,450,143,34,0,6,18,18,0.132,18.01,171
+LA01546,Uttar Pradesh,Kanpur,Agricultural,Compensation,248,20,41,1,12,67,12,0.354,12.87,225
+LA01547,Madhya Pradesh,Indore,Industrial,Compensation,459,124,30,0,2,100,21,0.165,19.68,220
+LA01548,Punjab,Bathinda,Residential,Possession,490,172,46,0,9,30,42,0.237,5.5,237
+LA01549,Maharashtra,Nashik,Residential,Notification,55,55,5,0,2,21,63,0.078,6.1,74
+LA01550,Rajasthan,Kota,Agricultural,Possession,273,125,41,0,9,9,36,0.383,1.65,212
+LA01551,Gujarat,Surat,Agricultural,Possession,278,159,4,0,6,0,79,0.02,2.64,134
+LA01552,Punjab,Patiala,Agricultural,Compensation,211,80,11,0,4,17,26,0.027,19.08,142
+LA01553,Uttar Pradesh,Varanasi,Agricultural,Objection,421,83,31,1,9,15,37,0.239,10.67,196
+LA01554,Uttar Pradesh,Kanpur,Agricultural,Compensation,216,40,27,0,3,51,74,0.175,8.2,140
+LA01555,Maharashtra,Nashik,Residential,Objection,55,55,10,0,3,28,13,0.162,26.1,119
+LA01556,Rajasthan,Jodhpur,Industrial,Compensation,288,158,48,1,15,60,67,0.427,2.01,355
+LA01557,Punjab,Patiala,Agricultural,Compensation,125,121,19,0,2,61,12,0.226,15.18,175
+LA01558,Madhya Pradesh,Indore,Agricultural,Possession,197,40,52,0,8,22,73,0.269,2.27,226
+LA01559,Punjab,Ludhiana,Residential,Compensation,266,97,1,0,2,99,26,0.056,32.39,136
+LA01560,Punjab,Amritsar,Agricultural,Compensation,370,129,15,1,3,115,51,0.369,12.74,241
+LA01561,Gujarat,Ahmedabad,Industrial,Compensation,161,18,18,0,4,53,57,0.02,19.39,133
+LA01562,Gujarat,Ahmedabad,Agricultural,Compensation,209,139,36,0,3,83,30,0.217,3.66,222
+LA01563,Gujarat,Surat,Agricultural,Possession,61,40,25,0,11,21,44,0.224,65.5,151
+LA01564,Punjab,Bathinda,Agricultural,Notification,210,56,10,0,3,28,61,0.271,54.52,123
+LA01565,Uttar Pradesh,Varanasi,Industrial,Possession,303,78,35,0,7,10,70,0.084,11.36,163
+LA01566,Maharashtra,Nashik,Agricultural,Possession,320,93,58,0,8,23,8,0.265,23.93,192
+LA01567,Punjab,Amritsar,Residential,Possession,168,166,9,0,3,2,40,0.02,5.46,142
+LA01568,Uttar Pradesh,Lucknow,Agricultural,Compensation,58,44,16,1,8,25,69,0.108,2.08,179
+LA01569,Punjab,Bathinda,Agricultural,Possession,301,50,29,0,7,9,45,0.179,16.38,151
+LA01570,Punjab,Ludhiana,Industrial,Objection,338,71,44,1,8,29,2,0.417,2.95,242
+LA01571,Rajasthan,Udaipur,Agricultural,Compensation,70,70,9,0,6,60,10,0.22,27.39,144
+LA01572,Maharashtra,Aurangabad,Agricultural,Notification,267,174,14,0,4,6,66,0.094,21.07,153
+LA01573,Madhya Pradesh,Gwalior,Agricultural,Objection,74,74,15,0,2,17,34,0.19,9.35,118
+LA01574,Madhya Pradesh,Indore,Industrial,Objection,243,126,37,0,6,2,57,0.206,8.84,197
+LA01575,Rajasthan,Udaipur,Agricultural,Objection,331,166,5,0,1,3,72,0.144,19.87,146
+LA01576,Gujarat,Vadodara,Agricultural,Objection,368,154,40,0,4,13,7,0.32,9.72,242
+LA01577,Uttar Pradesh,Kanpur,Industrial,Possession,366,124,26,0,2,19,36,0.159,4.93,176
+LA01578,Madhya Pradesh,Jabalpur,Residential,Objection,387,100,20,0,0,18,11,0.236,1.62,149
+LA01579,Rajasthan,Udaipur,Industrial,Compensation,143,143,52,0,9,48,68,0.183,19.28,289
+LA01580,Uttar Pradesh,Lucknow,Commercial,Notification,428,47,50,0,5,21,36,0.318,10.66,149
+LA01581,Gujarat,Rajkot,Residential,Compensation,194,68,49,1,9,54,71,0.452,116.24,288
+LA01582,Gujarat,Rajkot,Agricultural,Compensation,206,130,54,0,7,78,24,0.357,6.71,287
+LA01583,Uttar Pradesh,Lucknow,Agricultural,Objection,400,8,15,0,2,1,11,0.042,9.99,81
+LA01584,Maharashtra,Nashik,Residential,Compensation,184,93,52,0,5,107,70,0.256,10.23,271
+LA01585,Uttar Pradesh,Varanasi,Residential,Possession,65,65,11,0,4,16,49,0.151,14.16,104
+LA01586,Gujarat,Ahmedabad,Industrial,Possession,366,36,20,0,2,24,15,0.189,2.81,111
+LA01587,Madhya Pradesh,Indore,Residential,Objection,341,146,34,0,2,23,56,0.212,6.84,184
+LA01588,Rajasthan,Kota,Agricultural,Compensation,304,77,45,1,14,66,33,0.48,16.91,296
+LA01589,Punjab,Patiala,Agricultural,Compensation,97,97,35,0,11,63,3,0.121,5.3,235
+LA01590,Rajasthan,Udaipur,Residential,Objection,327,116,34,0,4,29,21,0.188,16.28,219
+LA01591,Madhya Pradesh,Bhopal,Agricultural,Possession,123,32,23,0,3,0,60,0.031,8.14,98
+LA01592,Maharashtra,Nashik,Commercial,Objection,291,134,36,0,5,10,10,0.266,11.04,184
+LA01593,Maharashtra,Aurangabad,Residential,Possession,269,14,29,0,5,23,27,0.236,23.36,126
+LA01594,Rajasthan,Kota,Agricultural,Notification,393,47,29,0,6,19,21,0.461,5.89,131
+LA01595,Madhya Pradesh,Bhopal,Residential,Notification,489,161,36,0,11,24,59,0.31,1.73,205
+LA01596,Rajasthan,Jodhpur,Residential,Possession,119,119,37,0,4,23,69,0.244,5.66,192
+LA01597,Uttar Pradesh,Agra,Industrial,Possession,84,13,20,0,6,29,63,0.182,3.24,152
+LA01598,Madhya Pradesh,Gwalior,Agricultural,Possession,291,71,9,0,5,16,57,0.096,0.88,103
+LA01599,Punjab,Amritsar,Residential,Possession,478,21,18,0,8,25,7,0.169,6.64,139
+LA01600,Madhya Pradesh,Gwalior,Agricultural,Objection,104,52,25,1,9,4,74,0.308,9.02,210
+LA01601,Gujarat,Surat,Agricultural,Objection,259,175,10,0,6,5,13,0.02,20.51,145
+LA01602,Madhya Pradesh,Gwalior,Agricultural,Notification,221,39,11,0,2,1,32,0.138,2.36,103
+LA01603,Madhya Pradesh,Bhopal,Industrial,Compensation,179,117,58,1,12,47,67,0.415,8.07,292
+LA01604,Gujarat,Vadodara,Industrial,Objection,342,146,17,0,3,3,19,0.286,22.83,150
+LA01605,Rajasthan,Udaipur,Agricultural,Possession,169,160,45,0,7,25,17,0.241,4.16,220
+LA01606,Punjab,Ludhiana,Residential,Notification,262,67,8,0,3,15,2,0.053,12.63,87
+LA01607,Rajasthan,Jodhpur,Agricultural,Notification,428,127,59,0,7,13,29,0.322,36.51,252
+LA01608,Uttar Pradesh,Kanpur,Residential,Objection,208,90,13,1,4,19,40,0.239,1.15,142
+LA01609,Gujarat,Vadodara,Agricultural,Notification,39,23,24,1,5,11,37,0.264,9.71,127
+LA01610,Rajasthan,Kota,Residential,Objection,446,44,47,0,4,17,3,0.15,23.64,168
+LA01611,Madhya Pradesh,Gwalior,Agricultural,Compensation,159,136,13,0,4,85,16,0.121,5.2,167
+LA01612,Rajasthan,Kota,Residential,Objection,394,125,33,0,10,22,0,0.169,29.57,172
+LA01613,Madhya Pradesh,Gwalior,Agricultural,Compensation,389,96,48,1,9,68,18,0.349,13.93,257
+LA01614,Madhya Pradesh,Bhopal,Residential,Possession,277,142,2,0,1,1,48,0.148,43.35,114
+LA01615,Rajasthan,Udaipur,Residential,Compensation,71,71,2,0,3,22,0,0.039,13.23,130
+LA01616,Gujarat,Surat,Agricultural,Compensation,477,64,48,0,6,10,13,0.242,47.11,182
+LA01617,Madhya Pradesh,Bhopal,Agricultural,Objection,350,56,16,0,3,18,44,0.185,9.97,140
+LA01618,Uttar Pradesh,Agra,Commercial,Notification,229,171,55,0,9,23,45,0.269,1.88,276
+LA01619,Rajasthan,Jodhpur,Residential,Objection,432,176,56,1,10,25,72,0.605,3.93,309
+LA01620,Punjab,Ludhiana,Agricultural,Possession,401,10,53,0,12,24,46,0.309,20.46,209
+LA01621,Gujarat,Rajkot,Agricultural,Compensation,388,144,60,0,4,55,74,0.199,20.06,286
+LA01622,Rajasthan,Jaipur,Agricultural,Objection,109,28,50,0,9,21,58,0.206,5.42,206
+LA01623,Punjab,Amritsar,Residential,Compensation,328,156,24,1,4,10,44,0.197,44.89,215
+LA01624,Rajasthan,Jodhpur,Residential,Possession,164,108,60,0,10,23,31,0.244,5.19,230
+LA01625,Uttar Pradesh,Varanasi,Agricultural,Compensation,66,66,21,0,1,49,9,0.198,11.73,161
+LA01626,Punjab,Patiala,Residential,Compensation,189,128,36,0,4,69,57,0.125,11.41,220
+LA01627,Uttar Pradesh,Varanasi,Residential,Possession,78,78,1,0,1,1,75,0.059,1.95,97
+LA01628,Uttar Pradesh,Lucknow,Commercial,Compensation,79,49,58,0,13,88,29,0.4,6.62,286
+LA01629,Maharashtra,Aurangabad,Agricultural,Compensation,372,147,36,1,1,114,28,0.266,79.86,272
+LA01630,Rajasthan,Udaipur,Agricultural,Notification,266,102,57,0,9,19,7,0.351,2.94,250
+LA01631,Uttar Pradesh,Agra,Agricultural,Notification,217,100,22,0,1,4,48,0.024,13.81,104
+LA01632,Punjab,Patiala,Agricultural,Possession,120,61,19,0,6,9,25,0.129,2.33,124
+LA01633,Rajasthan,Jaipur,Agricultural,Compensation,393,6,32,1,6,65,0,0.233,2.91,157
+LA01634,Punjab,Bathinda,Agricultural,Objection,328,102,52,0,3,0,0,0.292,1.8,220
+LA01635,Maharashtra,Aurangabad,Agricultural,Compensation,305,65,33,0,6,119,27,0.125,18.94,209
+LA01636,Uttar Pradesh,Agra,Residential,Notification,119,119,48,0,8,19,37,0.43,3.09,216
+LA01637,Rajasthan,Kota,Agricultural,Possession,88,69,13,1,7,24,37,0.108,26.25,144
+LA01638,Uttar Pradesh,Agra,Residential,Objection,88,88,47,1,6,13,59,0.447,4.34,245
+LA01639,Gujarat,Ahmedabad,Agricultural,Possession,41,41,44,0,7,2,42,0.318,8.4,165
+LA01640,Gujarat,Vadodara,Residential,Compensation,486,85,54,0,10,96,63,0.314,11.15,304
+LA01641,Madhya Pradesh,Gwalior,Agricultural,Objection,203,129,4,0,1,27,24,0.1,1.47,128
+LA01642,Rajasthan,Udaipur,Commercial,Notification,340,119,24,0,4,6,18,0.32,9.06,170
+LA01643,Maharashtra,Aurangabad,Commercial,Possession,492,114,6,0,3,17,43,0.305,10.48,128
+LA01644,Uttar Pradesh,Agra,Agricultural,Notification,471,106,25,1,6,29,8,0.263,23.1,155
+LA01645,Rajasthan,Udaipur,Residential,Notification,180,169,46,0,7,11,61,0.268,2.83,225
+LA01646,Gujarat,Vadodara,Agricultural,Compensation,260,60,39,0,8,30,15,0.188,3.26,206
+LA01647,Maharashtra,Nagpur,Residential,Objection,248,81,46,0,12,25,74,0.171,14.29,235
+LA01648,Uttar Pradesh,Kanpur,Agricultural,Objection,45,45,45,1,16,24,79,0.407,30.34,238
+LA01649,Punjab,Bathinda,Agricultural,Objection,391,105,60,0,7,20,43,0.324,4.09,253
+LA01650,Punjab,Patiala,Agricultural,Possession,300,178,53,0,4,27,25,0.145,2.15,210
+LA01651,Gujarat,Ahmedabad,Industrial,Objection,204,112,36,0,8,24,27,0.258,5.38,190
+LA01652,Rajasthan,Jaipur,Agricultural,Objection,292,41,53,0,12,21,34,0.312,2.68,218
+LA01653,Rajasthan,Jodhpur,Residential,Objection,376,167,3,0,1,10,38,0.044,11.0,106
+LA01654,Uttar Pradesh,Kanpur,Agricultural,Objection,37,37,44,0,8,1,6,0.197,2.51,148
+LA01655,Rajasthan,Kota,Agricultural,Objection,334,82,32,0,3,22,16,0.232,19.55,188
+LA01656,Gujarat,Surat,Agricultural,Notification,435,30,58,0,7,26,63,0.426,9.14,236
+LA01657,Punjab,Patiala,Industrial,Notification,372,75,31,0,4,21,4,0.228,20.17,187
+LA01658,Punjab,Bathinda,Commercial,Objection,322,146,11,0,8,20,36,0.197,0.65,178
+LA01659,Punjab,Amritsar,Agricultural,Possession,72,72,44,0,10,22,70,0.187,1.27,215
+LA01660,Gujarat,Surat,Residential,Notification,380,37,58,0,8,8,7,0.266,26.91,185
+LA01661,Uttar Pradesh,Kanpur,Agricultural,Objection,383,32,1,0,1,3,74,0.134,3.6,79
+LA01662,Uttar Pradesh,Agra,Agricultural,Possession,262,175,4,0,1,19,38,0.02,1.71,139
+LA01663,Gujarat,Rajkot,Agricultural,Possession,304,83,40,1,9,29,34,0.355,6.03,243
+LA01664,Uttar Pradesh,Varanasi,Agricultural,Compensation,321,125,34,1,11,55,57,0.36,9.42,278
+LA01665,Uttar Pradesh,Kanpur,Agricultural,Objection,87,68,33,0,6,2,62,0.204,6.31,154
+LA01666,Maharashtra,Nashik,Residential,Objection,151,20,6,0,3,21,38,0.133,11.8,103
+LA01667,Madhya Pradesh,Gwalior,Agricultural,Objection,403,77,35,0,6,13,6,0.219,10.3,150
+LA01668,Madhya Pradesh,Bhopal,Industrial,Notification,488,126,35,0,7,27,78,0.167,9.78,193
+LA01669,Uttar Pradesh,Agra,Residential,Objection,157,63,51,0,9,14,0,0.182,28.46,226
+LA01670,Madhya Pradesh,Bhopal,Commercial,Compensation,218,111,24,0,4,115,70,0.165,7.29,206
+LA01671,Madhya Pradesh,Bhopal,Residential,Objection,461,82,21,0,7,1,35,0.272,7.07,195
+LA01672,Uttar Pradesh,Lucknow,Industrial,Compensation,106,64,5,0,4,109,41,0.187,16.49,174
+LA01673,Gujarat,Vadodara,Agricultural,Objection,153,49,35,0,14,10,61,0.203,12.84,180
+LA01674,Madhya Pradesh,Bhopal,Agricultural,Objection,56,50,39,0,4,13,76,0.195,3.0,177
+LA01675,Madhya Pradesh,Gwalior,Agricultural,Compensation,140,50,17,1,3,71,12,0.21,6.74,156
+LA01676,Punjab,Amritsar,Industrial,Possession,329,131,44,0,2,26,65,0.203,11.45,202
+LA01677,Rajasthan,Jodhpur,Agricultural,Objection,194,64,57,0,8,24,53,0.319,4.11,229
+LA01678,Maharashtra,Aurangabad,Residential,Compensation,493,135,11,0,2,95,29,0.207,4.31,180
+LA01679,Punjab,Patiala,Commercial,Objection,449,59,35,0,5,3,34,0.394,1.84,164
+LA01680,Uttar Pradesh,Kanpur,Agricultural,Notification,451,62,42,0,11,2,62,0.183,0.5,175
+LA01681,Punjab,Patiala,Industrial,Compensation,372,167,2,0,3,75,11,0.145,5.08,145
+LA01682,Rajasthan,Jaipur,Agricultural,Notification,360,159,11,0,4,28,40,0.17,8.39,119
+LA01683,Rajasthan,Jaipur,Agricultural,Objection,270,75,24,0,3,19,58,0.144,2.47,125
+LA01684,Madhya Pradesh,Gwalior,Residential,Compensation,496,52,9,1,3,102,43,0.135,29.31,206
+LA01685,Maharashtra,Aurangabad,Agricultural,Notification,74,74,22,0,5,9,36,0.189,2.59,135
+LA01686,Uttar Pradesh,Lucknow,Agricultural,Notification,370,17,9,0,4,10,42,0.289,18.4,101
+LA01687,Maharashtra,Pune,Agricultural,Objection,96,85,54,1,10,5,41,0.411,11.23,249
+LA01688,Maharashtra,Aurangabad,Agricultural,Possession,189,110,36,1,7,24,65,0.257,65.13,226
+LA01689,Punjab,Bathinda,Commercial,Compensation,150,123,20,0,2,116,66,0.141,12.68,238
+LA01690,Rajasthan,Jaipur,Industrial,Objection,313,23,47,1,12,6,74,0.277,1.74,235
+LA01691,Madhya Pradesh,Indore,Agricultural,Notification,400,5,2,0,0,30,5,0.088,21.21,76
+LA01692,Punjab,Patiala,Agricultural,Compensation,67,53,36,0,5,111,25,0.271,40.35,213
+LA01693,Uttar Pradesh,Lucknow,Agricultural,Notification,313,25,42,0,8,23,71,0.188,1.26,180
+LA01694,Maharashtra,Nashik,Industrial,Compensation,134,94,49,0,8,118,51,0.02,14.0,272
+LA01695,Rajasthan,Jodhpur,Residential,Compensation,66,66,14,0,1,90,30,0.153,17.47,143
+LA01696,Madhya Pradesh,Gwalior,Agricultural,Objection,226,55,36,0,8,15,50,0.182,5.97,175
+LA01697,Maharashtra,Nashik,Agricultural,Objection,303,84,47,0,7,7,37,0.198,0.66,163
+LA01698,Rajasthan,Jodhpur,Industrial,Notification,125,42,48,0,6,1,71,0.199,5.5,178
+LA01699,Maharashtra,Nashik,Industrial,Notification,213,12,11,0,3,19,45,0.157,4.13,87
+LA01700,Punjab,Bathinda,Agricultural,Objection,479,128,59,1,11,4,36,0.376,34.12,266
+LA01701,Gujarat,Ahmedabad,Commercial,Possession,193,50,17,0,6,13,50,0.226,6.76,133
+LA01702,Gujarat,Ahmedabad,Agricultural,Objection,498,101,24,0,5,29,15,0.25,4.89,169
+LA01703,Madhya Pradesh,Bhopal,Agricultural,Compensation,422,125,12,0,1,50,62,0.102,4.11,148
+LA01704,Gujarat,Rajkot,Commercial,Compensation,204,152,9,0,4,19,16,0.078,10.23,193
+LA01705,Punjab,Bathinda,Agricultural,Notification,301,37,16,0,5,22,1,0.156,7.82,106
+LA01706,Punjab,Patiala,Agricultural,Notification,364,107,9,0,4,25,4,0.108,3.35,89
+LA01707,Punjab,Ludhiana,Industrial,Objection,248,165,44,1,8,18,5,0.21,9.62,253
+LA01708,Punjab,Bathinda,Commercial,Compensation,222,90,36,0,5,96,8,0.369,4.23,250
+LA01709,Gujarat,Surat,Agricultural,Objection,185,12,24,0,1,25,4,0.223,0.55,119
+LA01710,Gujarat,Rajkot,Residential,Compensation,95,50,33,0,3,49,24,0.164,14.41,160
+LA01711,Maharashtra,Nashik,Commercial,Possession,41,41,37,1,14,16,77,0.184,13.11,258
+LA01712,Maharashtra,Aurangabad,Residential,Compensation,188,144,12,0,4,73,8,0.116,9.02,187
+LA01713,Punjab,Bathinda,Industrial,Possession,404,60,18,0,2,17,54,0.1,4.75,105
+LA01714,Madhya Pradesh,Bhopal,Residential,Compensation,139,39,53,0,9,67,70,0.279,6.88,256
+LA01715,Uttar Pradesh,Kanpur,Agricultural,Possession,114,56,1,0,0,12,65,0.02,16.76,76
+LA01716,Punjab,Amritsar,Agricultural,Possession,184,47,58,0,14,14,29,0.273,3.93,220
+LA01717,Uttar Pradesh,Agra,Commercial,Compensation,312,135,58,0,11,10,4,0.272,17.46,243
+LA01718,Maharashtra,Nashik,Industrial,Possession,131,131,16,0,2,30,29,0.125,1.69,148
+LA01719,Maharashtra,Nagpur,Agricultural,Possession,133,13,20,0,4,24,48,0.139,8.74,101
+LA01720,Uttar Pradesh,Agra,Agricultural,Compensation,82,82,13,0,4,114,61,0.138,7.58,176
+LA01721,Rajasthan,Kota,Commercial,Compensation,186,137,34,0,4,108,11,0.329,20.14,252
+LA01722,Madhya Pradesh,Gwalior,Agricultural,Compensation,132,112,13,0,2,68,24,0.088,2.95,149
+LA01723,Uttar Pradesh,Varanasi,Agricultural,Possession,421,158,48,0,2,26,48,0.179,3.29,210
+LA01724,Madhya Pradesh,Jabalpur,Industrial,Objection,456,11,24,0,4,19,57,0.034,1.83,143
+LA01725,Uttar Pradesh,Lucknow,Commercial,Possession,204,128,59,1,8,9,25,0.362,4.19,250
+LA01726,Madhya Pradesh,Jabalpur,Industrial,Compensation,70,27,52,1,10,14,66,0.27,9.54,237
+LA01727,Punjab,Ludhiana,Residential,Possession,71,71,25,0,9,7,64,0.262,1.22,146
+LA01728,Uttar Pradesh,Kanpur,Agricultural,Objection,182,92,36,0,5,22,29,0.208,4.74,163
+LA01729,Maharashtra,Nashik,Industrial,Compensation,248,20,2,0,1,17,43,0.164,13.61,105
+LA01730,Rajasthan,Kota,Agricultural,Compensation,278,136,5,1,8,101,38,0.331,6.67,227
+LA01731,Madhya Pradesh,Gwalior,Agricultural,Possession,173,136,31,0,8,10,54,0.135,7.97,171
+LA01732,Punjab,Bathinda,Industrial,Possession,196,86,29,0,7,5,26,0.168,1.64,171
+LA01733,Madhya Pradesh,Indore,Residential,Compensation,163,59,24,0,6,31,26,0.283,6.69,176
+LA01734,Punjab,Bathinda,Industrial,Compensation,273,8,6,1,5,1,34,0.226,7.6,105
+LA01735,Punjab,Amritsar,Agricultural,Notification,358,164,51,0,10,23,17,0.32,6.27,234
+LA01736,Madhya Pradesh,Bhopal,Industrial,Possession,50,37,25,0,4,14,47,0.258,8.61,165
+LA01737,Uttar Pradesh,Agra,Residential,Objection,255,153,29,0,5,17,77,0.263,5.42,173
+LA01738,Rajasthan,Kota,Residential,Compensation,335,108,25,0,5,13,28,0.21,4.68,216
+LA01739,Rajasthan,Kota,Industrial,Compensation,346,125,30,0,4,110,69,0.305,2.61,236
+LA01740,Gujarat,Rajkot,Agricultural,Objection,295,127,39,0,7,29,37,0.225,19.58,177
+LA01741,Maharashtra,Pune,Residential,Objection,277,156,46,1,3,14,13,0.389,2.17,242
+LA01742,Madhya Pradesh,Indore,Residential,Notification,350,10,33,0,8,23,40,0.197,8.65,159
+LA01743,Maharashtra,Aurangabad,Commercial,Possession,208,179,10,0,2,28,40,0.201,45.3,159
+LA01744,Rajasthan,Jodhpur,Industrial,Compensation,297,12,53,1,7,115,1,0.323,22.23,263
+LA01745,Gujarat,Ahmedabad,Residential,Notification,180,180,18,0,4,7,38,0.02,12.3,187
+LA01746,Punjab,Bathinda,Agricultural,Compensation,236,50,1,0,2,76,13,0.14,9.49,121
+LA01747,Punjab,Amritsar,Agricultural,Objection,88,88,3,0,0,24,64,0.02,6.5,157
+LA01748,Maharashtra,Aurangabad,Industrial,Possession,194,19,47,1,8,24,43,0.271,3.0,231
+LA01749,Madhya Pradesh,Jabalpur,Industrial,Objection,96,86,24,0,4,29,24,0.273,5.73,164
+LA01750,Madhya Pradesh,Jabalpur,Industrial,Objection,136,100,2,0,0,0,0,0.164,13.13,100
+LA01751,Punjab,Patiala,Agricultural,Notification,227,172,49,0,6,29,46,0.236,10.91,220
+LA01752,Punjab,Bathinda,Agricultural,Compensation,265,26,19,0,1,45,57,0.02,16.26,138
+LA01753,Uttar Pradesh,Varanasi,Commercial,Compensation,473,11,59,0,5,73,34,0.339,25.02,254
+LA01754,Maharashtra,Nashik,Commercial,Compensation,42,42,53,0,9,15,73,0.337,6.31,237
+LA01755,Uttar Pradesh,Lucknow,Agricultural,Compensation,453,13,3,0,4,91,15,0.14,8.95,94
+LA01756,Gujarat,Surat,Residential,Objection,184,141,42,0,7,2,61,0.279,1.11,246
+LA01757,Maharashtra,Nagpur,Agricultural,Objection,371,11,37,1,4,3,40,0.303,70.54,188
+LA01758,Uttar Pradesh,Kanpur,Agricultural,Objection,349,175,11,0,4,15,25,0.094,4.88,122
+LA01759,Uttar Pradesh,Lucknow,Agricultural,Possession,487,98,21,1,10,11,23,0.185,14.18,174
+LA01760,Uttar Pradesh,Kanpur,Agricultural,Notification,81,81,30,1,5,10,36,0.239,4.88,184
+LA01761,Maharashtra,Pune,Agricultural,Possession,485,27,9,0,1,5,6,0.139,4.77,90
+LA01762,Maharashtra,Nagpur,Industrial,Objection,59,53,44,0,9,30,52,0.279,5.83,197
+LA01763,Rajasthan,Kota,Residential,Notification,443,85,17,0,6,10,33,0.215,2.13,148
+LA01764,Uttar Pradesh,Kanpur,Industrial,Objection,337,10,57,1,7,14,55,0.281,0.62,227
+LA01765,Uttar Pradesh,Agra,Agricultural,Notification,256,23,49,0,6,4,41,0.131,23.56,164
+LA01766,Punjab,Amritsar,Agricultural,Compensation,217,62,39,0,11,49,79,0.208,12.75,210
+LA01767,Uttar Pradesh,Kanpur,Agricultural,Compensation,74,74,8,0,2,87,6,0.03,2.96,56
+LA01768,Maharashtra,Nagpur,Residential,Objection,407,129,2,0,0,30,39,0.102,11.61,107
+LA01769,Rajasthan,Udaipur,Agricultural,Compensation,372,20,9,0,5,72,43,0.02,16.84,138
+LA01770,Gujarat,Surat,Residential,Compensation,471,15,30,1,9,9,20,0.397,3.69,189
+LA01771,Maharashtra,Nashik,Commercial,Possession,374,120,47,0,8,16,54,0.195,11.15,236
+LA01772,Maharashtra,Nashik,Industrial,Possession,480,68,10,0,2,2,29,0.246,20.22,132
+LA01773,Maharashtra,Nagpur,Agricultural,Compensation,447,144,43,0,9,80,61,0.29,1.75,263
+LA01774,Maharashtra,Pune,Agricultural,Possession,230,57,3,0,0,2,74,0.02,12.6,75
+LA01775,Madhya Pradesh,Indore,Agricultural,Compensation,361,68,16,0,5,29,69,0.314,10.64,130
+LA01776,Rajasthan,Jaipur,Agricultural,Compensation,154,43,36,0,4,80,51,0.235,48.45,174
+LA01777,Gujarat,Vadodara,Residential,Compensation,404,51,50,1,13,34,58,0.394,12.9,247
+LA01778,Rajasthan,Udaipur,Agricultural,Notification,316,129,47,0,7,15,70,0.253,4.9,223
+LA01779,Gujarat,Rajkot,Residential,Compensation,237,87,32,0,8,66,79,0.245,5.5,223
+LA01780,Madhya Pradesh,Indore,Agricultural,Possession,325,121,3,0,1,19,58,0.135,55.89,107
+LA01781,Rajasthan,Jaipur,Industrial,Notification,160,18,18,0,3,28,73,0.08,5.18,101
+LA01782,Maharashtra,Pune,Industrial,Possession,323,99,48,0,10,26,78,0.251,13.28,221
+LA01783,Rajasthan,Jaipur,Agricultural,Possession,253,85,5,0,0,5,14,0.107,5.82,101
+LA01784,Punjab,Bathinda,Industrial,Objection,181,165,43,0,4,21,40,0.285,21.79,230
+LA01785,Madhya Pradesh,Jabalpur,Agricultural,Compensation,489,79,43,1,9,41,28,0.396,22.89,265
+LA01786,Gujarat,Vadodara,Residential,Possession,60,23,46,1,4,26,76,0.362,7.22,173
+LA01787,Gujarat,Ahmedabad,Industrial,Possession,386,127,14,0,3,14,60,0.091,4.92,156
+LA01788,Rajasthan,Jaipur,Commercial,Notification,128,31,15,0,5,23,71,0.094,4.8,110
+LA01789,Maharashtra,Aurangabad,Commercial,Objection,134,134,12,0,3,16,28,0.033,1.31,135
+LA01790,Madhya Pradesh,Indore,Agricultural,Compensation,102,72,24,0,5,12,68,0.221,8.17,197
+LA01791,Uttar Pradesh,Lucknow,Commercial,Objection,78,78,32,1,7,28,6,0.257,8.01,190
+LA01792,Punjab,Ludhiana,Residential,Objection,88,88,8,0,0,4,76,0.093,3.27,127
+LA01793,Maharashtra,Nashik,Agricultural,Notification,422,86,35,0,4,28,18,0.23,1.18,138
+LA01794,Gujarat,Vadodara,Agricultural,Notification,466,107,15,1,8,14,42,0.249,9.08,160
+LA01795,Maharashtra,Aurangabad,Commercial,Compensation,305,37,34,0,4,36,58,0.207,10.3,162
+LA01796,Gujarat,Surat,Residential,Compensation,36,18,19,0,3,55,60,0.08,10.96,148
+LA01797,Punjab,Patiala,Agricultural,Compensation,437,139,58,0,12,36,17,0.329,2.75,282
+LA01798,Gujarat,Ahmedabad,Industrial,Compensation,313,173,20,0,8,64,44,0.141,10.99,241
+LA01799,Maharashtra,Pune,Residential,Objection,275,156,53,1,9,14,42,0.377,6.18,261
+LA01800,Uttar Pradesh,Lucknow,Agricultural,Objection,476,58,11,0,2,12,62,0.215,17.54,111
+LA01801,Rajasthan,Udaipur,Agricultural,Notification,223,68,6,0,2,13,25,0.145,2.79,73
+LA01802,Maharashtra,Nagpur,Residential,Objection,199,68,12,0,2,19,61,0.08,23.34,119
+LA01803,Maharashtra,Aurangabad,Commercial,Objection,397,128,26,0,7,25,49,0.173,33.45,175
+LA01804,Gujarat,Ahmedabad,Residential,Notification,278,114,55,0,5,12,61,0.41,8.3,190
+LA01805,Rajasthan,Jaipur,Agricultural,Notification,367,145,11,0,4,0,70,0.102,11.06,113
+LA01806,Rajasthan,Udaipur,Residential,Notification,357,171,48,0,6,17,34,0.263,16.18,222
+LA01807,Rajasthan,Jaipur,Residential,Compensation,425,74,42,0,9,89,35,0.298,2.65,240
+LA01808,Maharashtra,Pune,Commercial,Compensation,179,121,21,0,6,117,64,0.183,4.54,240
+LA01809,Rajasthan,Kota,Agricultural,Possession,63,63,21,0,6,3,63,0.136,8.88,152
+LA01810,Punjab,Patiala,Commercial,Compensation,254,173,57,1,13,2,70,0.346,56.09,314
+LA01811,Gujarat,Ahmedabad,Agricultural,Compensation,334,67,43,0,7,9,44,0.244,2.23,175
+LA01812,Uttar Pradesh,Agra,Agricultural,Notification,414,38,15,0,2,11,51,0.189,38.01,108
+LA01813,Madhya Pradesh,Gwalior,Residential,Compensation,155,71,55,0,14,70,4,0.406,6.09,269
+LA01814,Maharashtra,Nashik,Residential,Notification,381,113,25,0,7,22,36,0.064,7.14,148
+LA01815,Punjab,Amritsar,Agricultural,Objection,421,172,5,0,1,4,19,0.241,24.98,155
+LA01816,Rajasthan,Jaipur,Commercial,Objection,410,150,49,0,6,19,69,0.24,55.78,256
+LA01817,Gujarat,Surat,Agricultural,Objection,410,8,53,0,10,10,9,0.359,11.28,193
+LA01818,Gujarat,Rajkot,Agricultural,Objection,495,94,27,0,4,11,63,0.123,23.68,164
+LA01819,Rajasthan,Kota,Agricultural,Compensation,341,33,43,0,8,45,67,0.118,2.94,221
+LA01820,Gujarat,Rajkot,Agricultural,Possession,204,68,15,0,5,25,38,0.037,4.35,107
+LA01821,Gujarat,Ahmedabad,Residential,Compensation,235,171,52,1,13,36,54,0.362,1.91,298
+LA01822,Madhya Pradesh,Bhopal,Commercial,Compensation,381,178,23,0,6,10,46,0.214,4.41,209
+LA01823,Gujarat,Vadodara,Residential,Compensation,141,32,17,0,3,35,55,0.148,13.0,125
+LA01824,Punjab,Ludhiana,Agricultural,Notification,313,29,31,0,3,23,55,0.174,9.14,132
+LA01825,Madhya Pradesh,Gwalior,Agricultural,Compensation,299,127,17,0,10,29,20,0.249,41.56,188
+LA01826,Punjab,Bathinda,Agricultural,Compensation,343,77,38,0,4,106,55,0.221,57.67,226
+LA01827,Rajasthan,Jodhpur,Residential,Objection,228,81,45,0,6,18,73,0.272,6.45,207
+LA01828,Punjab,Patiala,Agricultural,Objection,378,158,25,0,4,13,25,0.424,3.74,218
+LA01829,Uttar Pradesh,Kanpur,Agricultural,Possession,63,63,48,0,2,10,24,0.251,23.57,191
+LA01830,Punjab,Ludhiana,Commercial,Compensation,383,163,26,0,3,46,23,0.121,26.16,204
+LA01831,Maharashtra,Aurangabad,Residential,Compensation,412,142,59,1,12,115,73,0.449,11.49,355
+LA01832,Punjab,Ludhiana,Agricultural,Compensation,447,177,16,0,5,93,71,0.205,14.96,248
+LA01833,Uttar Pradesh,Varanasi,Agricultural,Objection,464,131,43,0,4,7,28,0.263,12.8,189
+LA01834,Rajasthan,Kota,Residential,Compensation,194,160,33,0,6,76,75,0.22,2.75,234
+LA01835,Maharashtra,Pune,Agricultural,Objection,51,51,57,0,11,8,61,0.42,2.18,238
+LA01836,Rajasthan,Kota,Agricultural,Objection,337,13,14,0,7,25,32,0.252,7.02,128
+LA01837,Punjab,Ludhiana,Industrial,Compensation,72,72,12,0,2,71,66,0.117,6.04,173
+LA01838,Gujarat,Vadodara,Agricultural,Notification,162,162,53,0,14,22,73,0.242,9.75,270
+LA01839,Gujarat,Rajkot,Agricultural,Compensation,360,59,55,0,10,9,70,0.327,6.48,230
+LA01840,Uttar Pradesh,Varanasi,Agricultural,Objection,310,80,45,0,6,15,38,0.198,1.35,166
+LA01841,Maharashtra,Aurangabad,Agricultural,Compensation,315,105,29,1,10,68,17,0.372,0.89,228
+LA01842,Rajasthan,Jodhpur,Agricultural,Compensation,383,119,25,0,5,35,13,0.211,15.45,193
+LA01843,Madhya Pradesh,Gwalior,Agricultural,Compensation,107,107,40,0,5,16,67,0.444,3.81,213
+LA01844,Punjab,Amritsar,Residential,Compensation,402,74,45,1,8,73,59,0.471,5.86,242
+LA01845,Madhya Pradesh,Jabalpur,Agricultural,Possession,306,155,17,0,4,1,57,0.061,4.23,152
+LA01846,Uttar Pradesh,Agra,Industrial,Compensation,227,148,1,1,2,97,3,0.146,2.97,171
+LA01847,Maharashtra,Aurangabad,Industrial,Compensation,248,170,5,0,1,107,78,0.02,2.89,162
+LA01848,Uttar Pradesh,Agra,Agricultural,Compensation,269,106,21,0,3,108,9,0.02,20.49,179
+LA01849,Uttar Pradesh,Kanpur,Agricultural,Objection,289,18,41,0,6,27,47,0.245,5.82,166
+LA01850,Rajasthan,Jaipur,Commercial,Objection,187,153,27,0,2,22,76,0.083,13.94,221
+LA01851,Rajasthan,Kota,Industrial,Objection,135,18,38,0,3,10,19,0.35,15.94,161
+LA01852,Gujarat,Ahmedabad,Industrial,Objection,109,39,29,0,7,15,41,0.288,10.14,175
+LA01853,Maharashtra,Pune,Agricultural,Objection,190,55,16,0,4,18,68,0.122,16.48,131
+LA01854,Rajasthan,Jodhpur,Agricultural,Objection,152,37,45,0,6,10,21,0.223,7.5,161
+LA01855,Rajasthan,Jodhpur,Agricultural,Compensation,273,132,44,1,4,36,8,0.461,28.9,243
+LA01856,Punjab,Patiala,Commercial,Objection,459,82,58,0,3,4,38,0.426,16.83,249
+LA01857,Maharashtra,Nashik,Residential,Possession,80,43,50,0,7,13,64,0.194,19.23,211
+LA01858,Uttar Pradesh,Lucknow,Agricultural,Objection,175,5,23,0,6,7,46,0.088,2.89,91
+LA01859,Uttar Pradesh,Agra,Residential,Compensation,53,43,43,0,8,76,35,0.222,9.61,200
+LA01860,Madhya Pradesh,Indore,Agricultural,Notification,489,126,22,0,4,19,51,0.199,1.18,130
+LA01861,Madhya Pradesh,Gwalior,Residential,Compensation,360,144,53,0,11,60,4,0.246,29.99,289
+LA01862,Gujarat,Vadodara,Agricultural,Notification,143,57,37,0,5,11,28,0.256,3.96,120
+LA01863,Punjab,Ludhiana,Residential,Compensation,225,17,51,0,8,75,71,0.431,4.55,266
+LA01864,Maharashtra,Nagpur,Residential,Objection,370,103,17,0,5,1,31,0.037,1.88,141
+LA01865,Punjab,Patiala,Residential,Possession,481,142,1,0,2,26,78,0.052,7.13,133
+LA01866,Maharashtra,Aurangabad,Agricultural,Objection,300,17,9,0,3,10,44,0.02,5.65,77
+LA01867,Rajasthan,Kota,Commercial,Compensation,157,145,32,0,4,76,75,0.133,45.73,261
+LA01868,Madhya Pradesh,Jabalpur,Residential,Objection,358,35,58,0,9,11,50,0.277,17.45,221
+LA01869,Rajasthan,Jaipur,Agricultural,Compensation,352,50,38,0,7,114,33,0.169,4.42,191
+LA01870,Madhya Pradesh,Gwalior,Agricultural,Compensation,333,114,49,1,11,17,74,0.415,1.4,260
+LA01871,Rajasthan,Jaipur,Residential,Objection,51,14,29,0,4,24,21,0.202,0.75,108
+LA01872,Gujarat,Ahmedabad,Agricultural,Objection,362,58,58,0,7,8,31,0.321,2.65,235
+LA01873,Uttar Pradesh,Varanasi,Agricultural,Notification,39,29,57,1,10,9,58,0.375,1.95,249
+LA01874,Punjab,Amritsar,Agricultural,Notification,456,42,14,0,4,21,70,0.12,10.47,129
+LA01875,Maharashtra,Nagpur,Agricultural,Possession,445,141,52,1,10,16,15,0.354,6.39,250
+LA01876,Rajasthan,Kota,Agricultural,Objection,295,45,2,0,3,23,80,0.073,7.52,76
+LA01877,Gujarat,Vadodara,Residential,Notification,334,12,36,0,11,3,34,0.262,2.86,134
+LA01878,Punjab,Ludhiana,Agricultural,Possession,61,42,27,0,2,29,27,0.025,8.6,103
+LA01879,Madhya Pradesh,Bhopal,Residential,Notification,441,20,19,0,4,7,10,0.178,1.79,95
+LA01880,Rajasthan,Jaipur,Agricultural,Objection,157,114,57,1,13,3,2,0.336,6.76,280
+LA01881,Maharashtra,Aurangabad,Agricultural,Compensation,153,153,40,0,2,40,45,0.197,16.95,249
+LA01882,Gujarat,Ahmedabad,Agricultural,Possession,363,34,9,0,3,9,48,0.02,5.13,79
+LA01883,Gujarat,Vadodara,Commercial,Compensation,472,133,9,0,4,13,7,0.091,11.51,108
+LA01884,Punjab,Amritsar,Industrial,Compensation,262,68,8,1,2,86,73,0.234,1.02,167
+LA01885,Uttar Pradesh,Lucknow,Agricultural,Possession,269,17,19,1,8,19,44,0.299,0.94,172
+LA01886,Gujarat,Surat,Agricultural,Notification,288,126,5,0,3,19,4,0.02,10.25,97
+LA01887,Uttar Pradesh,Lucknow,Agricultural,Possession,167,41,16,0,7,24,68,0.183,21.05,128
+LA01888,Maharashtra,Pune,Agricultural,Possession,310,95,46,1,12,0,15,0.456,5.82,224
+LA01889,Rajasthan,Jaipur,Commercial,Possession,482,94,53,0,8,2,54,0.242,63.13,211
+LA01890,Maharashtra,Aurangabad,Agricultural,Objection,210,110,48,0,13,6,54,0.274,1.74,210
+LA01891,Gujarat,Vadodara,Industrial,Notification,394,28,30,0,3,13,65,0.026,3.74,164
+LA01892,Gujarat,Rajkot,Residential,Compensation,394,49,42,0,8,19,65,0.171,8.5,239
+LA01893,Punjab,Amritsar,Agricultural,Compensation,430,134,57,1,13,22,79,0.427,11.76,298
+LA01894,Madhya Pradesh,Bhopal,Commercial,Compensation,370,169,4,0,6,64,7,0.182,4.12,149
+LA01895,Rajasthan,Kota,Agricultural,Possession,464,7,55,0,8,15,29,0.241,2.56,187
+LA01896,Punjab,Bathinda,Commercial,Compensation,366,77,44,1,6,87,29,0.56,13.74,275
+LA01897,Uttar Pradesh,Kanpur,Agricultural,Objection,489,160,24,0,4,16,30,0.197,8.44,186
+LA01898,Punjab,Ludhiana,Commercial,Objection,366,55,27,0,2,19,19,0.077,5.24,154
+LA01899,Madhya Pradesh,Indore,Agricultural,Notification,424,83,27,0,3,23,18,0.283,12.17,119
+LA01900,Maharashtra,Aurangabad,Agricultural,Notification,449,164,10,0,4,26,78,0.023,6.45,166
+LA01901,Uttar Pradesh,Kanpur,Commercial,Notification,493,175,14,0,3,29,72,0.161,6.43,163
+LA01902,Uttar Pradesh,Varanasi,Agricultural,Possession,310,120,18,0,3,12,55,0.075,6.19,151
+LA01903,Madhya Pradesh,Gwalior,Agricultural,Compensation,364,127,1,0,1,111,44,0.02,3.25,150
+LA01904,Gujarat,Ahmedabad,Commercial,Compensation,485,113,31,0,3,97,38,0.271,2.94,245
+LA01905,Gujarat,Rajkot,Agricultural,Objection,209,54,29,0,5,10,55,0.171,4.37,110
+LA01906,Gujarat,Rajkot,Industrial,Compensation,86,86,20,0,2,115,69,0.292,7.63,224
+LA01907,Gujarat,Vadodara,Residential,Possession,446,10,11,0,4,18,34,0.045,1.14,76
+LA01908,Rajasthan,Udaipur,Residential,Possession,327,15,59,0,4,2,43,0.17,19.01,186
+LA01909,Rajasthan,Jaipur,Agricultural,Compensation,231,110,41,1,8,2,73,0.301,7.53,268
+LA01910,Punjab,Bathinda,Agricultural,Possession,367,152,29,1,11,1,73,0.535,2.55,226
+LA01911,Rajasthan,Jaipur,Industrial,Compensation,45,45,44,0,6,40,18,0.313,37.21,193
+LA01912,Punjab,Bathinda,Agricultural,Compensation,254,124,23,0,1,35,19,0.207,7.7,165
+LA01913,Rajasthan,Jaipur,Agricultural,Possession,155,71,13,0,2,10,16,0.176,1.94,98
+LA01914,Madhya Pradesh,Gwalior,Agricultural,Objection,165,68,41,0,5,6,2,0.195,35.58,145
+LA01915,Gujarat,Rajkot,Agricultural,Objection,486,79,47,1,11,16,56,0.585,28.64,259
+LA01916,Uttar Pradesh,Lucknow,Residential,Objection,289,50,40,1,4,0,34,0.365,2.98,197
+LA01917,Gujarat,Ahmedabad,Commercial,Compensation,96,78,34,0,5,2,2,0.238,5.35,189
+LA01918,Maharashtra,Aurangabad,Commercial,Compensation,201,23,1,0,0,102,16,0.162,4.68,109
+LA01919,Maharashtra,Pune,Industrial,Compensation,144,61,39,1,7,13,43,0.229,1.12,202
+LA01920,Uttar Pradesh,Kanpur,Agricultural,Objection,458,170,38,0,7,25,67,0.157,10.22,220
+LA01921,Maharashtra,Aurangabad,Agricultural,Objection,167,129,25,0,6,27,53,0.16,17.2,175
+LA01922,Uttar Pradesh,Kanpur,Agricultural,Possession,198,29,15,0,5,4,43,0.222,14.25,108
+LA01923,Madhya Pradesh,Indore,Residential,Objection,187,55,59,0,6,25,15,0.195,7.64,197
+LA01924,Maharashtra,Nashik,Agricultural,Possession,112,50,23,0,6,17,23,0.167,18.96,137
+LA01925,Maharashtra,Nagpur,Residential,Objection,397,54,17,0,6,3,63,0.135,2.37,119
+LA01926,Rajasthan,Kota,Agricultural,Compensation,301,126,43,0,7,85,62,0.119,45.53,247
+LA01927,Maharashtra,Nagpur,Commercial,Compensation,235,162,29,0,6,20,70,0.153,3.41,219
+LA01928,Rajasthan,Jaipur,Commercial,Possession,216,129,34,1,12,8,42,0.366,3.82,236
+LA01929,Gujarat,Vadodara,Industrial,Notification,344,90,39,1,7,27,22,0.212,4.16,218
+LA01930,Punjab,Patiala,Agricultural,Possession,75,33,23,0,3,22,40,0.279,3.86,108
+LA01931,Rajasthan,Kota,Industrial,Compensation,468,30,10,0,3,18,72,0.158,6.09,91
+LA01932,Maharashtra,Pune,Agricultural,Compensation,296,148,11,0,2,55,14,0.15,5.86,152
+LA01933,Punjab,Patiala,Agricultural,Compensation,137,124,57,1,12,116,68,0.404,8.41,314
+LA01934,Punjab,Patiala,Agricultural,Notification,283,94,31,0,3,28,80,0.107,3.26,106
+LA01935,Rajasthan,Jaipur,Agricultural,Compensation,431,106,26,0,1,8,66,0.121,8.73,201
+LA01936,Rajasthan,Udaipur,Residential,Objection,111,111,20,0,1,0,53,0.181,2.48,158
+LA01937,Maharashtra,Nagpur,Agricultural,Objection,276,148,44,0,7,7,33,0.196,15.37,224
+LA01938,Uttar Pradesh,Agra,Agricultural,Compensation,311,20,55,0,7,65,69,0.302,15.18,235
+LA01939,Punjab,Patiala,Residential,Compensation,411,74,47,0,10,99,13,0.193,7.35,252
+LA01940,Gujarat,Vadodara,Commercial,Notification,297,12,33,1,7,30,61,0.346,3.86,176
+LA01941,Rajasthan,Kota,Residential,Notification,376,72,29,0,7,29,32,0.238,10.09,173
+LA01942,Gujarat,Surat,Residential,Notification,394,117,52,1,8,20,40,0.248,3.04,239
+LA01943,Punjab,Bathinda,Agricultural,Notification,449,41,52,0,8,6,37,0.283,7.65,182
+LA01944,Rajasthan,Udaipur,Commercial,Compensation,200,31,24,0,7,54,0,0.056,6.35,158
+LA01945,Maharashtra,Pune,Agricultural,Notification,361,91,58,1,15,2,79,0.264,102.5,284
+LA01946,Rajasthan,Kota,Agricultural,Possession,147,97,50,1,7,24,54,0.321,2.17,241
+LA01947,Rajasthan,Jaipur,Agricultural,Objection,427,130,51,1,14,6,48,0.61,0.51,266
+LA01948,Punjab,Amritsar,Residential,Notification,478,7,4,0,1,27,8,0.158,3.91,68
+LA01949,Rajasthan,Udaipur,Agricultural,Possession,168,48,8,0,4,18,63,0.227,1.33,123
+LA01950,Gujarat,Ahmedabad,Residential,Objection,294,142,18,0,3,15,77,0.198,3.57,171
+LA01951,Punjab,Amritsar,Agricultural,Objection,417,125,46,0,6,28,65,0.269,2.02,225
+LA01952,Uttar Pradesh,Lucknow,Agricultural,Possession,42,42,5,1,10,4,20,0.289,2.99,107
+LA01953,Rajasthan,Kota,Agricultural,Possession,362,148,5,0,2,14,14,0.05,2.55,113
+LA01954,Maharashtra,Nashik,Agricultural,Compensation,416,152,2,0,3,67,29,0.131,19.36,136
+LA01955,Punjab,Patiala,Agricultural,Notification,440,94,12,1,4,5,1,0.324,7.04,124
+LA01956,Maharashtra,Aurangabad,Residential,Compensation,122,122,56,1,8,78,44,0.448,21.66,297
+LA01957,Uttar Pradesh,Kanpur,Agricultural,Possession,386,78,44,1,10,18,37,0.453,7.69,247
+LA01958,Uttar Pradesh,Kanpur,Agricultural,Possession,400,163,44,0,13,4,40,0.275,18.7,261
+LA01959,Uttar Pradesh,Lucknow,Residential,Notification,31,31,18,0,3,3,80,0.284,5.46,102
+LA01960,Gujarat,Ahmedabad,Agricultural,Objection,362,83,38,1,9,9,53,0.314,36.4,216
+LA01961,Punjab,Bathinda,Agricultural,Objection,324,125,47,0,8,25,33,0.43,11.83,228
+LA01962,Punjab,Bathinda,Agricultural,Notification,486,75,32,0,8,4,63,0.254,3.39,172
+LA01963,Rajasthan,Kota,Agricultural,Compensation,50,30,52,1,7,88,29,0.345,13.72,256
+LA01964,Madhya Pradesh,Indore,Agricultural,Objection,484,162,35,0,2,3,61,0.112,7.59,182
+LA01965,Madhya Pradesh,Bhopal,Residential,Objection,299,84,20,0,4,10,75,0.093,6.03,152
+LA01966,Madhya Pradesh,Jabalpur,Agricultural,Notification,159,159,39,0,8,16,73,0.156,8.13,203
+LA01967,Maharashtra,Aurangabad,Commercial,Compensation,212,75,57,0,9,64,42,0.29,15.66,297
+LA01968,Maharashtra,Pune,Agricultural,Notification,390,176,50,1,14,12,38,0.281,0.89,247
+LA01969,Punjab,Patiala,Residential,Objection,499,111,30,0,4,8,32,0.296,5.2,182
+LA01970,Rajasthan,Kota,Commercial,Notification,179,140,36,0,3,1,43,0.221,14.62,191
+LA01971,Madhya Pradesh,Indore,Agricultural,Possession,493,137,59,0,9,0,75,0.31,9.47,260
+LA01972,Punjab,Bathinda,Agricultural,Notification,326,40,45,1,9,4,70,0.262,2.4,193
+LA01973,Madhya Pradesh,Bhopal,Agricultural,Compensation,120,120,31,1,6,1,49,0.239,0.69,239
+LA01974,Maharashtra,Nashik,Industrial,Notification,311,171,17,0,1,1,22,0.02,40.48,94
+LA01975,Uttar Pradesh,Lucknow,Industrial,Notification,407,121,55,0,11,15,30,0.424,6.13,221
+LA01976,Rajasthan,Kota,Agricultural,Objection,55,55,59,0,7,0,19,0.187,33.58,211
+LA01977,Punjab,Patiala,Commercial,Notification,67,67,5,0,3,6,15,0.02,16.36,65
+LA01978,Maharashtra,Aurangabad,Agricultural,Notification,32,32,2,0,2,5,0,0.204,3.34,41
+LA01979,Rajasthan,Kota,Agricultural,Compensation,298,88,7,0,2,86,62,0.14,0.61,151
+LA01980,Madhya Pradesh,Bhopal,Residential,Compensation,57,57,24,0,3,102,59,0.18,4.65,180
+LA01981,Uttar Pradesh,Agra,Agricultural,Notification,469,37,10,0,3,13,14,0.148,7.12,91
+LA01982,Uttar Pradesh,Lucknow,Agricultural,Objection,90,90,53,0,6,0,55,0.354,11.6,236
+LA01983,Rajasthan,Kota,Commercial,Compensation,63,63,55,0,6,66,13,0.292,2.43,247
+LA01984,Madhya Pradesh,Gwalior,Agricultural,Objection,151,151,11,0,6,9,22,0.02,8.83,156
+LA01985,Uttar Pradesh,Varanasi,Residential,Objection,389,52,50,0,5,8,20,0.324,8.83,169
+LA01986,Madhya Pradesh,Indore,Agricultural,Notification,457,21,9,0,1,17,10,0.147,19.81,69
+LA01987,Madhya Pradesh,Indore,Agricultural,Objection,148,63,48,0,4,10,59,0.35,5.44,225
+LA01988,Gujarat,Ahmedabad,Agricultural,Compensation,274,157,22,1,2,74,3,0.161,11.5,226
+LA01989,Gujarat,Surat,Industrial,Possession,394,97,3,0,0,7,32,0.032,9.86,119
+LA01990,Punjab,Amritsar,Agricultural,Possession,405,14,26,1,6,21,39,0.314,17.74,147
+LA01991,Uttar Pradesh,Varanasi,Agricultural,Possession,102,26,50,0,7,3,46,0.193,3.25,194
+LA01992,Maharashtra,Aurangabad,Residential,Objection,424,64,57,0,7,30,15,0.105,0.5,200
+LA01993,Gujarat,Ahmedabad,Industrial,Notification,438,65,8,0,2,30,38,0.128,5.83,113
+LA01994,Uttar Pradesh,Agra,Industrial,Objection,376,28,51,0,10,8,64,0.35,5.87,240
+LA01995,Madhya Pradesh,Gwalior,Residential,Objection,278,91,18,0,4,7,30,0.141,2.32,124
+LA01996,Rajasthan,Jodhpur,Agricultural,Notification,214,89,28,0,4,0,76,0.23,1.64,119
+LA01997,Uttar Pradesh,Lucknow,Residential,Notification,448,40,7,0,1,30,34,0.139,4.16,120
+LA01998,Punjab,Bathinda,Commercial,Compensation,436,45,59,1,15,90,62,0.417,6.59,327
+LA01999,Gujarat,Vadodara,Industrial,Objection,274,121,48,0,8,0,9,0.275,8.13,213
+LA02000,Gujarat,Vadodara,Commercial,Notification,379,172,39,1,6,3,68,0.436,0.75,243
