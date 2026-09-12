@@ -109,7 +109,7 @@ def predict_case(case_data):
     # Only factors increasing delay
     explanation = explanation[explanation["shap_value"] > 0]
 
-    explanation = explanation.sort_values(by="shap_value", ascending=False)
+    explanation = explanation.sort(by="shap_value", ascending=False)
 
     # Convert to clean reasons
 

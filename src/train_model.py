@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
-df = pd.read_csv("data/nexterra_land_acquisition_2000.csv")
+df = pd.read_csv("data/nexterra_land_acquisition_8000.csv")
 
 X = df.drop(columns=["case_id", "final_additional_delay_days"])
 
@@ -63,7 +63,7 @@ print(f"RMSE : {rmse:.2f} days")
 print(f"R²   : {r2:.4f}")
 
 results = pd.DataFrame(
-    {"Actual Delay": y_test.values, "Predicted Delay": y_pred.round(0)}
+    {"Actual Delay": y_test, "Predicted Delay": y_pred.round(0)}
 )
 
 print("\n===== SAMPLE PREDICTIONS =====")
