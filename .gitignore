@@ -1,4 +1,10 @@
-models/*.pkl
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environments
 .venv/
+venv/
+
+# Trained models
+models/*.pkl
